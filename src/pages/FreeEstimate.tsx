@@ -7,7 +7,8 @@ export const FreeEstimate = () => {
     email: '',
     phone: '',
     address: '',
-    details: ''
+    details: '',
+    smsConsent: false
   });
   const [submitted, setSubmitted] = useState(false);
 
@@ -19,8 +20,9 @@ export const FreeEstimate = () => {
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const { name, value } = e.target;
-    setFormData(prev => ({ ...prev, [name]: value }));
+    const { name, value, type } = e.target as HTMLInputElement;
+    const val = type === 'checkbox' ? (e.target as HTMLInputElement).checked : value;
+    setFormData(prev => ({ ...prev, [name]: val }));
   };
 
   return (
@@ -83,7 +85,7 @@ export const FreeEstimate = () => {
                       value={formData.phone}
                       onChange={handleChange}
                       className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
-                      placeholder="(248) 555-0123"
+                      placeholder="(248) 313-8955"
                     />
                   </div>
                 </div>
@@ -126,6 +128,21 @@ export const FreeEstimate = () => {
                     className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors resize-none"
                     placeholder="Tell us a bit about what you're looking for (e.g., 6ft privacy fence, roughly 150 linear feet)..."
                   ></textarea>
+                </div>
+
+                <div className="flex items-start gap-3 p-4 bg-accent/5 rounded-xl border border-accent/10">
+                  <input
+                    type="checkbox"
+                    id="smsConsent"
+                    name="smsConsent"
+                    required
+                    checked={formData.smsConsent}
+                    onChange={handleChange}
+                    className="mt-1 w-5 h-5 rounded border-secondary/20 text-accent focus:ring-accent transition-all cursor-pointer"
+                  />
+                  <label htmlFor="smsConsent" className="text-sm text-foreground/70 leading-relaxed cursor-pointer select-none">
+                    By checking this box, I consent to receive automated promotional and personalized marketing text messages (e.g., project updates, scheduling, lead follow-ups) from BF Fence at the number provided. Consent is not a condition of any purchase. Reply HELP for help and STOP to cancel. Msg frequency varies. Msg & data rates may apply. View our <a href="/privacy-policy" className="text-accent hover:underline font-bold transition-all">Privacy Policy</a> and <a href="/terms-of-service" className="text-accent hover:underline font-bold transition-all">Terms of Service</a>.
+                  </label>
                 </div>
 
                 <button

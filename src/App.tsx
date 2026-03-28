@@ -13,6 +13,8 @@ import { Reviews } from './pages/Reviews';
 import { AboutUs } from './pages/AboutUs';
 import { Updates } from './pages/Updates';
 import { FreeEstimate } from './pages/FreeEstimate';
+import { PrivacyPolicy } from './pages/PrivacyPolicy';
+import { TermsOfService } from './pages/TermsOfService';
 
 export default function App() {
   return (
@@ -27,6 +29,8 @@ export default function App() {
           <Route path="/about" element={<AboutUs />} />
           <Route path="/updates" element={<Updates />} />
           <Route path="/free-estimate" element={<FreeEstimate />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/terms-of-service" element={<TermsOfService />} />
         </Routes>
         <Footer />
       </main>

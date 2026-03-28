@@ -96,6 +96,16 @@ export const Footer = () => {
               </a>
             </li>
             <li>
+              <Link to="/privacy-policy" className="hover:text-accent transition-colors flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Privacy Policy
+              </Link>
+            </li>
+            <li>
+              <Link to="/terms-of-service" className="hover:text-accent transition-colors flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Terms of Service
+              </Link>
+            </li>
+            <li>
               <a href="/BFFence/sitemap.xml" className="hover:text-accent transition-colors flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Sitemap
               </a>
@@ -117,6 +127,9 @@ export const Footer = () => {
                 <a href="tel:2483138955" className="text-xl font-bold hover:text-accent transition-colors tracking-tight">
                   (248) 313-8955
                 </a>
+                <p className="text-[10px] text-foreground/40 mt-2 leading-tight">
+                  By providing your phone number, you are consenting to receive text messages from BF Fence, a DBA of Renowned Value Restoration LLC. You can opt-out at any time by replying 'STOP'.
+                </p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -135,7 +148,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="container mx-auto px-4 mt-24 pt-8 border-t border-secondary/20 text-center text-foreground/40 text-sm">
-        Locally Owned & Operated in Southeast Michigan.
+        © 2026 BDBF Fence, a DBA of Renowned Value Restoration LLC. All Rights Reserved.
       </div>
     </footer>
   );
