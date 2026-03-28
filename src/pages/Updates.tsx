@@ -7,21 +7,21 @@ const BLOG_POSTS = [
     date: 'March 15, 2026',
     excerpt: 'Beat the rush this spring. We are now accepting bookings for early season wood fence installations in Oakland and Wayne counties.',
     category: 'Company News',
-    image: '/BFFence/images/hero.jpg'
+    image: '/images/hero.jpg'
   },
   {
     title: 'New High-Quality Cedar Shipment Arrives',
     date: 'March 01, 2026',
     excerpt: 'We just received our latest batch of premium Western Red Cedar. Learn why we only use the best materials for our Michigan winters.',
     category: 'Materials',
-    image: '/BFFence/images/style_board_on_board.jpg'
+    image: '/images/style_board_on_board.jpg'
   },
   {
     title: 'Project Spotlight: Custom Cap and Trim in Troy',
     date: 'February 20, 2026',
     excerpt: 'Take a look at one of our most recent installations—a beautiful 6ft cap and trim fence that perfectly fits the neighborhood aesthetic.',
     category: 'Projects',
-    image: '/BFFence/images/style_cap_and_trim.jpg'
+    image: '/images/style_cap_and_trim.jpg'
   }
 ];
 

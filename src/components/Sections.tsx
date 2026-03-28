@@ -9,7 +9,7 @@ export const EducationSection = () => {
           <div className="order-2 lg:order-1 relative group">
             <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-section-bg rotate-1 group-hover:rotate-0 transition-transform duration-700">
               <img 
-                src="/BFFence/images/post_options_group.png" 
+                src="/images/post_options_group.png" 
                 alt="Wood vs Steel Posts Comparison" 
                 className="w-full h-auto object-cover scale-105 group-hover:scale-100 transition-transform duration-700"
               />
@@ -70,12 +70,12 @@ export const InstallationSection = () => {
         
         <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {[
-            { title: 'Level Ground', image: '/BFFence/images/install_level_ground.png', desc: 'Standard installation with consistent post heights and straight rails.' },
-            { title: 'Stepped Slope', image: '/BFFence/images/install_stepped_slope.png', desc: 'Panels are stepped to follow the grade, ideal for significant elevation changes.' },
-            { title: 'Racked Slope', image: '/BFFence/images/install_racked_slope.png', desc: 'Fence panels follow the contour of the ground for a seamless bottom edge.' },
-            { title: 'Contours', image: '/BFFence/images/install_contour.png', desc: 'Custom fitting for unique landscape features and obstructions.' },
-            { title: 'Retaining Walls', image: '/BFFence/images/install_retaining_wall.png', desc: 'Specialized mounting on or near structural retaining walls.' },
-            { title: 'Unlevel Slopes', image: '/BFFence/images/install_unlevel_ground.png', desc: 'Advanced techniques for handling non-uniform terrain transitions.' },
+            { title: 'Level Ground', image: '/images/install_level_ground.png', desc: 'Standard installation with consistent post heights and straight rails.' },
+            { title: 'Stepped Slope', image: '/images/install_stepped_slope.png', desc: 'Panels are stepped to follow the grade, ideal for significant elevation changes.' },
+            { title: 'Racked Slope', image: '/images/install_racked_slope.png', desc: 'Fence panels follow the contour of the ground for a seamless bottom edge.' },
+            { title: 'Contours', image: '/images/install_contour.png', desc: 'Custom fitting for unique landscape features and obstructions.' },
+            { title: 'Retaining Walls', image: '/images/install_retaining_wall.png', desc: 'Specialized mounting on or near structural retaining walls.' },
+            { title: 'Unlevel Slopes', image: '/images/install_unlevel_ground.png', desc: 'Advanced techniques for handling non-uniform terrain transitions.' },
           ].map((item, index) => (
             <div key={index} className="group p-8 rounded-[2.5rem] bg-background border border-secondary/20 hover:border-accent/50 transition-all duration-500 shadow-xl hover:shadow-2xl">
               <div className="rounded-2xl overflow-hidden mb-8 bg-[#FFFFFF]! h-56 flex items-center justify-center p-4">

@@ -20,7 +20,7 @@ import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
-    <Router basename="/BFFence">
+    <Router>
       <ScrollToTop />
       <main className="min-h-screen font-sans selection:bg-accent selection:text-white flex flex-col">
         <Header />

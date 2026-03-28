@@ -18,7 +18,7 @@ export const AboutUs = () => {
             <div className="relative group">
               <div className="absolute inset-0 bg-accent/20 rounded-[3rem] transform rotate-3 transition-transform group-hover:rotate-0 duration-500" />
               <img 
-                src="/BFFence/images/hero.jpg" 
+                src="/images/hero.jpg" 
                 alt="Two Best Friends Building a Fence" 
                 className="relative z-10 rounded-[3rem] shadow-2xl object-cover h-[500px] w-full border border-secondary/20"
               />
