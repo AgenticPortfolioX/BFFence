@@ -16,9 +16,12 @@ import { FreeEstimate } from './pages/FreeEstimate';
 import { PrivacyPolicy } from './pages/PrivacyPolicy';
 import { TermsOfService } from './pages/TermsOfService';
 
+import ScrollToTop from './components/ScrollToTop';
+
 export default function App() {
   return (
     <Router basename="/BFFence">
+      <ScrollToTop />
       <main className="min-h-screen font-sans selection:bg-accent selection:text-white flex flex-col">
         <Header />
         <Routes>
