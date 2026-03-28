@@ -22,9 +22,9 @@ export const PrivacyPolicy = () => {
               </div>
 
               <div className="p-6 bg-accent/5 rounded-2xl border border-accent/20">
-                <h2 className="text-2xl font-bold text-accent mb-4">2. SMS Disclosure & Mobile Information</h2>
+                <h2 className="text-2xl font-bold text-accent mb-4">2. SMS Disclosure</h2>
                 <p className="font-bold text-foreground mb-4">
-                  Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+                  No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
                 </p>
               </div>
 
