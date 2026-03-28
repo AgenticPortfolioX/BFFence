@@ -7,7 +7,7 @@ export const Hero = () => {
       {/* Background Image & Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/BFFence/images/hero_bg.png" 
+          src="/BFFence/images/hero.jpg" 
           alt="Beautiful Wood Fence in Michigan" 
           className="w-full h-full object-cover"
         />
