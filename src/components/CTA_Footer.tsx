@@ -70,10 +70,8 @@ export const Footer = () => {
           <h4 className="text-xl font-bold mb-8 text-secondary">Service Areas</h4>
           <ul className="space-y-4 text-foreground/80 font-medium">
             {['Oakland County', 'Wayne County', 'Genesee County'].map(area => (
-              <li key={area}>
-                <Link to="/service-area" className="hover:text-accent transition-colors flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-accent" /> {area}
-                </Link>
+              <li key={area} className="flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> {area}
               </li>
             ))}
           </ul>
@@ -83,24 +81,19 @@ export const Footer = () => {
           <h4 className="text-xl font-bold mb-8 text-secondary">Quick Links</h4>
           <ul className="space-y-4 text-foreground/80 font-medium">
             <li>
-              <Link to="/privacy-policy" className="hover:text-accent transition-colors flex items-center gap-2">
-                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Privacy Policy
+              <Link to="/about" className="hover:text-accent transition-colors flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> About Us
               </Link>
             </li>
             <li>
-              <Link to="/terms-of-service" className="hover:text-accent transition-colors flex items-center gap-2">
-                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Terms of Service
+              <Link to="/updates" className="hover:text-accent transition-colors flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Blog & Updates
               </Link>
             </li>
             <li>
               <a href="https://agenticportfoliox.github.io/AgenticRVR/connect" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Connect
               </a>
-            </li>
-            <li>
-              <Link to="/accessibility" className="hover:text-accent transition-colors flex items-center gap-2">
-                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Accessibility
-              </Link>
             </li>
             <li>
               <a href="/BFFence/sitemap.xml" className="hover:text-accent transition-colors flex items-center gap-2">
@@ -121,7 +114,9 @@ export const Footer = () => {
               </span>
               <div>
                 <span className="text-foreground/60 block text-xs uppercase tracking-widest mb-1">CALL US</span>
-                <span className="text-xl font-bold">(248) 313-8955</span>
+                <a href="tel:2483138955" className="text-xl font-bold hover:text-accent transition-colors tracking-tight">
+                  (248) 313-8955
+                </a>
               </div>
             </div>
             <div className="flex items-start gap-4">

@@ -10,9 +10,8 @@ import { Home } from './pages/Home';
 import { ServiceArea } from './pages/ServiceArea';
 import { OurTeam } from './pages/OurTeam';
 import { Reviews } from './pages/Reviews';
-import { PrivacyPolicy } from './pages/PrivacyPolicy';
-import { TermsOfService } from './pages/TermsOfService';
-import { Accessibility } from './pages/Accessibility';
+import { AboutUs } from './pages/AboutUs';
+import { Updates } from './pages/Updates';
 import { FreeEstimate } from './pages/FreeEstimate';
 
 export default function App() {
@@ -25,9 +24,8 @@ export default function App() {
           <Route path="/service-area" element={<ServiceArea />} />
           <Route path="/our-team" element={<OurTeam />} />
           <Route path="/reviews" element={<Reviews />} />
-          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-          <Route path="/terms-of-service" element={<TermsOfService />} />
-          <Route path="/accessibility" element={<Accessibility />} />
+          <Route path="/about" element={<AboutUs />} />
+          <Route path="/updates" element={<Updates />} />
           <Route path="/free-estimate" element={<FreeEstimate />} />
         </Routes>
         <Footer />
