@@ -78,7 +78,7 @@ export const InstallationSection = () => {
             { title: 'Unlevel Slopes', image: '/BFFence/images/install_unlevel_ground.png', desc: 'Advanced techniques for handling non-uniform terrain transitions.' },
           ].map((item, index) => (
             <div key={index} className="group p-8 rounded-[2.5rem] bg-background border border-secondary/20 hover:border-accent/50 transition-all duration-500 shadow-xl hover:shadow-2xl">
-              <div className="rounded-2xl overflow-hidden mb-8 bg-section-bg/50 h-56 flex items-center justify-center p-4">
+              <div className="rounded-2xl overflow-hidden mb-8 bg-white h-56 flex items-center justify-center p-4">
                 <img 
                   src={item.image} 
                   alt={item.title} 
