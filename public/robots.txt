@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agenticportfoliox.github.io/BFFence/sitemap.xml

@@ -102,6 +102,11 @@ export const Footer = () => {
                 <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Accessibility
               </Link>
             </li>
+            <li>
+              <a href="/BFFence/sitemap.xml" className="hover:text-accent transition-colors flex items-center gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" /> Sitemap
+              </a>
+            </li>
           </ul>
         </div>
         

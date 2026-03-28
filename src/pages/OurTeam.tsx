@@ -17,10 +17,9 @@ export const OurTeam = () => {
             <div className="bg-background rounded-[3rem] p-8 border border-secondary/20 shadow-xl group hover:shadow-2xl transition-all duration-500">
               <div className="w-48 h-48 mx-auto rounded-full overflow-hidden mb-8 border-4 border-accent/20 group-hover:border-accent transition-colors">
                 <img 
-                  src="https://picsum.photos/seed/justin/400/400" 
+                  src="/BFFence/images/JG Headshot1.png" 
                   alt="Justin Gramke" 
                   className="w-full h-full object-cover"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <h3 className="text-3xl font-bold text-foreground mb-2">Justin Gramke</h3>
