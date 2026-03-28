@@ -1,14 +1,14 @@
 import React from 'react';
 
 const styles = [
-  { name: 'Dog Ear Picket', image: '/images/style_dog_ear_picket.jpg' },
-  { name: 'Post and Rail', image: '/images/style_post_and_rail.jpg' },
-  { name: 'Stockade', image: '/images/style_stockade.jpg' },
-  { name: 'Board on Board', image: '/images/style_board_on_board.jpg' },
-  { name: 'Cap and Trim', image: '/images/style_cap_and_trim.jpg' },
-  { name: 'Semi-Privacy', image: '/images/style_semi_privacy.jpg' },
-  { name: 'Shadowbox', image: '/images/style_shadowbox.jpg' },
-  { name: 'Horizontal', image: '/images/style_horizontal.jpg' },
+  { name: 'Dog Ear Picket', image: '/BFFence/images/style_dog_ear_picket.jpg' },
+  { name: 'Post and Rail', image: '/BFFence/images/style_post_and_rail.jpg' },
+  { name: 'Stockade', image: '/BFFence/images/style_stockade.jpg' },
+  { name: 'Board on Board', image: '/BFFence/images/style_board_on_board.jpg' },
+  { name: 'Cap and Trim', image: '/BFFence/images/style_cap_and_trim.jpg' },
+  { name: 'Semi-Privacy', image: '/BFFence/images/style_semi_privacy.jpg' },
+  { name: 'Shadowbox', image: '/BFFence/images/style_shadowbox.jpg' },
+  { name: 'Horizontal', image: '/BFFence/images/style_horizontal.jpg' },
 ];
 
 export const FenceGrid = () => {

@@ -17,7 +17,7 @@ import { FreeEstimate } from './pages/FreeEstimate';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/BFFence">
       <main className="min-h-screen font-sans selection:bg-accent selection:text-white flex flex-col">
         <Header />
         <Routes>

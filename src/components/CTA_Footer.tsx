@@ -13,7 +13,7 @@ export const HeightGuide = () => {
           </div>
           <div className="relative group p-12 bg-section-bg rounded-[3rem] border border-secondary/20 shadow-2xl overflow-hidden hover:shadow-3xl transition-shadow duration-500">
             <img 
-              src="/images/height_options_diagram.jpg" 
+              src="/BFFence/images/height_options_diagram.jpg" 
               alt="4ft, 6ft, 8ft Wood Fence Comparison" 
               className="w-full h-auto object-contain scale-105 group-hover:scale-100 transition-transform duration-700"
             />
