@@ -20,7 +20,7 @@ export const Hero = () => {
             Wood Fence In Southeast Michigan
           </h1>
           <p className="text-xl text-white/90 mb-8 leading-relaxed max-w-2xl">
-            Wood fencing provides a classic look that enhances any property. Whether for privacy, aesthetics, or charm, wood fences are a timeless choice for Michigan homeowners.
+            Wood fencing provides a classic look that enhances any Michigan property with privacy and security.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link to="/free-estimate" className="bg-accent text-background px-8 py-3 rounded-full font-bold hover:bg-accent/90 transition-all transform hover:scale-105 shadow-lg inline-block">

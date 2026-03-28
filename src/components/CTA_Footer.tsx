@@ -36,7 +36,7 @@ export const CTA = () => {
           Ready to <span className="underline decoration-background/50 underline-offset-8">get Started?</span>
         </h2>
         <p className="text-2xl text-background/90 mb-12 max-w-3xl mx-auto font-medium leading-relaxed">
-          Schedule a free on-site estimate today. Our experts will visit your property, discuss your needs, and provide an accurate quote for your new Michigan wood fence.
+          Schedule a free on-site estimate today. Our experts will visit your property, discuss your needs, and provide an accurate quote for your new wood fence.
         </p>
         <Link to="/free-estimate" className="inline-block bg-background text-foreground px-12 py-5 rounded-full font-black text-2xl hover:bg-secondary hover:text-background transition-all transform hover:scale-110 shadow-[0_20px_50px_rgba(0,0,0,0.3)] hover:shadow-[0_20px_50px_rgba(226,176,94,0.5)] active:scale-95 duration-300 group-hover:animate-bounce">
           Schedule Free Estimate
