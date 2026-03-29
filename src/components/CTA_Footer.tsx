@@ -119,8 +119,8 @@ export const Footer = () => {
               </span>
               <div>
                 <span className="text-foreground/60 block text-xs uppercase tracking-widest mb-1">CALL US</span>
-                <a href="tel:2483138955" className="text-xl font-bold hover:text-accent transition-colors tracking-tight">
-                  (248) 313-8955
+                <a href="tel:2486096168" className="text-xl font-bold hover:text-accent transition-colors tracking-tight">
+                  (248) 609-6168
                 </a>
                 <p className="text-[10px] text-foreground/40 mt-2 leading-tight">
                   By providing your phone number, you are consenting to receive text messages from BF Fence, a DBA of Renowned Value Restoration LLC. You can opt-out at any time by replying 'STOP'.

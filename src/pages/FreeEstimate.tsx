@@ -85,7 +85,7 @@ export const FreeEstimate = () => {
                       value={formData.phone}
                       onChange={handleChange}
                       className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
-                      placeholder="(248) 313-8955"
+                      placeholder="(248) 609-6168"
                     />
                   </div>
                 </div>
