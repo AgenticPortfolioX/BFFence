@@ -49,8 +49,8 @@ export const CTA = () => {
 export const Footer = () => {
   return (
     <footer className="bg-section-bg text-foreground py-24 border-t border-secondary/20">
-      <div className="container mx-auto px-4 grid lg:grid-cols-4 gap-16">
-        <div className="lg:col-span-1">
+      <div className="container mx-auto px-4 grid grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-16">
+        <div className="col-span-2 lg:col-span-1">
           <div className="scale-110 origin-left mb-8">
             <Logo className="text-foreground" />
           </div>
@@ -66,9 +66,9 @@ export const Footer = () => {
           </div>
         </div>
         
-        <div>
+        <div className="col-span-1">
           <h4 className="text-xl font-bold mb-8 text-secondary">Service Areas</h4>
-          <ul className="space-y-4 text-foreground/80 font-medium">
+          <ul className="space-y-4 text-foreground/80 font-medium text-sm lg:text-base">
             {['Oakland County', 'Wayne County', 'Genesee County'].map(area => (
               <li key={area} className="flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-accent" /> {area}
@@ -77,9 +77,9 @@ export const Footer = () => {
           </ul>
         </div>
         
-        <div>
+        <div className="col-span-1">
           <h4 className="text-xl font-bold mb-8 text-secondary">Quick Links</h4>
-          <ul className="space-y-4 text-foreground/80 font-medium">
+          <ul className="space-y-4 text-foreground/80 font-medium text-sm lg:text-base">
             <li>
               <Link to="/about" className="hover:text-accent transition-colors flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-accent" /> About Us
@@ -108,7 +108,7 @@ export const Footer = () => {
           </ul>
         </div>
         
-        <div className="p-8 rounded-[2rem] bg-background/50 border border-secondary/20 shadow-inner">
+        <div className="col-span-2 lg:col-span-1 p-8 rounded-[2rem] bg-background/50 border border-secondary/20 shadow-inner">
           <h4 className="text-xl font-bold mb-8 text-secondary">Contact Us</h4>
           <div className="space-y-6">
             <div className="flex items-start gap-4">
@@ -136,14 +136,15 @@ export const Footer = () => {
               </span>
               <div>
                 <span className="text-foreground/60 block text-xs uppercase tracking-widest mb-1">Our Location</span>
-                <span className="text-lg font-bold">Southeast Michigan</span>
+                <span className="text-lg font-bold block">2711 Williamsburg Cir</span>
+                <span className="text-lg font-bold block">Auburn Hills, MI 48326</span>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div className="container mx-auto px-4 mt-24 pt-8 border-t border-secondary/20 text-center text-foreground/40 text-sm">
-        © 2026 BDBF Fence, a DBA of Renowned Value Restoration LLC. All Rights Reserved.
+        © 2026 BF Fence, a DBA of Renowned Value Restoration LLC. All Rights Reserved.
       </div>
     </footer>
   );
