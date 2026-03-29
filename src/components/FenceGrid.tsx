@@ -26,26 +26,39 @@ export const FenceGrid = () => {
         </p>
       </div>
       
-      <div className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 relative z-10">
-        {styles.map((style, index) => (
-          <div key={index} className="group relative rounded-2xl overflow-hidden shadow-[0_4px_30px_rgba(0,0,0,0.1)] bg-white/5 backdrop-blur-md border border-white/10 hover:bg-white/10 hover:shadow-[0_8px_30px_rgba(0,0,0,0.2)] transition-all duration-500 transform hover:-translate-y-2">
-            <div className="aspect-[4/3] overflow-hidden">
-              <img 
-                src={style.image} 
-                alt={style.name} 
-                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-90 group-hover:opacity-100" 
-              />
-            </div>
-            <div className="p-6 text-center">
-              <h3 className="text-xl font-bold text-foreground">{style.name}</h3>
-              <div className="mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
-                <button className="text-accent font-bold text-sm uppercase tracking-wider hover:underline">
-                  View Details
-                </button>
+      <div className="container mx-auto px-4 relative z-10 lg:px-4">
+        <div className="flex md:grid md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 overflow-x-auto md:overflow-visible pb-8 md:pb-0 snap-x snap-mandatory hide-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
+          {styles.map((style, index) => (
+            <div 
+              key={index} 
+              className="group relative min-w-[85vw] md:min-w-0 rounded-2xl overflow-hidden shadow-[0_4px_30px_rgba(0,0,0,0.1)] bg-white/5 backdrop-blur-md border border-white/10 hover:bg-white/10 hover:shadow-[0_8px_30px_rgba(0,0,0,0.2)] transition-all duration-500 transform hover:-translate-y-2 snap-center"
+            >
+              <div className="aspect-[4/3] overflow-hidden">
+                <img 
+                  src={style.image} 
+                  alt={style.name} 
+                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-90 group-hover:opacity-100" 
+                />
+              </div>
+              <div className="p-6 text-center">
+                <h3 className="text-xl font-bold text-foreground">{style.name}</h3>
+                <div className="mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <button className="text-accent font-bold text-sm uppercase tracking-wider hover:underline">
+                    View Details
+                  </button>
+                </div>
               </div>
             </div>
+          ))}
+        </div>
+        
+        {/* Mobile Scroll Indicator */}
+        <div className="flex md:hidden justify-center items-center gap-2 mt-2">
+          <div className="w-12 h-1 bg-accent/30 rounded-full overflow-hidden">
+            <div className="w-1/3 h-full bg-accent rounded-full animate-pulse" />
           </div>
-        ))}
+          <span className="text-[10px] font-black uppercase tracking-widest text-accent/50">Swipe to Explore</span>
+        </div>
       </div>
     </section>
   );

@@ -68,27 +68,37 @@ export const InstallationSection = () => {
           </p>
         </div>
         
-        <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-          {[
-            { title: 'Level Ground', image: '/images/install_level_ground.png', desc: 'Standard installation with consistent post heights and straight rails.' },
-            { title: 'Stepped Slope', image: '/images/install_stepped_slope.png', desc: 'Panels are stepped to follow the grade, ideal for significant elevation changes.' },
-            { title: 'Racked Slope', image: '/images/install_racked_slope.png', desc: 'Fence panels follow the contour of the ground for a seamless bottom edge.' },
-            { title: 'Contours', image: '/images/install_contour.png', desc: 'Custom fitting for unique landscape features and obstructions.' },
-            { title: 'Retaining Walls', image: '/images/install_retaining_wall.png', desc: 'Specialized mounting on or near structural retaining walls.' },
-            { title: 'Unlevel Slopes', image: '/images/install_unlevel_ground.png', desc: 'Advanced techniques for handling non-uniform terrain transitions.' },
-          ].map((item, index) => (
-            <div key={index} className="group p-8 rounded-[2.5rem] bg-background border border-secondary/20 hover:border-accent/50 transition-all duration-500 shadow-xl hover:shadow-2xl">
-              <div className="rounded-2xl overflow-hidden mb-8 bg-[#FFFFFF]! h-56 flex items-center justify-center p-4">
-                <img 
-                  src={item.image} 
-                  alt={item.title} 
-                  className="max-h-full w-auto object-contain group-hover:scale-105 transition-transform duration-500"
-                />
+        <div className="container mx-auto px-4 md:px-4">
+          <div className="flex md:grid md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 overflow-x-auto md:overflow-visible pb-12 md:pb-0 snap-x snap-mandatory hide-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
+            {[
+              { title: 'Level Ground', image: '/images/install_level_ground.png', desc: 'Standard installation with consistent post heights and straight rails.' },
+              { title: 'Stepped Slope', image: '/images/install_stepped_slope.png', desc: 'Panels are stepped to follow the grade, ideal for significant elevation changes.' },
+              { title: 'Racked Slope', image: '/images/install_racked_slope.png', desc: 'Fence panels follow the contour of the ground for a seamless bottom edge.' },
+              { title: 'Contours', image: '/images/install_contour.png', desc: 'Custom fitting for unique landscape features and obstructions.' },
+              { title: 'Retaining Walls', image: '/images/install_retaining_wall.png', desc: 'Specialized mounting on or near structural retaining walls.' },
+              { title: 'Unlevel Slopes', image: '/images/install_unlevel_ground.png', desc: 'Advanced techniques for handling non-uniform terrain transitions.' },
+            ].map((item, index) => (
+              <div key={index} className="group min-w-[85vw] md:min-w-0 p-8 rounded-[2.5rem] bg-background border border-secondary/20 hover:border-accent/50 transition-all duration-500 shadow-xl hover:shadow-2xl snap-center">
+                <div className="rounded-2xl overflow-hidden mb-8 bg-[#FFFFFF]! h-56 flex items-center justify-center p-4">
+                  <img 
+                    src={item.image} 
+                    alt={item.title} 
+                    className="max-h-full w-auto object-contain group-hover:scale-105 transition-transform duration-500"
+                  />
+                </div>
+                <h3 className="text-2xl font-bold text-foreground mb-4 group-hover:text-accent transition-colors">{item.title}</h3>
+                <p className="text-foreground/80 leading-relaxed font-medium">{item.desc}</p>
               </div>
-              <h3 className="text-2xl font-bold text-foreground mb-4 group-hover:text-accent transition-colors">{item.title}</h3>
-              <p className="text-foreground/80 leading-relaxed font-medium">{item.desc}</p>
+            ))}
+          </div>
+
+          {/* Mobile Scroll Indicator */}
+          <div className="flex md:hidden justify-center items-center gap-2 -mt-4">
+            <div className="w-12 h-1 bg-accent/30 rounded-full overflow-hidden">
+              <div className="w-1/3 h-full bg-accent rounded-full animate-bounce" />
             </div>
-          ))}
+            <span className="text-[10px] font-black uppercase tracking-widest text-accent/50">Swipe to View Terrain</span>
+          </div>
         </div>
       </section>
     );
