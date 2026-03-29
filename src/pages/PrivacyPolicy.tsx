@@ -17,7 +17,7 @@ export const PrivacyPolicy = () => {
               <div>
                 <h2 className="text-2xl font-bold text-foreground mb-4">1. Information Collection</h2>
                 <p>
-                  We collect information you provide directly to us through lead forms, contact forms, and other communications when you request a free estimate or inquire about our services.
+                  We collect information you provide directly to us through lead forms, contact forms, and other communications when you request a free estimate or inquire about our services. This includes the <span className="font-bold underline text-accent">collection of phone numbers</span> specifically for the purpose of providing project estimates, scheduling on-site visits, and sending project-related updates.
                 </p>
               </div>
 
@@ -31,7 +31,7 @@ export const PrivacyPolicy = () => {
               <div>
                 <h2 className="text-2xl font-bold text-foreground mb-4">3. Use of Information</h2>
                 <p>
-                  We use the information we collect to provide, maintain, and improve our services, to communicate with you about your projects, and to follow up on lead requests.
+                  We primarily use the information we collect to provide and improve our services, including providing accurate estimates and following up on lead requests through phone calls or automated text messages.
                 </p>
               </div>
 
@@ -42,9 +42,14 @@ export const PrivacyPolicy = () => {
                 </p>
               </div>
 
-              <div className="pt-12 border-t border-secondary/10 text-center">
-                <p className="text-sm font-medium tracking-tight">
-                  BF Fence is a DBA of Renowned Value Restoration LLC.
+              <div className="pt-12 border-t border-secondary/10 text-center space-y-4">
+                <div className="text-foreground/80 font-medium">
+                  <p>2711 Williamsburg Cir</p>
+                  <p>Auburn Hills, MI 48326</p>
+                  <p className="mt-2 text-accent">info@bffence.com</p>
+                </div>
+                <p className="text-xs font-bold tracking-widest text-foreground/40 uppercase">
+                  BF Fence is a division of Renowned Value Restoration LLC.
                 </p>
               </div>
             </div>
