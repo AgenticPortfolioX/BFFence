@@ -144,7 +144,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="container mx-auto px-4 mt-24 pt-8 border-t border-secondary/20 text-center text-foreground/40 text-xs tracking-wide">
-        © 2026 BF Fence. BF Fence is a division of Renowned Value Restoration LLC. All Rights Reserved.
+        © 2026 BF Fence. BF Fence is a DBA of Renowned Value Restoration LLC. All Rights Reserved.
       </div>
     </footer>
   );

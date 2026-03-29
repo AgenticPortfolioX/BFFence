@@ -46,10 +46,10 @@ export const PrivacyPolicy = () => {
                 <div className="text-foreground/80 font-medium">
                   <p>2711 Williamsburg Cir</p>
                   <p>Auburn Hills, MI 48326</p>
-                  <p className="mt-2 text-accent">info@bffence.com</p>
+                  <p className="mt-2 text-accent">estimate@bffence.com</p>
                 </div>
                 <p className="text-xs font-bold tracking-widest text-foreground/40 uppercase">
-                  BF Fence is a division of Renowned Value Restoration LLC.
+                  BF Fence is a DBA of Renowned Value Restoration LLC.
                 </p>
               </div>
             </div>
