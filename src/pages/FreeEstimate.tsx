@@ -142,7 +142,7 @@ export const FreeEstimate = () => {
                     className="mt-1 w-5 h-5 rounded border-secondary/20 text-accent focus:ring-accent transition-all cursor-pointer"
                   />
                   <label htmlFor="smsConsent" className="text-sm text-foreground/70 leading-relaxed cursor-pointer select-none">
-                    By providing your phone number, you agree to receive text messages from BF Fence. Message and data rates may apply. Message frequency varies. Reply HELP for help or STOP to cancel. View our <Link to="/privacy-policy" className="text-accent hover:underline font-bold transition-all">Privacy Policy</Link> and <Link to="/terms-of-service" className="text-accent hover:underline font-bold transition-all">Terms of Service</Link>.
+                    By providing your phone number, you agree to receive text messages from BF Fence regarding your service request. Message and data rates may apply. Message frequency varies. Reply STOP to opt-out, HELP for help. View our <Link to="/privacy-policy" className="text-accent hover:underline font-bold transition-all">Privacy Policy</Link> and <Link to="/terms-of-service" className="text-accent hover:underline font-bold transition-all">Terms</Link>.
                   </label>
                 </div>
 
