@@ -38,8 +38,8 @@ export const TermsOfService = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold mb-2">3. Opt-Out and Help</h3>
-                    <p className="mb-2"><strong>To Stop:</strong> You may opt out of our mobile messaging at any time. Text STOP, END, CANCEL, UNSUBSCRIBE, or QUIT to our number. You will receive a one-time confirmation text acknowledging your request.</p>
-                    <p><strong>To Get Help:</strong> If you are experiencing issues with our messaging program, reply with the keyword HELP for more assistance, or contact our support team directly.</p>
+                    <p className="mb-2"><strong>To Stop:</strong> You may opt out of our mobile messaging at any time. Text **STOP**, END, CANCEL, UNSUBSCRIBE, or QUIT to our number. You will receive a one-time confirmation text acknowledging your request.</p>
+                    <p><strong>To Get Help:</strong> If you are experiencing issues with our messaging program, reply with the keyword **HELP** for more assistance, or contact our support team directly.</p>
                   </div>
                   <div>
                     <h3 className="text-xl font-bold mb-2">4. Carrier Disclaimer</h3>
@@ -57,6 +57,12 @@ export const TermsOfService = () => {
                     <h3 className="text-xl font-bold text-accent mb-2">6. Data Sharing & Privacy</h3>
                     <p className="font-bold text-foreground">
                       "No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties."
+                    </p>
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold mb-2">7. Consent Not a Condition of Service</h3>
+                    <p>
+                      Opting into our mobile messaging program is not required to receive a fencing estimate or to hire BF Fence for construction services. You may opt-out at any time and continue to receive project updates via email or phone call.
                     </p>
                   </div>
                 </div>
