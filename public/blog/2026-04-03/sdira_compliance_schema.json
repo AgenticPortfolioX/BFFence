@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Spring Fence Preparation: Why Western Red Cedar is Michigan's Best Choice",
+  "image": "feature_image.png",
+  "author": {
+    "@type": "Organization",
+    "name": "BF Fence"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "BF Fence",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo.png"
+    }
+  },
+  "datePublished": "2026-04-03",
+  "description": "Prepare your property for the Michigan spring. Learn why we recommend Western Red Cedar for durability and aesthetic appeal in our local climate."
+}

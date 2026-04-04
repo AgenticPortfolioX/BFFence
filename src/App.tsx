@@ -6,7 +6,8 @@ import { ServiceArea } from './pages/ServiceArea';
 import { OurTeam } from './pages/OurTeam';
 import { Reviews } from './pages/Reviews';
 import { AboutUs } from './pages/AboutUs';
-import { Updates } from './pages/Updates';
+import { BlogPosts } from './pages/BlogPosts';
+import { BlogPost } from './pages/BlogPost';
 import { FreeEstimate } from './pages/FreeEstimate';
 import { PrivacyPolicy } from './pages/PrivacyPolicy';
 import { TermsOfService } from './pages/TermsOfService';
@@ -25,7 +26,9 @@ export default function App() {
           <Route path="/our-team" element={<OurTeam />} />
           <Route path="/reviews" element={<Reviews />} />
           <Route path="/about" element={<AboutUs />} />
-          <Route path="/updates" element={<Updates />} />
+          <Route path="/blog" element={<BlogPosts />} />
+          <Route path="/blog/:id" element={<BlogPost />} />
+          <Route path="/updates" element={<BlogPosts />} />
           <Route path="/free-estimate" element={<FreeEstimate />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-of-service" element={<TermsOfService />} />
