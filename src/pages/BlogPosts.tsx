@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
+import blogPosts from '../data/blog-posts.json';
 
 interface BlogPost {
   id: string;
@@ -13,14 +14,7 @@ interface BlogPost {
 }
 
 export const BlogPosts = () => {
-  const [posts, setPosts] = useState<BlogPost[]>([]);
-
-  useEffect(() => {
-    fetch('/src/data/blog-posts.json')
-      .then(res => res.json())
-      .then(data => setPosts(data))
-      .catch(err => console.error('Error loading blog posts:', err));
-  }, []);
+  const posts = blogPosts as BlogPost[];
 
   return (
     <div className="flex flex-col min-h-screen">

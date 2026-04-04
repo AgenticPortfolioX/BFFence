@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
+import blogPosts from '../data/blog-posts.json';
 
 interface PostData {
   id: string;
@@ -19,26 +20,23 @@ export const BlogPost = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // 1. Find post metadata
-    fetch('/src/data/blog-posts.json')
-      .then(res => res.json())
-      .then(posts => {
-        const found = posts.find((p: any) => p.id === id);
-        if (found) {
-          setPost(found);
-          // 2. Fetch markdown content
-          return fetch(`/blog/${id}/final.md`);
-        }
-        throw new Error('Post not found');
-      })
-      .then(res => res.text())
-      .then(text => {
-        // 3. Clean YAML header
-        const displayContent = text.replace(/^---\s*[\s\S]*?\s*---/, '').trim();
-        setContent(displayContent);
-      })
-      .catch(err => console.error(err))
-      .finally(() => setLoading(false));
+    // 1. Find post metadata within the imported constant
+    const found = (blogPosts as PostData[]).find((p) => p.id === id);
+    if (found) {
+      setPost(found);
+      // 2. Fetch markdown content
+      fetch(`/blog/${id}/final.md`)
+        .then(res => res.text())
+        .then(text => {
+          // 3. Clean YAML header
+          const displayContent = text.replace(/^---\s*[\s\S]*?\s*---/, '').trim();
+          setContent(displayContent);
+        })
+        .catch(err => console.error(err))
+        .finally(() => setLoading(false));
+    } else {
+      setLoading(false);
+    }
   }, [id]);
 
   useEffect(() => {
