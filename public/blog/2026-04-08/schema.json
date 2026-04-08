@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/blog/spring-fence-repair-michigan-winter-damage#article",
+      "headline": "Spring Fence Repair: 7 Warning Signs Michigan Winters Left Behind on Your Wood Fence",
+      "description": "Michigan winters are tough on wood fences. Learn the 7 warning signs of winter damage and when to repair vs. replace your fence in Oakland County.",
+      "datePublished": "2026-04-08",
+      "dateModified": "2026-04-08",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/",
+        "telephone": "(248) 604-6168",
+        "email": "estimate@bffence.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://bffence.com/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/spring-fence-repair-michigan-winter-damage"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://bffence.com/blog/spring-fence-repair-michigan-winter-damage/feature_image.png",
+        "width": 1280,
+        "height": 720
+      },
+      "keywords": ["spring fence repair Michigan", "wood fence damage winter", "fence repair Oakland County", "privacy fence repair Auburn Hills", "fence maintenance Michigan"],
+      "articleSection": "Fence Maintenance",
+      "wordCount": 3800,
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Wood Fence Repair"
+        },
+        {
+          "@type": "Place",
+          "name": "Oakland County, Michigan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Auburn Hills, Michigan"
+        },
+        {
+          "@type": "Place",
+          "name": "Rochester, Michigan"
+        },
+        {
+          "@type": "Place",
+          "name": "Troy, Michigan"
+        },
+        {
+          "@type": "Place",
+          "name": "Metro Detroit, Michigan"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/spring-fence-repair-michigan-winter-damage#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the first signs of winter damage on a wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The earliest signs are small cracks in boards, slight leaning of posts, loose panels, and rusted hardware. These problems start small but worsen quickly with spring rain and summer heat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I repair my fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spring is the best time — ideally April or early May. The ground is soft, contractors have more availability, and you catch problems before summer storms make them worse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does fence repair cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minor repairs typically run $150-$500. Post replacement ranges from $200-$400 per post. Major section repairs may cost $500-$1,500. Full fence replacement runs $2,500-$8,000 depending on materials and length."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-maintained wood fence in Michigan typically lasts 10-15 years. Premium cedar fences with consistent maintenance can last 20+ years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a fence increase property value?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Studies show homeowners typically recoup 30-70% of their fence installation cost at resale. Privacy fencing is the most valued type among homebuyers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes fence posts to lean after winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frost heave — the freezing and expansion of soil around fence posts — is the primary cause. Michigan's 60-100 annual freeze-thaw cycles push posts out of alignment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it better to repair or replace a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If less than 30% of your fence is damaged and the posts are solid, repair is usually more cost-effective. If more than 30% is damaged or the fence is 15+ years old, replacement often makes more financial sense."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#business",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "url": "https://bffence.com/",
+      "telephone": "(248) 604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.6742,
+        "longitude": -83.2318
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County, Michigan"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wayne County, Michigan"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Genesee County, Michigan"
+        }
+      ],
+      "serviceType": ["Wood Fence Installation", "Fence Repair", "Privacy Fence", "Residential Fencing", "Commercial Fencing"],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      "founder": [
+        {
+          "@type": "Person",
+          "name": "Justin"
+        },
+        {
+          "@type": "Person",
+          "name": "Chris"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#fence-repair-service",
+      "name": "Spring Fence Repair",
+      "serviceType": "Fence Repair",
+      "provider": {
+        "@id": "https://bffence.com/#business"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Oakland County, Michigan"
+      },
+      "description": "Professional wood fence repair services for winter-damaged fences in Oakland County, Michigan. Free spring assessments available.",
+      "offers": {
+        "@type": "Offer",
+        "description": "Free spring fence assessment for Oakland County homeowners",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  ]
+}
