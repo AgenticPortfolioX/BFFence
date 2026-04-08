@@ -1,16 +1,34 @@
-import fs from 'fs'; import path from 'path';
+import fs from 'fs';
+import path from 'path';
+import yaml from 'js-yaml';
+
 const blogDir = path.join(process.cwd(), 'public', 'blog');
 const dataFile = path.join(process.cwd(), 'src', 'data', 'blog-posts.json');
 
 function parseYAML(content: string) {
   const match = content.match(/^---\s*([\s\S]*?)\s*---/);
   if (!match) return {};
-  const res: any = {};
-  match[1].split('\n').filter(l => l.includes(':')).forEach(l => {
-    const [k, ...v] = l.split(':');
-    res[k.trim()] = v.join(':').trim().replace(/^["'](.*)["']$/, '$1');
-  });
-  return res;
+  
+  try {
+    const data = yaml.load(match[1]) as any;
+    // Map description or meta_description to excerpt as requested
+    const excerpt = data.excerpt || data.description || data.meta_description || '';
+    
+    // Ensure tags is always an array
+    let tags = data.tags || [];
+    if (typeof tags === 'string') {
+      tags = tags.split(',').map((t: string) => t.trim()).filter(Boolean);
+    }
+
+    return {
+      ...data,
+      excerpt,
+      tags
+    };
+  } catch (e) {
+    console.error('Error parsing YAML frontmatter:', e);
+    return {};
+  }
 }
 
 async function sync() {
@@ -37,6 +55,7 @@ async function sync() {
     fs.mkdirSync(path.dirname(dataFile), { recursive: true });
   }
   fs.writeFileSync(dataFile, JSON.stringify(posts, null, 2));
+  console.log(`Synced ${posts.length} blog posts to ${dataFile}`);
 }
 
 sync().catch(console.error);
