@@ -1,3 +1,11 @@
+---
+title: "Spring Fence Repair: 7 Warning Signs Michigan Winters Left Behind on Your Wood Fence"
+date: "2026-04-08"
+description: "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence — maybe looking a little rougher than you remember."
+author: "BF Fence Team"
+category: "General"
+---
+
 # Spring Fence Repair: 7 Warning Signs Michigan Winters Left Behind on Your Wood Fence
 
 *By BF Fence — Oakland County's Trusted Fence Contractor | April 8, 2026*

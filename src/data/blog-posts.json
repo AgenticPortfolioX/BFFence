@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-04-08",
+    "title": "Spring Fence Repair: 7 Warning Signs Michigan Winters Left Behind on Your Wood Fence",
+    "date": "2026-04-08",
+    "description": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence — maybe looking a little rougher than you remember.",
+    "author": "BF Fence Team",
+    "category": "General",
+    "excerpt": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence — maybe looking a little rougher than you remember.",
+    "tags": [],
+    "image": "/blog/2026-04-08/feature_image.png",
+    "path": "/blog/2026-04-08/final.md",
+    "schema": "/blog/2026-04-08/sdira_compliance_schema.json"
+  },
+  {
     "id": "2026-04-03",
     "title": "Spring Fence Preparation: Why Western Red Cedar is Michigan's Best Choice",
     "date": "2026-04-03",
@@ -11,11 +24,5 @@
     "image": "/blog/2026-04-03/feature_image.png",
     "path": "/blog/2026-04-03/final.md",
     "schema": "/blog/2026-04-03/sdira_compliance_schema.json"
-  },
-  {
-    "id": "2026-04-08",
-    "image": "/blog/2026-04-08/feature_image.png",
-    "path": "/blog/2026-04-08/final.md",
-    "schema": "/blog/2026-04-08/sdira_compliance_schema.json"
   }
 ]
