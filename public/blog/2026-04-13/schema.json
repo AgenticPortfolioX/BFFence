@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Spring Fence Inspection Checklist: 7 Things Every Oakland County Homeowner Should Do Before Summer",
+      "datePublished": "2026-04-13",
+      "dateModified": "2026-04-13",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://bffence.com/logo.png"
+        }
+      },
+      "description": "Michigan winters are tough on fences. Here's your complete spring inspection checklist to catch frost damage, prevent costly repairs, and get your fence summer-ready before the season hits.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/2026-04-13-spring-fence-inspection-checklist"
+      },
+      "articleSection": "BF Fence",
+      "keywords": ["fence installation Oakland County", "privacy fence Auburn Hills", "wood fence repair Michigan", "spring fence maintenance", "frost heave fence posts"]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How often should I inspect my wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At minimum, twice a year — once in spring after the snow melts and once in fall before winter sets in. Spring inspection is the more critical of the two because it catches winter damage before it gets worse through summer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes fence posts to lean after winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most common cause is frost heave. When moisture in the soil freezes, it expands and pushes upward on anything in the ground — including fence posts. Posts that aren't set below the 42-inch frost line in Oakland County are especially vulnerable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 42 inches. Oakland County's frost line is approximately 42 inches deep, which means fence post holes need to reach that depth to prevent frost heave. The bottom of the hole should also be belled out to anchor the concrete footing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I reseal my wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Late spring through early summer — roughly May through early June — is the ideal window. The wood needs to have dried out from spring rains, and the temperature should be consistently between 50°F and 85°F."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does spring fence repair cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minor repairs typically run $200-$500. Post replacement can range from $150-$400 per post. If more than 25-30% of the fence needs work, it's worth getting a full replacement estimate."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "alternateName": "Renowned Value Restoration LLC",
+      "url": "https://bffence.com/",
+      "telephone": "(248) 604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.6875,
+        "longitude": -83.2341
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County, Michigan"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wayne County, Michigan"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Genesee County, Michigan"
+        }
+      ],
+      "serviceType": "Fence Installation and Repair"
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Wood Fence Installation and Repair",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Oakland County, Michigan"
+      },
+      "description": "Custom residential and commercial wooden perimeter fence installations in Metro Detroit, specializing in privacy fences built to Michigan's 42-inch frost line standard."
+    }
+  ]
+}
