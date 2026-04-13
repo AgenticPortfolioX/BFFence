@@ -40,13 +40,19 @@ export const BlogPost = () => {
   }, [id]);
 
   useEffect(() => {
-    if (!post) return;
+    if (!post || !post.schema) return;
     const script = document.createElement('script');
     script.type = 'application/ld+json';
-    fetch(post.schema).then(r => r.json()).then(data => {
-      script.text = JSON.stringify(data);
-      document.head.appendChild(script);
-    });
+    fetch(post.schema)
+      .then(r => {
+        if (!r.ok) throw new Error('Schema not found');
+        return r.json();
+      })
+      .then(data => {
+        script.text = JSON.stringify(data);
+        document.head.appendChild(script);
+      })
+      .catch(err => console.warn('JSON-LD Schema failed to load:', err));
     return () => script.remove();
   }, [post]);
 
@@ -63,28 +69,51 @@ export const BlogPost = () => {
     </div>
   );
 
-  // Simple Markdown parser for highlights
+        // Simple Markdown parser for highlights
   const renderMarkdown = (text: string) => {
     return text
       .split('\n')
       .map((line, i) => {
-        if (line.startsWith('# ')) return <h1 key={i} className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-8 mt-12">{line.replace('# ', '')}</h1>;
+        if (line.startsWith('# ')) return <h1 key={i} className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-8 mt-12 text-balance">{line.replace('# ', '')}</h1>;
         if (line.startsWith('## ')) return <h2 key={i} className="text-3xl font-serif font-bold text-foreground mb-6 mt-10">{line.replace('## ', '')}</h2>;
         if (line.startsWith('### ')) return <h3 key={i} className="text-2xl font-serif font-bold text-foreground mb-4 mt-8">{line.replace('### ', '')}</h3>;
-        if (line.startsWith('> ')) return <blockquote key={i} className="border-l-4 border-accent pl-6 py-2 italic text-xl text-foreground/80 my-8 bg-accent/5 rounded-r-xl">{line.replace('> ', '')}</blockquote>;
-        if (line.startsWith('- ')) return <li key={i} className="ml-6 mb-2 list-disc text-lg text-foreground/70">{line.replace('- ', '')}</li>;
+        if (line.startsWith('> ')) return <blockquote key={i} className="border-l-4 border-accent pl-6 py-2 italic text-xl text-foreground/80 my-8 bg-accent/5 rounded-r-xl shadow-sm">{line.replace('> ', '')}</blockquote>;
+        if (line.startsWith('- ')) return <li key={i} className="ml-6 mb-3 list-disc text-lg text-foreground/70 marker:text-accent pl-2">{line.replace('- ', '')}</li>;
         if (line.trim() === '') return <div key={i} className="h-4" />;
         
-        // Handle bolding **text**
-        const parts = line.split(/(\*\*.*?\*\*)/);
-        const elements = parts.map((part, j) => {
-          if (part.startsWith('**') && part.endsWith('**')) {
-            return <strong key={j} className="font-bold text-foreground">{part.slice(2, -2)}</strong>;
-          }
-          return part;
+        // Handle bolding **text** and links [text](url)
+        let content: any[] = [line];
+
+        // 1. Handle Bolding
+        content = content.flatMap(part => {
+          if (typeof part !== 'string') return [part];
+          const subParts = part.split(/(\*\*.*?\*\*)/);
+          return subParts.map((sub, j) => {
+            if (sub.startsWith('**') && sub.endsWith('**')) {
+              return <strong key={j} className="font-bold text-foreground">{sub.slice(2, -2)}</strong>;
+            }
+            return sub;
+          });
         });
 
-        return <p key={i} className="text-lg text-foreground/70 leading-relaxed mb-6 font-light">{elements}</p>;
+        // 2. Handle Links
+        content = content.flatMap(part => {
+          if (typeof part !== 'string') return [part];
+          const subParts = part.split(/(\[.*?\]\(.*?\))/);
+          return subParts.map((sub, j) => {
+            const linkMatch = sub.match(/\[(.*?)\]\((.*?)\)/);
+            if (linkMatch) {
+              return (
+                <a key={j} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="text-accent underline hover:text-accent/80 transition-colors font-medium">
+                  {linkMatch[1]}
+                </a>
+              );
+            }
+            return sub;
+          });
+        });
+
+        return <p key={i} className="text-lg text-foreground/70 leading-relaxed mb-6 font-light">{content}</p>;
       });
   };
 

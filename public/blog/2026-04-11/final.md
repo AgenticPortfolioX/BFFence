@@ -1,10 +1,14 @@
-# Why Spring Is the Smartest Time to Install Your Fence in Oakland County
-
-*By BF Fence â Oakland County's Trusted Fence Contractor | April 11, 2026*
+---
+title: "Why Spring Is the Smartest Time to Install Your Fence in Oakland County"
+date: "2026-04-11"
+description: "Considering a new fence? Mid-April through May is the 'sweet spot' for Michigan soil and contractor schedules. Learn why timing matters for durability and cost."
+category: "General"
+author: "BF Fence Team"
+---
 
 ---
 
-The snow's gone. The mud is drying up. And if you've been thinking about putting up a new fence â or finally replacing that one that didn't survive another Michigan winter â now is the time to move.
+The snow's gone. The mud is drying up. And if you've been thinking about putting up a new fence â€” or finally replacing that one that didn't survive another Michigan winter â€” now is the time to move.
 
 Not next month. Not when summer rolls around and every contractor in Oakland County is booked six weeks out. Right now.
 

@@ -40,16 +40,20 @@ async function sync() {
     const filePath = path.join(blogDir, f, 'final.md');
     if (!fs.existsSync(filePath)) return null;
     const meta = parseYAML(fs.readFileSync(filePath, 'utf8'));
+    
+    // Detect schema file
+    let schemaFile = 'schema.json';
+    if (!fs.existsSync(path.join(blogDir, f, schemaFile))) {
+      schemaFile = 'sdira_compliance_schema.json';
+    }
+    const schemaExists = fs.existsSync(path.join(blogDir, f, schemaFile));
+
     return { 
       id: f, 
       ...meta, 
       image: `/blog/${f}/feature_image.png`, 
       path: `/blog/${f}/final.md`, 
-      // Auto-detect schema filename (schema.json or sdira_compliance_schema.json)
-    const schemaName = fs.existsSync(path.join(blogDir, f, 'schema.json')) 
-      ? 'schema.json' 
-      : 'sdira_compliance_schema.json';
-    schema: `/blog/${f}/${schemaName}` 
+      schema: schemaExists ? `/blog/${f}/${schemaFile}` : null 
     };
   }).filter(Boolean);
   

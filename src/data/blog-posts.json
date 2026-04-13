@@ -13,13 +13,26 @@
     "schema": "/blog/2026-04-13/schema.json"
   },
   {
+    "id": "2026-04-11",
+    "title": "Why Spring Is the Smartest Time to Install Your Fence in Oakland County",
+    "date": "2026-04-11",
+    "description": "Considering a new fence? Mid-April through May is the 'sweet spot' for Michigan soil and contractor schedules. Learn why timing matters for durability and cost.",
+    "category": "General",
+    "author": "BF Fence Team",
+    "excerpt": "Considering a new fence? Mid-April through May is the 'sweet spot' for Michigan soil and contractor schedules. Learn why timing matters for durability and cost.",
+    "tags": [],
+    "image": "/blog/2026-04-11/feature_image.png",
+    "path": "/blog/2026-04-11/final.md",
+    "schema": "/blog/2026-04-11/schema.json"
+  },
+  {
     "id": "2026-04-08",
     "title": "Spring Fence Repair: 7 Warning Signs Michigan Winters Left Behind on Your Wood Fence",
     "date": "2026-04-08",
-    "description": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence \u2014 maybe looking a little rougher than you remember.",
+    "description": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence — maybe looking a little rougher than you remember.",
     "author": "BF Fence Team",
     "category": "General",
-    "excerpt": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence \u2014 maybe looking a little rougher than you remember.",
+    "excerpt": "The snow is finally melting across Oakland County. Your yard is re-emerging from months of white, and so is your fence — maybe looking a little rougher than you remember.",
     "tags": [],
     "image": "/blog/2026-04-08/feature_image.png",
     "path": "/blog/2026-04-08/final.md",
@@ -36,12 +49,6 @@
     "tags": [],
     "image": "/blog/2026-04-03/feature_image.png",
     "path": "/blog/2026-04-03/final.md",
-    "schema": "/blog/2026-04-03/schema.json"
-  },
-  {
-    "id": "2026-04-11",
-    "image": "/blog/2026-04-11/feature_image.png",
-    "path": "/blog/2026-04-11/final.md",
-    "schema": "/blog/2026-04-11/schema.json"
+    "schema": "/blog/2026-04-03/sdira_compliance_schema.json"
   }
 ]
