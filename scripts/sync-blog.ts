@@ -45,7 +45,11 @@ async function sync() {
       ...meta, 
       image: `/blog/${f}/feature_image.png`, 
       path: `/blog/${f}/final.md`, 
-      schema: `/blog/${f}/sdira_compliance_schema.json` 
+      // Auto-detect schema filename (schema.json or sdira_compliance_schema.json)
+    const schemaName = fs.existsSync(path.join(blogDir, f, 'schema.json')) 
+      ? 'schema.json' 
+      : 'sdira_compliance_schema.json';
+    schema: `/blog/${f}/${schemaName}` 
     };
   }).filter(Boolean);
   
