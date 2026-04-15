@@ -1,0 +1,130 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Spring Fence Prep: Getting Your Michigan Wood Fence Ready After Winter",
+      "datePublished": "2026-04-15",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://bffence.com/logo.png"
+        }
+      },
+      "description": "A complete spring fence inspection and maintenance checklist for Michigan homeowners. Learn how to assess winter damage, repair wood fences, and protect your investment for years to come.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/2026-04-15-spring-fence-prep-michigan"
+      },
+      "keywords": ["fence maintenance spring Michigan", "wood fence repair after winter", "spring fence inspection checklist", "privacy fence maintenance Oakland County", "wood fence prep spring Michigan"],
+      "articleSection": "Home Maintenance",
+      "wordCount": 3200
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "When should I inspect my fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "April is ideal. The snow has melted, the ground is soft enough to identify post movement, and you have time to schedule repairs before the summer rush. Do a second quick check in September before winter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What damage does Michigan winter cause to wood fences?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The main culprits are freeze-thaw cycles that loosen joints, frost heave that tilts posts, ice buildup at post bases that causes rot, snow drifts that bend panels, and wind that cracks boards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to stain a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "July and August. The wood is dry, the humidity is low, and the stain will absorb and cure properly. Avoid staining in spring when the wood is still saturated from snowmelt, or in fall when temperatures drop too quickly for proper curing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my fence needs repair or full replacement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If fewer than 25% of boards are damaged and the posts are solid, repairs make sense. If posts are rotted or leaning, or if multiple sections are failing, replacement is usually more cost-effective in the long run."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I repair my fence myself?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many maintenance tasks — tightening hardware, replacing individual boards, staining — are DIY-friendly. Post replacement, structural repairs, and new installations are best left to professionals, especially in Michigan's challenging soil conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does fence repair cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minor repairs (a few boards, hardware) typically run $100-$500. Post replacement costs $200-$400 per post including concrete. Full section replacement runs $1,500-$3,000 depending on length and materials."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#organization",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "url": "https://bffence.com/",
+      "telephone": "(248) 604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County, MI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wayne County, MI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Genesee County, MI"
+        }
+      ],
+      "serviceType": "Fence Installation and Repair"
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Wood Fence Installation and Maintenance",
+      "provider": {
+        "@id": "https://bffence.com/#organization"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Metro Detroit, Michigan"
+      },
+      "description": "Custom residential and commercial wooden perimeter fence installations, repairs, and maintenance services in Oakland County, Wayne County, and Genesee County, Michigan."
+    }
+  ]
+}
