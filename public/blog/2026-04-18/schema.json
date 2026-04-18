@@ -1,0 +1,160 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "How to Choose the Right Wood Fence for Your Michigan Home",
+      "datePublished": "2026-04-18",
+      "dateModified": "2026-04-18",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://bffence.com/logo.png"
+        }
+      },
+      "description": "A practical homeowner's guide to choosing the best wood fence for Michigan's climate. Compare cedar, pressure-treated pine, and redwood \u2014 learn which styles offer the best privacy, durability, and value for Oakland County homes.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/2026-04-18-choosing-wood-fence-michigan"
+      },
+      "keywords": [
+        "wood fence Michigan",
+        "cedar vs pressure treated fence",
+        "privacy fence Oakland County",
+        "fence installation Auburn Hills",
+        "best wood fence Michigan winters"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best type of wood for a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Western red cedar is the premium choice \u2014 it's naturally rot-resistant, stable, and beautiful. Pressure-treated pine is the best value \u2014 affordable, durable, and widely available. For most Michigan homeowners, pressure-treated pine with proper staining offers the best balance of cost and longevity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-built and maintained wood fence lasts 15-25 years in Michigan. Pressure-treated pine typically lasts 15-20 years. Cedar can last 20-25 years or more. The biggest factors are post depth (must be below the 36-42 inch frost line), drainage, and regular staining or sealing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Michigan, fence posts should be set at least 36 inches deep \u2014 ideally 42 inches in areas with heavy clay soil, which is common across Oakland County. This places the bottom of the post below the frost line and prevents frost heave, which is the number one cause of fence failure in Michigan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I stain my fence or let it weather naturally?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Staining every 2-3 years significantly extends the life of your fence. Pressure-treated pine should always be stained \u2014 it looks better and the stain adds a moisture barrier. Cedar can be left to weather naturally to a silver-gray, but staining every 3-4 years will extend its life and preserve the warm color."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a wood fence cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In 2026, a 6-foot wood privacy fence in Michigan typically costs $18-$30 per linear foot for pressure-treated pine and $28-$45 per linear foot for cedar, installed. A typical residential lot (150-200 linear feet) runs $3,000-$9,000 depending on material, style, and terrain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cedar worth the extra cost over pressure-treated pine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar is worth it if you prioritize appearance, plan to stay in your home long-term, and want lower lifetime maintenance costs. The upfront cost is 50-100% more, but cedar lasts longer, requires less frequent staining, and looks better from day one."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I install a fence in winter in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Technically yes, but it's not ideal. Frozen ground makes digging post holes extremely difficult. Concrete doesn't cure well below 40\u00b0F. Most fence contractors in Oakland County book installations from May through October."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "url": "https://bffence.com/",
+      "telephone": "(248) 604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.6731,
+        "longitude": -83.2444
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wayne County"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Genesee County"
+        }
+      ],
+      "serviceType": "Fence Installation"
+    },
+    {
+      "@type": "Service",
+      "name": "Wood Fence Installation",
+      "serviceType": "Residential and Commercial Wood Fence Installation",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Oakland County, Michigan"
+      },
+      "description": "Custom residential and commercial wood fence installation including pressure-treated pine, cedar, and redwood. Serving Auburn Hills, Rochester, Troy, and all of Oakland County."
+    }
+  ]
+}
