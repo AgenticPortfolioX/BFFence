@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Header } from './components/Header';
 import { Footer } from './components/CTA_Footer';
+import { RedirectHandler } from './components/RedirectHandler';
 import { Home } from './pages/Home';
 import { ServiceArea } from './pages/ServiceArea';
 import { OurTeam } from './pages/OurTeam';
@@ -17,6 +18,7 @@ import ScrollToTop from './components/ScrollToTop';
 export default function App() {
   return (
     <Router>
+      <RedirectHandler />
       <ScrollToTop />
       <main className="min-h-screen font-sans selection:bg-accent selection:text-white flex flex-col">
         <Header />
