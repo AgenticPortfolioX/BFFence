@@ -21,11 +21,14 @@ export const BlogPost = () => {
 
   useEffect(() => {
     // 1. Find post metadata within the imported constant
-    const found = (blogPosts as PostData[]).find((p) => p.id === id);
+    // Sanitize ID by removing any trailing slashes that might come from the SPA redirect hack
+    const sanitizedId = id?.replace(/\/$/, '') || '';
+    const found = (blogPosts as PostData[]).find((p) => p.id === sanitizedId);
+    
     if (found) {
       setPost(found);
-      // 2. Fetch markdown content
-      fetch(`/blog/${id}/final.md`)
+      // 2. Fetch markdown content using the sanitized ID
+      fetch(`/blog/${sanitizedId}/final.md`)
         .then(res => res.text())
         .then(text => {
           // 3. Clean YAML header
