@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import blogPosts from '../data/blog-posts.json';
 
 export const EducationSection = () => {
   return (
@@ -103,3 +104,66 @@ export const InstallationSection = () => {
       </section>
     );
   };
+
+export const RecentBlogs = () => {
+  const recentPosts = blogPosts.slice(0, 3); // Get the 3 most recent posts
+
+  return (
+    <section className="bg-section-bg py-24 border-t border-secondary/10">
+      <div className="container mx-auto px-4 max-w-7xl">
+        <div className="text-center mb-16">
+          <h2 className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-6">Recent Insights</h2>
+          <div className="w-24 h-1 bg-accent mx-auto mb-8 rounded-full" />
+          <p className="text-xl text-foreground/80 max-w-3xl mx-auto leading-relaxed">
+            Stay updated with our latest news, project spotlights, and professional fencing tips.
+          </p>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {recentPosts.map((post: any) => (
+            <Link 
+              to={`/blog/${post.id}`} 
+              key={post.id} 
+              className="bg-background rounded-3xl overflow-hidden border border-secondary/10 shadow-lg group hover:shadow-2xl transition-all duration-500 flex flex-col"
+            >
+              <div className="aspect-video relative overflow-hidden">
+                <img 
+                  src={post.image} 
+                  alt={post.title} 
+                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                />
+                <div className="absolute top-4 left-4 bg-accent text-background px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest shadow-lg">
+                  {post.category || 'General'}
+                </div>
+              </div>
+              <div className="p-8 flex-grow flex flex-col justify-between">
+                <div>
+                  <div className="text-foreground/40 text-[10px] font-bold uppercase tracking-widest mb-3">
+                    {post.date}
+                  </div>
+                  <h3 className="text-xl font-serif font-bold text-foreground group-hover:text-accent transition-colors line-clamp-2 mb-4">
+                    {post.title}
+                  </h3>
+                  <p className="text-foreground/70 leading-relaxed font-light text-sm line-clamp-3">
+                    {post.description}
+                  </p>
+                </div>
+                <div className="mt-6 pt-6 border-t border-secondary/10 flex items-center justify-between">
+                  <span className="text-[10px] font-black uppercase tracking-widest text-accent group-hover:translate-x-2 transition-transform">
+                    Read More &rarr;
+                  </span>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+        
+        <div className="mt-16 text-center">
+          <Link to="/blog" className="inline-block border-2 border-accent text-accent px-10 py-4 rounded-full font-bold hover:bg-accent hover:text-background transition-all">
+            View All Posts
+          </Link>
+        </div>
+      </div>
+    </section>
+  );
+};
