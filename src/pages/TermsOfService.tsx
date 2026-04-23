@@ -33,13 +33,13 @@ export const TermsOfService = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-2">2. Message Frequency and Rates</h3>
                     <p>
-                      Message frequency will vary depending on your interaction with our services and the complexity of the project. Message and data rates may apply. Please check your mobile service plan for details.
+                      Message frequency varies. Message and data rates may apply. Please check your mobile service plan for details.
                     </p>
                   </div>
                   <div>
                     <h3 className="text-xl font-bold mb-2">3. Opt-Out and Help</h3>
-                    <p className="mb-2"><strong>To Stop:</strong> You may opt out of our mobile messaging at any time. Text **STOP**, END, CANCEL, UNSUBSCRIBE, or QUIT to our number. You will receive a one-time confirmation text acknowledging your request.</p>
-                    <p><strong>To Get Help:</strong> If you are experiencing issues with our messaging program, reply with the keyword **HELP** for more assistance, or contact our support team directly.</p>
+                    <p className="mb-2"><strong>To Stop:</strong> Text STOP to cancel. You will receive a one-time confirmation text acknowledging your request.</p>
+                    <p><strong>To Get Help:</strong> Text HELP for help, or contact our support team directly.</p>
                   </div>
                   <div>
                     <h3 className="text-xl font-bold mb-2">4. Carrier Disclaimer</h3>
@@ -56,7 +56,7 @@ export const TermsOfService = () => {
                   <div className="p-6 bg-accent/5 rounded-2xl border border-accent/20">
                     <h3 className="text-xl font-bold text-accent mb-2">6. Data Sharing & Privacy</h3>
                     <p className="font-bold text-foreground">
-                      "No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties."
+                      No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
                     </p>
                   </div>
                   <div>
