@@ -1,0 +1,193 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://bffence.com/updates/spring-fence-installation-guide-oakland-county"
+    },
+    "headline": "The Oakland County Homeowner's Complete Guide to Spring Fence Installation in 2026",
+    "description": "Everything Oakland County homeowners need to know about installing a wood fence this spring — from permits and materials to costs, timelines, and why April is the perfect time to start.",
+    "datePublished": "2026-04-29",
+    "dateModified": "2026-04-29",
+    "author": {
+      "@type": "Organization",
+      "name": "BF Fence",
+      "url": "https://bffence.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "BF Fence",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://bffence.com/logo.png"
+      }
+    },
+    "image": "https://bffence.com/blog/2026-04-29/feature_image.png",
+    "articleSection": "Home Improvement",
+    "keywords": ["fence installation Oakland County", "privacy fence Auburn Hills", "wood fence Michigan", "fence permit Oakland County", "cedar fence installation", "fence cost Michigan 2026"]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does a privacy fence cost in Oakland County, Michigan in 2026?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A 6-foot cedar privacy fence costs $35-55 per linear foot installed. For an average backyard of 200 linear feet, expect $7,000-$11,000. Pressure-treated pine runs $25-40 per linear foot, or $5,000-$8,000 for the same 200-foot perimeter."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need a permit to build a fence in Oakland County?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most cities and villages in Oakland County — Auburn Hills, Rochester, Troy, Bloomfield Hills, Pontiac, Lake Orion — require a permit. Oakland County itself does not have a county-wide permit, but individual municipalities do. BF Fence handles all permit applications as part of our installation service."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the best wood for a fence in Michigan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Western red cedar is the best wood for Michigan fence installations. Its natural oils resist rot, insects, and moisture. Cedar fences last 15-25 years with minimal maintenance. Pressure-treated pine is a budget alternative that lasts 10-15 years with diligent re-sealing every 2-3 years."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How deep should fence posts be in Michigan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fence posts should be set a minimum of 42 inches below grade — Michigan's frost line depth. In areas prone to frost heave, 48 inches is recommended. Posts should be set in a 10-12 inch hole with a gravel base, high-strength concrete, and proper bracing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I stain or seal my new fence in Michigan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Pressure-treated pine needs to dry for 4-6 weeks before staining. Cedar can be sealed at installation or within the first year. Oil-based semi-transparent stain is recommended for the best balance of protection and natural wood appearance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does fence installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A typical residential fence installation (150-250 linear feet) takes 2-5 working days. Larger projects or installations requiring old fence removal can extend to 7-10 days."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "BF Fence",
+    "alternateName": "Renowned Value Restoration LLC",
+    "description": "Custom residential and commercial wooden perimeter fence installations in Metro Detroit. Serving Oakland, Wayne, and Genesee Counties.",
+    "url": "https://bffence.com",
+    "telephone": "(248) 604-6168",
+    "email": "estimate@bffence.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2711 Williamsburg Cir",
+      "addressLocality": "Auburn Hills",
+      "addressRegion": "MI",
+      "postalCode": "48326",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 42.6875,
+      "longitude": -83.2697
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Auburn Hills"
+      },
+      {
+        "@type": "City",
+        "name": "Rochester"
+      },
+      {
+        "@type": "City",
+        "name": "Rochester Hills"
+      },
+      {
+        "@type": "City",
+        "name": "Bloomfield Hills"
+      },
+      {
+        "@type": "City",
+        "name": "Troy"
+      },
+      {
+        "@type": "City",
+        "name": "Lake Orion"
+      },
+      {
+        "@type": "City",
+        "name": "Pontiac"
+      },
+      {
+        "@type": "Place",
+        "name": "Oakland County"
+      },
+      {
+        "@type": "Place",
+        "name": "Wayne County"
+      },
+      {
+        "@type": "Place",
+        "name": "Genesee County"
+      }
+    ],
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "14:00"
+      }
+    ],
+    "image": "https://bffence.com/logo.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Fence Installation",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "BF Fence"
+    },
+    "areaServed": {
+      "@type": "Place",
+      "name": "Oakland County, Michigan"
+    },
+    "description": "Custom residential and commercial wooden perimeter fence installations including privacy fences, picket fences, and split rail fences. Cedar and pressure-treated pine materials available."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Fence Repair",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "BF Fence"
+    },
+    "areaServed": {
+      "@type": "Place",
+      "name": "Oakland County, Michigan"
+    },
+    "description": "Wood fence repair services including post replacement, board replacement, gate repair, and storm damage repair."
+  }
+]
