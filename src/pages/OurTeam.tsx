@@ -1,7 +1,15 @@
 import React from 'react';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const OurTeam = () => {
+  usePageMeta({
+    title: 'Our Team | Justin Gramke & Chris Smith | BF Fence Michigan',
+    description: 'Meet the BF Fence team — co-founders Justin Gramke and Chris Smith bring decades of combined experience in Michigan wood fence installation.',
+    image: '/images/JG Headshot1.png',
+    url: '/our-team',
+  });
+
   return (
     <div className="flex flex-col min-h-screen">
       <section className="bg-section-bg py-24 flex-grow">

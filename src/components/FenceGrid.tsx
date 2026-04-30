@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const styles = [
   { name: 'Dog Ear Picket', image: '/images/style_dog_ear_picket.jpg' },
@@ -29,8 +30,9 @@ export const FenceGrid = () => {
       <div className="container mx-auto px-4 relative z-10 lg:px-4">
         <div className="flex md:grid md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 overflow-x-auto md:overflow-visible pb-8 md:pb-0 snap-x snap-mandatory hide-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
           {styles.map((style, index) => (
-            <div 
-              key={index} 
+            <Link
+              key={index}
+              to={`/free-estimate?style=${encodeURIComponent(style.name)}`}
               className="group relative min-w-[85vw] md:min-w-0 rounded-2xl overflow-hidden shadow-[0_4px_30px_rgba(0,0,0,0.1)] bg-white/5 backdrop-blur-md border border-white/10 hover:bg-white/10 hover:shadow-[0_8px_30px_rgba(0,0,0,0.2)] transition-all duration-500 transform hover:-translate-y-2 snap-center"
             >
               <div className="aspect-[4/3] overflow-hidden">
@@ -38,17 +40,18 @@ export const FenceGrid = () => {
                   src={style.image} 
                   alt={style.name} 
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-90 group-hover:opacity-100" 
+                  loading="lazy"
                 />
               </div>
               <div className="p-6 text-center">
                 <h3 className="text-xl font-bold text-foreground">{style.name}</h3>
                 <div className="mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <button className="text-accent font-bold text-sm uppercase tracking-wider hover:underline">
-                    View Details
-                  </button>
+                  <span className="text-accent font-bold text-sm uppercase tracking-wider">
+                    Get Estimate →
+                  </span>
                 </div>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
         

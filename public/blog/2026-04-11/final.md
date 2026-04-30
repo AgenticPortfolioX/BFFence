@@ -231,7 +231,7 @@ There are a lot of fence contractors in Metro Detroit. We know that. Here's what
 
 Spring won't last forever, and neither will our open schedule. If you're ready for a fence that's built to last â whether it's a privacy fence for your backyard, a perimeter fence for your business, or a new installation after winter damage â we're here to help.
 
-**Call us today:** (248) 604-6168
+**Call us today:** (248) 609-6168
 **Email:** estimate@bffence.com
 **Visit:** [https://bffence.com/](https://bffence.com/)
 
@@ -266,5 +266,5 @@ If only a few boards are loose or a single post is leaning, repair is usually th
 
 *BF Fence â Renowned Value Restoration LLC*
 *2711 Williamsburg Cir. Auburn Hills, MI 48326*
-*(248) 604-6168 | estimate@bffence.com*
+*(248) 609-6168 | estimate@bffence.com*
 *https://bffence.com/*

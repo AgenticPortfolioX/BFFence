@@ -11,10 +11,11 @@ export const Header = () => {
             <Logo className="text-foreground" />
           </Link>
           <nav className="hidden lg:flex items-center gap-6 text-foreground/80 font-medium">
+            <Link to="/about" className="hover:text-accent transition-colors">About</Link>
             <Link to="/service-area" className="hover:text-accent transition-colors">Service Area</Link>
             <Link to="/our-team" className="hover:text-accent transition-colors">Our Team</Link>
             <Link to="/reviews" className="hover:text-accent transition-colors">Reviews</Link>
-            <Link to="/updates" className="hover:text-accent transition-colors">Updates</Link>
+            <Link to="/blog" className="hover:text-accent transition-colors">Blog</Link>
           </nav>
         </div>
         

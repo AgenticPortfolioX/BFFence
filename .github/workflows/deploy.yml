@@ -33,7 +33,9 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm ci
-      - name: Build
+      - name: Compress images
+        run: npm run build:images
+      - name: Build (sync blog + sitemap + vite + prerender)
         run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4

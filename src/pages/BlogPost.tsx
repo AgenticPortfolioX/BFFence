@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 import blogPosts from '../data/blog-posts.json';
 
 interface PostData {
@@ -18,6 +19,14 @@ export const BlogPost = () => {
   const [post, setPost] = useState<PostData | null>(null);
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState(true);
+
+  usePageMeta({
+    title: post ? `${post.title} | BF Fence` : 'BF Fence | Premier Wood Fences in Southeast Michigan',
+    description: post?.description || 'Southeast Michigan\'s premier wood fencing contractor. Quality materials, expert installation.',
+    image: post?.image,
+    url: post ? `/blog/${post.id}` : '/blog',
+    type: 'article',
+  });
 
   useEffect(() => {
     // 1. Find post metadata within the imported constant

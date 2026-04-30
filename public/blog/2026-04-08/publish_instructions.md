@@ -100,4 +100,4 @@ Primary CTA appears at two points:
 1. After the "Cost of Waiting" section (mid-article)
 2. At the end of the article (bottom)
 
-CTA text: "Call (248) 604-6168 or email estimate@bffence.com to schedule your free spring fence assessment."
+CTA text: "Call (248) 609-6168 or email estimate@bffence.com to schedule your free spring fence assessment."

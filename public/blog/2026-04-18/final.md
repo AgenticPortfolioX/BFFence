@@ -314,6 +314,6 @@ That's what we believe at BF Fence. Justin and I started this company because we
 
 If you're thinking about a new fence — or if your old one needs more help than a spring inspection can provide — give us a call. We'll come out, take a look, and give you an honest assessment. No pressure, no games.
 
-Call us at (248) 604-6168 or email estimate@bffence.com for a free estimate.
+Call us at (248) 609-6168 or email estimate@bffence.com for a free estimate.
 
 *BF Fence — Renowned Value Restoration LLC. Protecting what matters. Built to last.*

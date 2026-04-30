@@ -1,7 +1,14 @@
 import React from 'react';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const AboutUs = () => {
+  usePageMeta({
+    title: 'About BF Fence | Justin Gramke & Chris Smith | Michigan Fence Contractors',
+    description: 'Learn the story behind BF Fence — founded by best friends Justin Gramke and Chris Smith. Southeast Michigan\'s premier wood fencing contractor since day one.',
+    url: '/about',
+  });
+
   return (
     <div className="flex flex-col min-h-screen">
       <section className="bg-section-bg py-24 flex-grow">

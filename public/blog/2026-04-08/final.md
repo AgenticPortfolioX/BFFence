@@ -236,7 +236,7 @@ Walk your fence line this week. Look for the seven warning signs we've covered. 
 
 And if you'd rather have a professional set of eyes on it, give us a call. BF Fence has been building and repairing fences across Oakland County — from Auburn Hills to Rochester to Troy and beyond — and we know what Michigan winters do to wood. We'll give you an honest assessment and get your fence back in shape before summer.
 
-**Call (248) 604-6168 or email estimate@bffence.com to schedule your free spring fence assessment.**
+**Call (248) 609-6168 or email estimate@bffence.com to schedule your free spring fence assessment.**
 
 *BF Fence — Built to last. Protecting what matters.*
 
@@ -267,4 +267,4 @@ If less than 30% of your fence is damaged and the posts are solid, repair is usu
 
 ---
 
-*BF Fence (DBA of Renowned Value Restoration LLC) serves homeowners across Metro Detroit, Wayne, Oakland, and Genesee Counties. Founded by Justin and Chris, two best friends who take pride in doing the job right. Contact us at (248) 604-6168 or estimate@bffence.com.*
+*BF Fence (DBA of Renowned Value Restoration LLC) serves homeowners across Metro Detroit, Wayne, Oakland, and Genesee Counties. Founded by Justin and Chris, two best friends who take pride in doing the job right. Contact us at (248) 609-6168 or estimate@bffence.com.*

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 import blogPosts from '../data/blog-posts.json';
 
 interface BlogPost {
@@ -15,6 +16,12 @@ interface BlogPost {
 
 export const BlogPosts = () => {
   const posts = blogPosts as BlogPost[];
+
+  usePageMeta({
+    title: 'Fence Blog & Insights | BF Fence | Michigan Wood Fencing Tips',
+    description: 'Expert wood fencing tips, maintenance guides, and project spotlights from BF Fence — Michigan\'s premier wood fence installer serving Oakland, Wayne, and Genesee Counties.',
+    url: '/blog',
+  });
 
   return (
     <div className="flex flex-col min-h-screen">

@@ -4,11 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx scripts/sync-blog.ts && vite --port=3000 --host=0.0.0.0",
-    "build": "tsx scripts/sync-blog.ts && vite build",
+    "dev": "tsx scripts/sync-blog.ts && tsx scripts/generate-sitemap.ts && vite --port=3000 --host=0.0.0.0",
+    "build": "tsx scripts/sync-blog.ts && tsx scripts/generate-sitemap.ts && vite build && tsx scripts/prerender.ts",
+    "build:images": "tsx scripts/compress-images.ts",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "sitemap": "tsx scripts/generate-sitemap.ts",
+    "prerender": "tsx scripts/prerender.ts"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
@@ -29,6 +32,7 @@
     "@types/node": "^22.14.0",
     "autoprefixer": "^10.4.21",
     "js-yaml": "^4.1.1",
+    "sharp": "^0.34.5",
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",

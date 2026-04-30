@@ -200,6 +200,6 @@ A: Minor repairs (a few boards, hardware) typically run $100-$500. Post replacem
 
 ---
 
-*BF Fence — Renowned Value Restoration LLC. Serving Auburn Hills, Rochester, Troy, and all of Oakland County, Wayne County, and Genesee County. Call us at (248) 604-6168 or email estimate@bffence.com for a free estimate.*
+*BF Fence — Renowned Value Restoration LLC. Serving Auburn Hills, Rochester, Troy, and all of Oakland County, Wayne County, and Genesee County. Call us at (248) 609-6168 or email estimate@bffence.com for a free estimate.*
 
 *Protecting what matters. Built to last.*

@@ -1,7 +1,14 @@
 import React from 'react';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const ServiceArea = () => {
+  usePageMeta({
+    title: 'Service Area | Oakland, Wayne & Genesee Counties | BF Fence',
+    description: 'BF Fence serves Southeast Michigan including Oakland County, Wayne County, and Genesee County. Expert wood fence installation and repair near you.',
+    url: '/service-area',
+  });
+
   return (
     <div className="flex flex-col min-h-screen">
       <section className="bg-section-bg py-24 flex-grow">

@@ -1,6 +1,14 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
+
+// ── SETUP REQUIRED ──────────────────────────────────────────────────────────
+// 1. Create a free account at https://formspree.io
+// 2. Create a new form and copy your form ID
+// 3. Replace 'YOUR_FORM_ID' below with your actual Formspree form ID
+// ─────────────────────────────────────────────────────────────────────────────
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
 
 export const FreeEstimate = () => {
   const [formData, setFormData] = useState({
@@ -12,12 +20,36 @@ export const FreeEstimate = () => {
     smsConsent: false
   });
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
 
-  const handleSubmit = (e: React.FormEvent) => {
+  usePageMeta({
+    title: 'Free Fence Estimate | BF Fence | Southeast Michigan',
+    description: 'Get a free on-site wood fence estimate from BF Fence. Serving Oakland, Wayne, and Genesee Counties. Schedule your consultation today.',
+    url: '/free-estimate',
+  });
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // In a real app, this would send data to a server
-    console.log('Form submitted:', formData);
-    setSubmitted(true);
+    setLoading(true);
+    setError('');
+    try {
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify(formData),
+      });
+      if (res.ok) {
+        setSubmitted(true);
+      } else {
+        const data = await res.json();
+        setError(data?.errors?.[0]?.message || 'Something went wrong. Please call us at (248) 609-6168.');
+      }
+    } catch {
+      setError('Network error. Please call us at (248) 609-6168.');
+    } finally {
+      setLoading(false);
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -144,11 +176,18 @@ export const FreeEstimate = () => {
                   </label>
                 </div>
 
+                {error && (
+                  <div className="p-4 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm font-medium">
+                    {error}
+                  </div>
+                )}
+
                 <button
                   type="submit"
-                  className="w-full bg-accent text-background py-4 rounded-xl font-black text-lg hover:bg-accent/90 transition-all transform hover:scale-[1.02] shadow-lg"
+                  disabled={loading}
+                  className="w-full bg-accent text-background py-4 rounded-xl font-black text-lg hover:bg-accent/90 transition-all transform hover:scale-[1.02] shadow-lg disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:scale-100"
                 >
-                  Submit Request
+                  {loading ? 'Sending...' : 'Submit Request'}
                 </button>
               </form>
             )}

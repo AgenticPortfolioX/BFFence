@@ -222,7 +222,7 @@ If your spring inspection turned up issues you're not comfortable tackling yours
 
 BF Fence has been building and repairing fences in Oakland County since day one. Justin and Chris started this company as two best friends who take pride in doing the job right, and that hasn't changed. We know Michigan winters. We know clay soil. We know the 42-inch frost line. And we build fences that are meant to handle all of it.
 
-**Call us at (248) 604-6168** or email **estimate@bffence.com** for a free estimate. We serve Auburn Hills, Rochester, Troy, and all of Oakland County.
+**Call us at (248) 609-6168** or email **estimate@bffence.com** for a free estimate. We serve Auburn Hills, Rochester, Troy, and all of Oakland County.
 
 Protecting what matters — that's what we do.
 

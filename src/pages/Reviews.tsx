@@ -1,5 +1,6 @@
 import React from 'react';
 import { CTA } from '../components/CTA_Footer';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const ReviewCard = ({ name, date, text, rating = 5 }: { name: string, date: string, text: string, rating?: number }) => (
   <div className="bg-background p-8 rounded-3xl border border-secondary/20 shadow-lg hover:shadow-xl transition-shadow duration-300">
@@ -19,6 +20,12 @@ const ReviewCard = ({ name, date, text, rating = 5 }: { name: string, date: stri
 );
 
 export const Reviews = () => {
+  usePageMeta({
+    title: 'Customer Reviews | BF Fence | Michigan Wood Fence Contractor',
+    description: 'See what Oakland County homeowners say about BF Fence. Real reviews from real customers — 5-star rated wood fence installation in Southeast Michigan.',
+    url: '/reviews',
+  });
+
   return (
     <div className="flex flex-col min-h-screen">
       <section className="bg-section-bg py-24 flex-grow">
