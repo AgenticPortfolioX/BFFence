@@ -1,62 +1,17 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { CTA } from '../components/CTA_Footer';
 import { usePageMeta } from '../hooks/usePageMeta';
-
-// ── SETUP REQUIRED ──────────────────────────────────────────────────────────
-// 1. Create a free account at https://formspree.io
-// 2. Create a new form and copy your form ID
-// 3. Replace 'YOUR_FORM_ID' below with your actual Formspree form ID
-// ─────────────────────────────────────────────────────────────────────────────
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+import { useForm, ValidationError } from '@formspree/react';
 
 export const FreeEstimate = () => {
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    phone: '',
-    address: '',
-    details: '',
-    smsConsent: false
-  });
-  const [submitted, setSubmitted] = useState(false);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState('');
+  const [state, handleSubmit] = useForm('mzdobkpz');
 
   usePageMeta({
     title: 'Free Fence Estimate | BF Fence | Southeast Michigan',
     description: 'Get a free on-site wood fence estimate from BF Fence. Serving Oakland, Wayne, and Genesee Counties. Schedule your consultation today.',
     url: '/free-estimate',
   });
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    setError('');
-    try {
-      const res = await fetch(FORMSPREE_ENDPOINT, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-        body: JSON.stringify(formData),
-      });
-      if (res.ok) {
-        setSubmitted(true);
-      } else {
-        const data = await res.json();
-        setError(data?.errors?.[0]?.message || 'Something went wrong. Please call us at (248) 609-6168.');
-      }
-    } catch {
-      setError('Network error. Please call us at (248) 609-6168.');
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const { name, value, type } = e.target as HTMLInputElement;
-    const val = type === 'checkbox' ? (e.target as HTMLInputElement).checked : value;
-    setFormData(prev => ({ ...prev, [name]: val }));
-  };
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -74,7 +29,7 @@ export const FreeEstimate = () => {
           </div>
 
           <div className="bg-background rounded-[2.5rem] p-8 md:p-12 border border-secondary/20 shadow-2xl">
-            {submitted ? (
+            {state.succeeded ? (
               <div className="text-center py-12">
                 <div className="w-20 h-20 bg-accent/20 rounded-full flex items-center justify-center mx-auto mb-6">
                   <svg className="w-10 h-10 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -86,7 +41,7 @@ export const FreeEstimate = () => {
                   Thank you for reaching out. We'll be in touch within 24 hours to schedule your estimate.
                 </p>
                 <button 
-                  onClick={() => setSubmitted(false)}
+                  onClick={() => window.location.reload()}
                   className="mt-8 text-accent font-bold hover:underline"
                 >
                   Submit another request
@@ -102,11 +57,10 @@ export const FreeEstimate = () => {
                       id="name"
                       name="name"
                       required
-                      value={formData.name}
-                      onChange={handleChange}
                       className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
                       placeholder="John Doe"
                     />
+                    <ValidationError prefix="Name" field="name" errors={state.errors} className="text-red-400 text-sm mt-1 block" />
                   </div>
                   <div>
                     <label htmlFor="phone" className="block text-sm font-bold text-foreground mb-2">Phone Number (Optional)</label>
@@ -114,11 +68,10 @@ export const FreeEstimate = () => {
                       type="tel"
                       id="phone"
                       name="phone"
-                      value={formData.phone}
-                      onChange={handleChange}
                       className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
                       placeholder="(248) 609-6168"
                     />
+                    <ValidationError prefix="Phone" field="phone" errors={state.errors} className="text-red-400 text-sm mt-1 block" />
                   </div>
                 </div>
 
@@ -129,11 +82,10 @@ export const FreeEstimate = () => {
                     id="email"
                     name="email"
                     required
-                    value={formData.email}
-                    onChange={handleChange}
                     className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
                     placeholder="john@example.com"
                   />
+                  <ValidationError prefix="Email" field="email" errors={state.errors} className="text-red-400 text-sm mt-1 block" />
                 </div>
 
                 <div>
@@ -142,11 +94,10 @@ export const FreeEstimate = () => {
                     type="text"
                     id="address"
                     name="address"
-                    value={formData.address}
-                    onChange={handleChange}
                     className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors"
                     placeholder="123 Main St, City, MI 48000"
                   />
+                  <ValidationError prefix="Address" field="address" errors={state.errors} className="text-red-400 text-sm mt-1 block" />
                 </div>
 
                 <div>
@@ -155,11 +106,10 @@ export const FreeEstimate = () => {
                     id="details"
                     name="details"
                     rows={4}
-                    value={formData.details}
-                    onChange={handleChange}
                     className="w-full px-4 py-3 rounded-xl bg-section-bg border border-secondary/20 text-foreground focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors resize-none"
                     placeholder="Tell us a bit about what you're looking for (e.g., 6ft privacy fence, roughly 150 linear feet)..."
                   ></textarea>
+                  <ValidationError prefix="Details" field="details" errors={state.errors} className="text-red-400 text-sm mt-1 block" />
                 </div>
 
                 <div className="flex items-start gap-3 p-4 bg-accent/5 rounded-xl border border-accent/10">
@@ -167,8 +117,6 @@ export const FreeEstimate = () => {
                     type="checkbox"
                     id="smsConsent"
                     name="smsConsent"
-                    checked={formData.smsConsent}
-                    onChange={handleChange}
                     className="mt-1 w-5 h-5 rounded border-secondary/20 text-accent focus:ring-accent transition-all cursor-pointer"
                   />
                   <label htmlFor="smsConsent" className="text-sm text-foreground/70 leading-relaxed cursor-pointer select-none">
@@ -176,18 +124,12 @@ export const FreeEstimate = () => {
                   </label>
                 </div>
 
-                {error && (
-                  <div className="p-4 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm font-medium">
-                    {error}
-                  </div>
-                )}
-
                 <button
                   type="submit"
-                  disabled={loading}
+                  disabled={state.submitting}
                   className="w-full bg-accent text-background py-4 rounded-xl font-black text-lg hover:bg-accent/90 transition-all transform hover:scale-[1.02] shadow-lg disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:scale-100"
                 >
-                  {loading ? 'Sending...' : 'Submit Request'}
+                  {state.submitting ? 'Sending...' : 'Submit Request'}
                 </button>
               </form>
             )}
