@@ -89,5 +89,11 @@
     "image": "/blog/2026-04-03/feature_image.png",
     "path": "/blog/2026-04-03/final.md",
     "schema": "/blog/2026-04-03/sdira_compliance_schema.json"
+  },
+  {
+    "id": "2026-05-02",
+    "image": "/blog/2026-05-02/feature_image.png",
+    "path": "/blog/2026-05-02/final.md",
+    "schema": "/blog/2026-05-02/schema.json"
   }
 ]
