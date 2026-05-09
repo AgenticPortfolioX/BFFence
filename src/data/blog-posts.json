@@ -95,5 +95,11 @@
     "image": "/blog/2026-05-02/feature_image.png",
     "path": "/blog/2026-05-02/final.md",
     "schema": "/blog/2026-05-02/schema.json"
+  },
+  {
+    "id": "2026-05-09",
+    "image": "/blog/2026-05-09/feature_image.png",
+    "path": "/blog/2026-05-09/final.md",
+    "schema": "/blog/2026-05-09/schema.json"
   }
 ]
