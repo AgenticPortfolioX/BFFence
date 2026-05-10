@@ -64,8 +64,7 @@ The `dev` and `build` scripts both run `tsx scripts/sync-blog.ts` first, which s
 ### Lead Capture (FreeEstimate.tsx)
 - Form collects name, email, phone, address, project details
 - Includes SMS consent checkbox with A2P 10DLC compliance language (TCPA, HELP/STOP, Privacy/Terms links)
-- **Backend**: Uses Formspree (`mzdobkpz`) as primary handler.
-- **Integrations**: Supports secondary notification path via `VITE_N8N_WEBHOOK_URL` (for Google Sheets/Slack).
+- **Backend**: Uses Formspree (`mzdobkpz`) for lead capture and email notifications.
 
 ### Key Compliance Files
 - `sms_compliance_samples.md` — A2P 10DLC registration samples
