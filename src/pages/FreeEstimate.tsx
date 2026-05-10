@@ -7,6 +7,40 @@ import { useForm, ValidationError } from '@formspree/react';
 export const FreeEstimate = () => {
   const [state, handleSubmit] = useForm('mzdobkpz');
 
+  const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    
+    // Capture data before Formspree potentially clears it or changes state
+    const formData = new FormData(e.currentTarget);
+    const data = Object.fromEntries(formData.entries());
+    
+    // 1. Submit to Formspree
+    await handleSubmit(e);
+    
+    // 2. Secondary path: n8n webhook (for Google Sheets / Real-time notifications)
+    // We use VITE_ prefix for frontend access
+    const n8nWebhookUrl = import.meta.env.VITE_N8N_WEBHOOK_URL;
+    
+    if (n8nWebhookUrl) {
+      try {
+        await fetch(n8nWebhookUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            ...data,
+            source: 'BFFence Website - Free Estimate',
+            timestamp: new Date().toLocaleString('en-US', { timeZone: 'America/New_York' }),
+            site: 'bffence.com'
+          })
+        });
+        console.log('N8N notification triggered successfully');
+      } catch (err) {
+        // We don't want to block the user if the secondary notification fails
+        console.error('Secondary notification (N8N) failed:', err);
+      }
+    }
+  };
+
   usePageMeta({
     title: 'Free Fence Estimate | BF Fence | Southeast Michigan',
     description: 'Get a free on-site wood fence estimate from BF Fence. Serving Oakland, Wayne, and Genesee Counties. Schedule your consultation today.',
@@ -48,7 +82,7 @@ export const FreeEstimate = () => {
                 </button>
               </div>
             ) : (
-              <form onSubmit={handleSubmit} className="space-y-6">
+              <form onSubmit={handleFormSubmit} className="space-y-6">
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
                     <label htmlFor="name" className="block text-sm font-bold text-foreground mb-2">Full Name *</label>
