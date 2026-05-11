@@ -13,6 +13,19 @@
     "schema": "/blog/2026-05-09/schema.json"
   },
   {
+    "id": "2026-05-02",
+    "title": "How Much Does a Wood Fence Cost in Michigan? A Complete 2026 Pricing Guide for Oakland County Homeowners",
+    "date": "2026-05-02",
+    "description": "Wondering how much a wood fence costs in Michigan in 2026? This complete pricing guide breaks down material costs, labor rates, permit fees, and ROI for Oakland County homeowners — from real local experts, not national averages.",
+    "category": "BF Fence",
+    "author": "BFFence",
+    "excerpt": "Wondering how much a wood fence costs in Michigan in 2026? This complete pricing guide breaks down material costs, labor rates, permit fees, and ROI for Oakland County homeowners — from real local experts, not national averages.",
+    "tags": [],
+    "image": "/blog/2026-05-02/feature_image.png",
+    "path": "/blog/2026-05-02/final.md",
+    "schema": "/blog/2026-05-02/schema.json"
+  },
+  {
     "id": "2026-04-29",
     "title": "The Oakland County Homeowner's Complete Guide to Spring Fence Installation in 2026",
     "date": "2026-04-29",
@@ -102,11 +115,5 @@
     "image": "/blog/2026-04-03/feature_image.png",
     "path": "/blog/2026-04-03/final.md",
     "schema": "/blog/2026-04-03/sdira_compliance_schema.json"
-  },
-  {
-    "id": "2026-05-02",
-    "image": "/blog/2026-05-02/feature_image.png",
-    "path": "/blog/2026-05-02/final.md",
-    "schema": "/blog/2026-05-02/schema.json"
   }
 ]
