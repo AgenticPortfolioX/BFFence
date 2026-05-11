@@ -1,1 +1,220 @@
-LS0tCnRpdGxlOiAiRG9lcyBhIFdvb2QgRmVuY2UgSW5jcmVhc2UgWW91ciBIb21lJ3MgVmFsdWU/IFdoYXQgT2FrbGFuZCBDb3VudHkgSG9tZW93bmVycyBOZWVkIHRvIEtub3ciCmRhdGU6ICIyMDI2LTA1LTA5IgpkZXNjcmlwdGlvbjogIkRpc2NvdmVyIGhvdyBtdWNoIHZhbHVlIGEgd29vZCBmZW5jZSBhZGRzIHRvIHlvdXIgTWljaGlnYW4gaG9tZS4gV2UgYnJlYWsgZG93biBST0kgZGF0YSwgYmVzdCBtYXRlcmlhbHMsIGFuZCB3aGF0IE9ha2xhbmQgQ291bnR5IGJ1eWVycyByZWFsbHkgd2FudC4iCmNhdGVnb3J5OiAiQkYgRmVuY2UiCmF1dGhvcjogIkJGRmVuY2UiCi0tLQoKIyBEb2VzIGEgV29vZCBGZW5jZSBJbmNyZWFzZSBZb3VyIEhvbWUncyBWYWx1ZT8gV2hhdCBPYWtsYW5kIENvdW50eSBIb21lb3duZXJzIE5lZWQgdG8gS25vdwoKKlB1Ymxpc2hlZDogTWF5IDksIDIwMjYgfCBCeSBCRiBGZW5jZSoKCi0tLQoKWW91J3ZlIGJlZW4gdGhpbmtpbmcgYWJvdXQgaXQuIE1heWJlIHlvdSdyZSB0aXJlZCBvZiB5b3VyIG5laWdoYm9yJ3MgZG9nIHdhbmRlcmluZyBpbnRvIHlvdXIgeWFyZCBkdXJpbmcgdGhlIGZhbWlseSBiYXJiZWN1ZS4gTWF5YmUgeW91IHdhbnQgc29tZXdoZXJlIHNhZmUgZm9yIHlvdXIga2lkcyB0byBwbGF5IHdpdGhvdXQgaGF2aW5nIHRvIHdhdGNoIGV2ZXJ5IHNlY29uZC4gT3IgbWF5YmUgeW91J3JlIGNvbnNpZGVyaW5nIHNlbGxpbmcgeW91ciBob21lIGFuZCB3b25kZXJpbmcgaWYgdGhhdCBwcml2YWN5IGZlbmNlIHlvdSd2ZSBhbHdheXMgd2FudGVkIHdpbGwgYWN0dWFsbHkgcGF5IG9mZi4KClRoZXNlIGFyZSByZWFsIHF1ZXN0aW9ucyBPYWtsYW5kIENvdW50eSBob21lb3duZXJzIGFzayB1cyBldmVyeSBkYXkuIEFuZCB0aGUgYW5zd2VyIGlzbid0IGFzIHNpbXBsZSBhcyBhIHllcyBvciBubyDigJQgYnV0IGl0J3MgYSBsb3QgbW9yZSBlbmNvdXJhZ2luZyB0aGFuIHlvdSBtaWdodCB0aGluay4KCkxldCdzIGN1dCB0aHJvdWdoIHRoZSBub2lzZSBhbmQgdGFsayBhYm91dCB3aGF0IGEgd29vZCBmZW5jZSBhY3R1YWxseSBkb2VzIGZvciB5b3VyIGhvbWUncyB2YWx1ZSBpbiBNZXRybyBEZXRyb2l0LgoKLS0tCgojIyBUaGUgU2hvcnQgQW5zd2VyOiBZZXMsIGEgV29vZCBGZW5jZSBBZGRzIFZhbHVlCgpIZXJlJ3Mgd2hhdCB0aGUgbnVtYmVycyBzYXkuIEFjY29yZGluZyB0byBuYXRpb25hbCByZWFsIGVzdGF0ZSBkYXRhIGZyb20gSG9tZUd1aWRlLCBhIHdlbGwtYnVpbHQsIHdlbGwtbWFpbnRhaW5lZCBmZW5jZSBjYW4gaW5jcmVhc2UgeW91ciBwcm9wZXJ0eSB2YWx1ZSBieSAqKjIlIHRvIDUlKiouIE9uIGEgdHlwaWNhbCBPYWtsYW5kIENvdW50eSBob21lIHZhbHVlZCBhdCAkNDAwLDAwMCwgdGhhdCdzIGJldHdlZW4gKiokOCwwMDAgYW5kICQyMCwwMDAqKiBpbiBhZGRlZCB2YWx1ZS4KClRoZSByZXR1cm4gb24gaW52ZXN0bWVudCAoUk9JKSBmb3IgZmVuY2UgaW5zdGFsbGF0aW9uIHR5cGljYWxseSBmYWxscyBiZXR3ZWVuICoqNTAlIGFuZCA3NSUqKiBvZiB3aGF0IHlvdSBwYWlkIHRvIGluc3RhbGwgaXQsIGFjY29yZGluZyB0byBBbmdpIGFuZCBjb25maXJtZWQgYnkgbXVsdGlwbGUgcmVhbCBlc3RhdGUgc291cmNlcy4gVGhhdCBwdXRzIGEgd29vZCBmZW5jZSBpbiB0aGUgc2FtZSBiYWxscGFyayBhcyBraXRjaGVuIHVwZ3JhZGVzIGFuZCBiYXRocm9vbSByZW1vZGVscyDigJQgd2l0aG91dCB0aGUgaGVhZGFjaGUgb2YgYSBmdWxsIHJlbm92YXRpb24uCgpLZWxseSBGZW5jaW5nLCBhIG5hdGlvbmFsIGluZHVzdHJ5IHJlc291cmNlLCBwdXRzIGl0IHRoaXMgd2F5OiAiTW9zdCBob21lb3duZXJzIGNhbiBleHBlY3QgdG8gcmVjb3VwIDUwJSB0byA3NSUgb2YgdGhlaXIgZmVuY2UgaW5zdGFsbGF0aW9uIGNvc3RzIHdoZW4gc2VsbGluZy4iIFRoYXQncyBhIHNvbGlkIHJldHVybiBmb3IgYW55IGhvbWUgaW1wcm92ZW1lbnQgcHJvamVjdC4KCkJ1dCBoZXJlJ3MgdGhlIHRoaW5nIGFib3V0IE9ha2xhbmQgQ291bnR5IHNwZWNpZmljYWxseSDigJQgdGhvc2UgbnVtYmVycyBtaWdodCBhY3R1YWxseSBiZSBvbiB0aGUgY29uc2VydmF0aXZlIHNpZGUgZm9yIG91ciBhcmVhLiBXaHk/IEJlY2F1c2UgZmVuY2VkIHlhcmRzIGFyZW4ndCBqdXN0IG5pY2UgdG8gaGF2ZSBhcm91bmQgaGVyZS4gRm9yIG1hbnkgYnV5ZXJzLCB0aGV5J3JlIGEgbXVzdC1oYXZlLgoKLS0tCgojIyBXaHkgT2FrbGFuZCBDb3VudHkgSG9tZW93bmVycyBHZXQgQmV0dGVyIFJPSQoKTGV0J3MgdGFsayBhYm91dCBNZXRybyBEZXRyb2l0IHNwZWNpZmljYWxseS4gSW4gQXVidXJuIEhpbGxzLCBSb2NoZXN0ZXIsIFRyb3ksIGFuZCBhY3Jvc3MgT2FrbGFuZCBDb3VudHksIHRoZSBob3VzaW5nIG1hcmtldCBpcyBjb21wZXRpdGl2ZS4gQnV5ZXJzIGhhdmUgb3B0aW9ucywgYW5kIHRoZSBvbmVzIHdobyBjYW4gYWZmb3JkIGEgJDQwMCwwMDArIGhvbWUga25vdyB3aGF0IHRoZXkgd2FudC4KCkFjY29yZGluZyB0byBaaWxsb3cncyBDb25zdW1lciBIb3VzaW5nIFRyZW5kcyBSZXBvcnQsICoqb3ZlciA0MCUgb2YgYnV5ZXJzIGxpc3QgYSBmZW5jZWQgeWFyZCBhcyBvbmUgb2YgdGhlaXIgdG9wIDEwIHByaW9yaXRpZXMqKi4gQW5kIGhlcmUncyB0aGUgcGFydCB0aGF0IG1hdHRlcnMgZm9yIHlvdTogaW4gc3VidXJiYW4gYXJlYXMgbGlrZSBPYWtsYW5kIENvdW50eSB3aGVyZSBtb3N0IGhvbWVzIGluIGEgbmVpZ2hib3Job29kIGhhdmUgZmVuY2VzLCAqKm5vdCBoYXZpbmcgb25lIGNhbiBhY3R1YWxseSBodXJ0IHlvdXIgaG9tZSdzIGFwcGVhbCoqLgoKVGhpbmsgYWJvdXQgaXQgdGhpcyB3YXkuIEEgZmFtaWx5IHdpdGggdHdvIGtpZHMgYW5kIGEgZ29sZGVuIHJldHJpZXZlciB3YWxrcyBpbnRvIGFuIG9wZW4gaG91c2UuIFRoZXkgc2VlIGEgYmVhdXRpZnVsIGJhY2t5YXJkIOKAlCBhbmQgbm8gZmVuY2UuIEluIHRoZWlyIGhlYWQsIHRoZXkncmUgaW1tZWRpYXRlbHkgYWRkaW5nICQzLDAwMCB0byAkOCwwMDAgdG8gdGhlaXIgbWVudGFsIGNvc3Qgb2YgYnV5aW5nIHRoZSBob21lIGJlY2F1c2UgdGhleSBrbm93IHRoZXknbGwgbmVlZCB0byBpbnN0YWxsIG9uZS4gVGhhdCdzIG1vbmV5IHRoZXknZCByYXRoZXIgc3BlbmQgb24gdGhlIGRvd24gcGF5bWVudCBvciB0aGUgY2xvc2luZyBjb3N0cy4KCk1lYW53aGlsZSwgdGhlIGhvdXNlIHR3byBkb29ycyBkb3duIHdpdGggdGhlIHNhbWUgZmxvb3IgcGxhbiBidXQgYSB3ZWxsLWJ1aWx0IHByaXZhY3kgZmVuY2U/IFRoYXQgaG91c2UganVzdCBiZWNhbWUgdGhlIGVhc2llciBjaG9pY2UuCgpBIFJlZGZpbiBhbmFseXNpcyBjb25maXJtcyB0aGlzOiAiQSB3ZWxsLW1haW50YWluZWQgZmVuY2UgY2FuIG1ha2UgYSBzdHJvbmcgaW1wcmVzc2lvbiBvbiBidXllcnMsIGhlbHBpbmcgdGhlIGhvbWUgc2VsbCBmYXN0ZXIgYW5kIHBvdGVudGlhbGx5IGF0dHJhY3QgYmV0dGVyIG9mZmVycy4iIFdoZW4geW91J3JlIGNvbXBldGluZyBpbiB0aGUgT2FrbGFuZCBDb3VudHkgbWFya2V0LCBldmVyeSBhZHZhbnRhZ2UgY291bnRzLgoKLS0tCgojIyBIb3cgTXVjaCBWYWx1ZSBEb2VzIGEgRmVuY2UgQWN0dWFsbHkgQWRkPwoKTGV0J3MgZ2V0IHNwZWNpZmljLiBUaGUgbnVtYmVycyB2YXJ5IGRlcGVuZGluZyBvbiB3aG8geW91IGFzayBhbmQgd2hhdCBtYXJrZXQgeW91J3JlIGluLCBidXQgaGVyZSdzIHRoZSByYW5nZSB5b3UgY2FuIGV4cGVjdDoKCnwgU291cmNlIHwgUk9JIFJhbmdlIHwgVmFsdWUgQWRkZWQgfAp8LS0tLS0tLS18LS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLXwKfCBBbmdpIHwgMzAl4oCTNzAlIHwgJDk1MOKAkyQyLDQwMCBvbiAkMywyMDAgaW5zdGFsbCB8CnwgSG9tZUd1aWRlICgyMDI2KSB8IDUwJeKAkzcwJSB8IDIl4oCTNSUgb2YgaG9tZSB2YWx1ZSB8CnwgS2VsbHkgRmVuY2luZyB8IDUwJeKAkzc1JSB8IFJlY291cCBtb3N0IG9mIGluc3RhbGxhdGlvbiB8CnwgR2VuZXJhbCByZWFsIGVzdGF0ZSBjb25zZW5zdXMgfCA1MCXigJM2NSUgfCAkNSwwMDDigJMkMjAsMDAwIG9uICQ0MDBrIGhvbWUgfAoKVGhlIHJlYXNvbiB0aGUgcmFuZ2UgaXMgd2lkZSBpcyBzaW1wbGU6IG5vdCBhbGwgZmVuY2VzIGFyZSBjcmVhdGVkIGVxdWFsLiBBIHJvdHRpbmcsIGxlYW5pbmcgd29vZCBmZW5jZSB3aXRoIHJ1c3RlZCBuYWlscyBkb2Vzbid0IGFkZCB2YWx1ZSDigJQgaXQgc3VidHJhY3RzIGl0LiBSZWFsIGVzdGF0ZSBhZ2VudHMgYW5kIGFwcHJhaXNlcnMgd2lsbCB0ZWxsIHlvdSB0aGF0IGEgZmVuY2UgaW4gcG9vciBjb25kaXRpb24gaXMgd29yc2UgdGhhbiBubyBmZW5jZSBhdCBhbGwuCgpCdXQgYSB3ZWxsLWJ1aWx0LCB3ZWxsLW1haW50YWluZWQgd29vZCBwcml2YWN5IGZlbmNlPyBUaGF0J3MgYSBkaWZmZXJlbnQgc3RvcnkgZW50aXJlbHkuCgotLS0KCiMjIFdoYXQgVHlwZSBvZiBGZW5jZSBBZGRzIHRoZSBNb3N0IFZhbHVlPwoKVGhpcyBpcyB3aGVyZSB3ZSBnZXQgaW50byBwcmFjdGljYWwgYWR2aWNlIHlvdSBjYW4gdXNlLiBOb3QgYWxsIGZlbmNpbmcgbWF0ZXJpYWxzIGRlbGl2ZXIgdGhlIHNhbWUgcmV0dXJuLiBIZXJlJ3MgaG93IHRoZXkgc3RhY2sgdXAgZm9yIE9ha2xhbmQgQ291bnR5IGhvbWVvd25lcnM6CgojIyMgV29vZCBQcml2YWN5IEZlbmNlcyDigJQgQmVzdCBPdmVyYWxsIFJPSQoKKipST0k6IDUwJeKAkzcwJSB8IENvc3Q6ICQxNeKAkyQzNSBwZXIgbGluZWFyIGZvb3QgfCBMaWZlc3BhbjogMTXigJMyMCB5ZWFycyoqCgpXb29kIHByaXZhY3kgZmVuY2VzIOKAlCBzcGVjaWZpY2FsbHkgYm9hcmQtb24tYm9hcmQgb3Igc2hhZG93Ym94IHN0eWxlcyBhdCA2IGZlZXQgdGFsbCDigJQgY29uc2lzdGVudGx5IGRlbGl2ZXIgdGhlIGJlc3QgcmV0dXJuIG9uIGludmVzdG1lbnQgaW4gc3VidXJiYW4gbWFya2V0cy4gVGhleSBvZmZlciB0aGUgcHJpdmFjeSB0aGF0IGZhbWlsaWVzIHdhbnQsIHRoZSBjbGFzc2ljIGxvb2sgdGhhdCBmaXRzIE1pY2hpZ2FuIGhvbWVzLCBhbmQgdGhlIHNlY3VyaXR5IHRoYXQgcGV0IG93bmVycyBuZWVkLgoKQ2VkYXIgYW5kIHByZXNzdXJlLXRyZWF0ZWQgcGluZSBhcmUgdGhlIHR3byBtYWluIG9wdGlvbnMuIENlZGFyIGNvc3RzIG1vcmUgdXBmcm9udCBidXQgcmVxdWlyZXMgbGVzcyBtYWludGVuYW5jZSBvdmVyIHRpbWUuIFByZXNzdXJlLXRyZWF0ZWQgcGluZSBpcyBtb3JlIGJ1ZGdldC1mcmllbmRseSBidXQgbmVlZHMgcmVndWxhciBzdGFpbmluZyBhbmQgc2VhbGluZyB0byBob2xkIHVwLiBFaXRoZXIgd2F5LCBhIHdlbGwtYnVpbHQgd29vZCBmZW5jZSBpcyBhIHNvbGlkIGludmVzdG1lbnQgZm9yIGFueSBPYWtsYW5kIENvdW50eSBwcm9wZXJ0eS4KClRoZSBrZXkgZGlmZmVyZW50aWF0b3IgaW4gdG9kYXkncyBtYXJrZXQ/ICoqSG93IHRoZSBwb3N0cyBhcmUgaW5zdGFsbGVkLioqIFRyYWRpdGlvbmFsIHdvb2QgcG9zdHMgc2V0IGluIGNvbmNyZXRlIGV2ZW50dWFsbHkgcm90IGF0IHRoZSBncm91bmQgbGluZSDigJQgaXQncyB0aGUgbnVtYmVyIG9uZSBwb2ludCBvZiBmYWlsdXJlIGZvciB3b29kIGZlbmNlcyBpbiBNaWNoaWdhbi4gVGhhdCdzIHdoeSB3ZSB1c2UgKipQb3N0TWFzdGVyIHN0ZWVsIHBvc3RzKiogZm9yIGV2ZXJ5IGZlbmNlIHdlIGJ1aWxkLiBUaGV5J3JlIGdhbHZhbml6ZWQgc3RlZWwsIGNvbXBsZXRlbHkgaGlkZGVuIGZyb20gdmlldywgYW5kIHRoZXkgd29uJ3Qgcm90LCB3YXJwLCBvciBzaGlmdCBkdXJpbmcgTWljaGlnYW4ncyBmcmVlemUtdGhhdyBjeWNsZXMuCgojIyMgVmlueWwgRmVuY2VzIOKAlCBMb3cgTWFpbnRlbmFuY2UsIEhpZ2ggQ29zdAoKKipST0k6IDUwJeKAkzY1JSB8IENvc3Q6ICQyMOKAkyQ0MCBwZXIgbGluZWFyIGZvb3QgfCBMaWZlc3BhbjogMjDigJMzMCB5ZWFycyoqCgpWaW55bCBmZW5jZXMgaGF2ZSB0aGVpciBmYW5zLCBhbmQgZm9yIGdvb2QgcmVhc29uLiBUaGV5J3JlIHZpcnR1YWxseSBtYWludGVuYW5jZS1mcmVlIGFuZCB3b24ndCByb3Qgb3Igd2FycC4gQnV0IHRoZXkgY29zdCBzaWduaWZpY2FudGx5IG1vcmUgdXBmcm9udCwgYW5kIGluIE1pY2hpZ2FuJ3MgY2xpbWF0ZSwgdGhlIGZyZWV6ZS10aGF3IGN5Y2xlIGNhbiBtYWtlIHZpbnlsIGJyaXR0bGUgb3ZlciB0aW1lLiBUaGUgaGlnaGVyIHVwZnJvbnQgY29zdCBhbHNvIG1lYW5zIGEgbG9uZ2VyIHBheWJhY2sgcGVyaW9kLgoKIyMjIFdyb3VnaHQgSXJvbiBhbmQgQWx1bWludW0g4oCUIEJlc3QgZm9yIEN1cmIgQXBwZWFsCgoqKlJPSTogNTUl4oCTNjUlIHwgQ29zdDogJDI14oCTJDUwIHBlciBsaW5lYXIgZm9vdCB8IExpZmVzcGFuOiAyMOKAkzUwIHllYXJzKioKClRoZXNlIGFyZSBiZWF1dGlmdWwgZmVuY2VzIHRoYXQgYWRkIHNpZ25pZmljYW50IGN1cmIgYXBwZWFsIOKAlCBlc3BlY2lhbGx5IGZvciBmcm9udCB5YXJkcyBvciB1cHNjYWxlIHByb3BlcnRpZXMuIEJ1dCB0aGV5IG9mZmVyIGFsbW9zdCBubyBwcml2YWN5LCB3aGljaCBsaW1pdHMgdGhlaXIgYXBwZWFsIGZvciBmYW1pbGllcy4gVGhleSdyZSBhIG5pY2hlIGNob2ljZSB0aGF0IHdvcmtzIHdlbGwgZm9yIGNlcnRhaW4gcHJvcGVydGllcyBidXQgd29uJ3QgZGVsaXZlciB0aGUgc2FtZSB2YWx1ZSBhcyBhIHByaXZhY3kgZmVuY2UgZm9yIG1vc3QgT2FrbGFuZCBDb3VudHkgaG9tZXMuCgojIyMgQ2hhaW4gTGluayDigJQgVGhlIExvd2VzdCBSZXR1cm4KCioqUk9JOiAyMCXigJM0MCUgfCBDb3N0OiAkN+KAkyQxNSBwZXIgbGluZWFyIGZvb3QgfCBMaWZlc3BhbjogMTXigJMyMCB5ZWFycyoqCgpXZSdsbCBiZSBob25lc3Qgd2l0aCB5b3U6IGNoYWluIGxpbmsgaXMgZnVuY3Rpb25hbCBidXQgaXQgd29uJ3QgYWRkIG11Y2ggdG8geW91ciBob21lJ3MgdmFsdWUuIEluIHNvbWUgY2FzZXMsIGl0IGNhbiBldmVuIGRldHJhY3QgZnJvbSBjdXJiIGFwcGVhbC4gSWYgeW91J3JlIGludmVzdGluZyBpbiB5b3VyIHByb3BlcnR5IGZvciB0aGUgbG9uZyB0ZXJtLCB3b29kIG9yIHZpbnlsIGlzIGFsbW9zdCBhbHdheXMgdGhlIGJldHRlciBjaG9pY2UuCgojIyMgVGhlIFZlcmRpY3QKCkZvciBPYWtsYW5kIENvdW50eSBob21lb3duZXJzIGxvb2tpbmcgdG8gbWF4aW1pemUgUk9JLCBhICoqNi1mb290IHdvb2QgcHJpdmFjeSBmZW5jZSB3aXRoIHN0ZWVsIHBvc3RzKiogaXMgdGhlIGNsZWFyIHdpbm5lci4gSXQgZGVsaXZlcnMgdGhlIGJlc3QgYmFsYW5jZSBvZiBjb3N0LCBwcml2YWN5LCBkdXJhYmlsaXR5LCBhbmQgcmVzYWxlIHZhbHVlIGluIG91ciBsb2NhbCBtYXJrZXQuCgotLS0KCiMjIFRoZSBNaWNoaWdhbiBGYWN0b3I6IFdoeSBMb2NhbCBDbGltYXRlIE1hdHRlcnMKCkhlcmUncyBzb21ldGhpbmcgdGhlIG5hdGlvbmFsIHN0dWRpZXMgZG9uJ3QgYWNjb3VudCBmb3I6IE1pY2hpZ2FuJ3Mgd2VhdGhlciBpcyB1bmlxdWVseSB0b3VnaCBvbiBmZW5jZXMuCgpXZSBnZXQgdGhlIGZ1bGwgc3BlY3RydW0g4oCUIGJsYXppbmcgc3VtbWVyIHN1biwgc29ha2luZyBzcHJpbmcgcmFpbnMsIGFuZCB3aW50ZXIgZnJlZXplLXRoYXcgY3ljbGVzIHRoYXQgY2FuIHNoaWZ0IGZlbmNlIHBvc3RzIGJ5IHNldmVyYWwgaW5jaGVzLiBBY2NvcmRpbmcgdG8gaW5kdXN0cnkgcmVzZWFyY2gsIE1pY2hpZ2FuJ3MgZnJlZXplLXRoYXcgY3ljbGUgaXMgb25lIG9mIHRoZSBtb3N0IGFnZ3Jlc3NpdmUgaW4gdGhlIGNvdW50cnkgZm9yIGZlbmNlIGxvbmdldml0eS4gV2hlbiB3YXRlciBpbiB0aGUgc29pbCBmcmVlemVzIGFuZCBleHBhbmRzLCBpdCBjYW4gcHVzaCB3b29kZW4gcG9zdHMgb3V0IG9mIGFsaWdubWVudCBvciBldmVuIHRvcHBsZSBzZWN0aW9ucyBvZiBmZW5jZSBlbnRpcmVseS4KClRoaXMgaXMgd2h5IHRoZSBxdWFsaXR5IG9mIGluc3RhbGxhdGlvbiBtYXR0ZXJzIHNvIG11Y2ggbW9yZSBpbiBNaWNoaWdhbiB0aGFuIGl0IGRvZXMgaW4sIHNheSwgQ2FsaWZvcm5pYSBvciBBcml6b25hLiBBIGZlbmNlIGJ1aWx0IHdpdGggc3RhbmRhcmQgdHJlYXRlZCB3b29kIHBvc3RzIHNldCBpbiBjb25jcmV0ZSBtaWdodCBsYXN0IDEwIHRvIDEyIHllYXJzIGluIG91ciBjbGltYXRlIGJlZm9yZSB0aGUgcG9zdHMgc3RhcnQgcm90dGluZyBhdCB0aGUgZ3JvdW5kIGxpbmUuIEEgZmVuY2UgYnVpbHQgd2l0aCBnYWx2YW5pemVkIHN0ZWVsIHBvc3RzPyBJdCBjYW4gZWFzaWx5IGxhc3QgMjAgdG8gMjUgeWVhcnMg4oCUIGRvdWJsZSB0aGUgbGlmZXNwYW4uCgpXaGVuIHlvdSdyZSB0aGlua2luZyBhYm91dCBST0ksIHRoYXQgbWF0aCBtYXR0ZXJzLiBBIGZlbmNlIHRoYXQgbGFzdHMgdHdpY2UgYXMgbG9uZyBkZWxpdmVycyByb3VnaGx5IHR3aWNlIHRoZSB2YWx1ZS4gQW5kIHdoZW4gYSBwb3RlbnRpYWwgYnV5ZXIgc2VlcyAqKlBvc3RNYXN0ZXIgc3RlZWwgcG9zdHMqKiBpbiB0aGVpciBpbnNwZWN0aW9uLCB0aGV5J3JlIG5vdCBqdXN0IHNlZWluZyBhIGZlbmNlIOKAlCB0aGV5J3JlIHNlZWluZyBhbiBpbnZlc3RtZW50IHRoYXQgd2FzIGJ1aWx0IHRvIGxhc3QuCgotLS0KCiMjIFdoZW4gYSBGZW5jZSBEb2Vzbid0IEFkZCBWYWx1ZQoKTGV0J3MgYmUgZmFpciBhbmQgdGFsayBhYm91dCB0aGUgc2l0dWF0aW9ucyB3aGVyZSBhIGZlbmNlIHdvbid0IGhlbHAgeW91ciBob21lJ3MgdmFsdWUuIEJlY2F1c2UgaG9uZXN0eSBpcyBwYXJ0IG9mIGJlaW5nIGEgZ29vZCBuZWlnaGJvciwgYW5kIHdlJ2QgcmF0aGVyIHlvdSBoYXZlIHRoZSBmdWxsIHBpY3R1cmUuCgoqKlBvb3IgY29uZGl0aW9uIGlzIHRoZSBiaWdnZXN0IHZhbHVlIGtpbGxlci4qKiBBIGZlbmNlIHdpdGggbGVhbmluZyBwb3N0cywgY3JhY2tlZCBib2FyZHMsIHJ1c3RlZCBoYXJkd2FyZSwgb3Igcm90dGluZyBzZWN0aW9ucyBpcyB3b3JzZSB0aGFuIG5vIGZlbmNlIGF0IGFsbC4gSXQgc2lnbmFscyBuZWdsZWN0IHRvIGJ1eWVycyBhbmQgZ2l2ZXMgdGhlbSBhIHJlYXNvbiB0byBuZWdvdGlhdGUgeW91ciBwcmljZSBkb3duLiBJZiB5b3VyIGV4aXN0aW5nIGZlbmNlIGlzIGluIGJhZCBzaGFwZSwgeW91ciBiZXN0IGJldCBpcyB0byByZXBhaXIgb3IgcmVwbGFjZSBpdCBiZWZvcmUgbGlzdGluZy4KCioqVGhlIHdyb25nIG1hdGVyaWFsIGh1cnRzLCB0b28uKiogSW5zdGFsbGluZyBhIGNoYWluLWxpbmsgZmVuY2UgYXJvdW5kIGEgJDUwMCwwMDAgaG9tZSBpbiBhIG5laWdoYm9yaG9vZCB3aGVyZSBldmVyeSBvdGhlciBob3VzZSBoYXMgd29vZCBwcml2YWN5IGZlbmNlcyBpcyBnb2luZyB0byBzdGFuZCBvdXQg4oCUIGFuZCBub3QgaW4gYSBnb29kIHdheS4gTWF0Y2ggeW91ciBuZWlnaGJvcmhvb2QncyBzdGFuZGFyZC4KCioqT2JzdHJ1Y3RpbmcgYSB2YWx1YWJsZSB2aWV3KiogaXMgYW5vdGhlciBuby1nby4gSWYgeW91ciBwcm9wZXJ0eSBvdmVybG9va3MgYSBsYWtlLCBhIGdvbGYgY291cnNlLCBvciBvcGVuIGdyZWVuIHNwYWNlLCBhIHNvbGlkIHByaXZhY3kgZmVuY2UgY291bGQgYWN0dWFsbHkgbG93ZXIgeW91ciBob21lJ3MgdmFsdWUgYnkgYmxvY2tpbmcgdGhhdCBhbWVuaXR5LgoKKipIT0EgcmVzdHJpY3Rpb25zKiogY2FuIGFsc28gbGltaXQgeW91ciBvcHRpb25zLiBTb21lIHN1YmRpdmlzaW9ucyBoYXZlIHN0cmljdCBydWxlcyBhYm91dCBmZW5jZSBoZWlnaHQsIG1hdGVyaWFsLCBhbmQgY29sb3IuIEFsd2F5cyBjaGVjayB5b3VyIGNvdmVuYW50cyBiZWZvcmUgYnVpbGRpbmcuCgpBbmQgZmluYWxseSwgKipydXJhbCBwcm9wZXJ0aWVzIG9uIGxhcmdlIGxvdHMqKiB0eXBpY2FsbHkgc2VlIGxvd2VyIGZlbmNlIFJPSS4gV2hlbiB5b3UgaGF2ZSBmaXZlIGFjcmVzLCBmZW5jaW5nIHRoZSB3aG9sZSB0aGluZyBpcyBleHBlbnNpdmUgYW5kIHRoZSByZXR1cm4gaXMgbWluaW1hbC4gSW5zdGVhZCwgZm9jdXMgb24gZmVuY2luZyBhIHNtYWxsZXIgYXJlYSBhcm91bmQgdGhlIGhvdXNlIHdoZXJlIHRoZSBmYW1pbHkgd2lsbCBhY3R1YWxseSBzcGVuZCB0aW1lLgoKLS0tCgojIyBIb3cgQXBwcmFpc2VycyBFdmFsdWF0ZSBGZW5jZXMKCllvdSBtaWdodCBiZSB3b25kZXJpbmcgaG93IGEgaG9tZSBhcHByYWlzZXIgYWN0dWFsbHkgYWNjb3VudHMgZm9yIGEgZmVuY2Ugd2hlbiB2YWx1aW5nIHlvdXIgcHJvcGVydHkuIEl0J3MgYSBmYWlyIHF1ZXN0aW9uLgoKQXBwcmFpc2VycyB1c2UgY29tcGFyYWJsZSBzYWxlcyDigJQgImNvbXBzIiDigJQgdG8gZGV0ZXJtaW5lIHlvdXIgaG9tZSdzIHZhbHVlLiBXaGVuIHRoZXkgZmluZCBhIGNvbXBhcmFibGUgaG9tZSB0aGF0IHNvbGQgd2l0aCBhIGZlbmNlIGFuZCB5b3VycyBoYXMgb25lIHRvbywgdGhleSBub3RlIHRoZSBzaW1pbGFyaXR5LiBXaGVuIHlvdXJzIGhhcyBhIGZlbmNlIGFuZCB0aGUgY29tcCBkb2Vzbid0LCB0aGV5IHR5cGljYWxseSBhZGQgKiokMiwwMDAgdG8gJDUsMDAwKiogdG8geW91ciBob21lJ3MgYWRqdXN0ZWQgdmFsdWUgZm9yIGEgc3RhbmRhcmQgcHJpdmFjeSBmZW5jZS4KCkJ1dCBoZXJlJ3MgdGhlIGNhdGNoOiBhcHByYWlzZXJzIGFyZSBjb25zZXJ2YXRpdmUuIFRoZXkncmUgbG9va2luZyBhdCBjb25kaXRpb24sIG1hdGVyaWFsIHF1YWxpdHksIHJlbWFpbmluZyBsaWZlc3BhbiwgYW5kIGZ1bmN0aW9uYWwgdXRpbGl0eS4gQSBmZW5jZSB0aGF0J3MgMTUgeWVhcnMgb2xkIGFuZCBzaG93aW5nIGl0cyBhZ2Ugd29uJ3QgY29tbWFuZCB0aGUgc2FtZSBwcmVtaXVtIGFzIG9uZSB0aGF0IHdhcyBpbnN0YWxsZWQgbGFzdCB5ZWFyLgoKVGhlIHJlYWwgdmFsdWUgb2YgYSBxdWFsaXR5IGZlbmNlIG9mdGVuIHNob3dzIHVwIGluIGEgZGlmZmVyZW50IHdheTogKippdCBoZWxwcyB5b3VyIGhvbWUgc2VsbCBmYXN0ZXIgYW5kIGNsb3NlciB0byBhc2tpbmcgcHJpY2UuKiogV2hlbiB0d28gc2ltaWxhciBob21lcyBhcmUgb24gdGhlIG1hcmtldCBhbmQgb25lIGhhcyBhIGZlbmNlZCBiYWNreWFyZCwgZ3Vlc3Mgd2hpY2ggb25lIGdldHMgdGhlIGZpcnN0IG9mZmVyPyBUaGF0J3MgYSB2YWx1ZSB0aGF0IGRvZXNuJ3QgYWx3YXlzIGFwcGVhciBvbiB0aGUgYXBwcmFpc2FsIOKAlCBidXQgaXQgc2hvd3MgdXAgaW4geW91ciBiYW5rIGFjY291bnQuCgotLS0KCiMjIFdoYXQgT2FrbGFuZCBDb3VudHkgQnV5ZXJzIEFjdHVhbGx5IFdhbnQKCldlIHdvcmsgd2l0aCBob21lb3duZXJzIGFjcm9zcyBNZXRybyBEZXRyb2l0IGV2ZXJ5IGRheS4gSGVyZSdzIHdoYXQgd2UgaGVhciBmcm9tIGJ1eWVycyB3aGVuIHRoZXkgd2FsayBhIHByb3BlcnR5OgoKKipQcml2YWN5IGlzIHRoZSBudW1iZXIgb25lIHByaW9yaXR5LioqIEJ1eWVycyB3YW50IGEgYmFja3lhcmQgd2hlcmUgdGhleSBjYW4gcmVsYXgsIGVudGVydGFpbiwgYW5kIGxldCB0aGVpciBndWFyZCBkb3duIHdpdGhvdXQgZmVlbGluZyBsaWtlIHRoZXkncmUgb24gZGlzcGxheS4gQSA2LWZvb3QgcHJpdmFjeSBmZW5jZSBkZWxpdmVycyB0aGF0IGluIGEgd2F5IG5vdGhpbmcgZWxzZSBjYW4uCgoqKlBldCBzYWZldHkgaXMgYSBjbG9zZSBzZWNvbmQuKiogTWljaGlnYW4gaXMgYSBwZXQtbG92aW5nIHN0YXRlLiBXaGVuIGEgYnV5ZXIgd2l0aCBhIGRvZyB3YWxrcyBpbnRvIGEgeWFyZCB3aXRob3V0IGEgZmVuY2UsIHRoZXkgaW1tZWRpYXRlbHkgc3RhcnQgY2FsY3VsYXRpbmcgaG93IG11Y2ggaXQgd2lsbCBjb3N0IHRvIGZlbmNlIGl0IGluLiBSZW1vdmUgdGhhdCBiYXJyaWVyLCBhbmQgeW91ciBob21lIGp1c3QgYmVjYW1lIG1vcmUgYXBwZWFsaW5nLgoKKipMb3cgbWFpbnRlbmFuY2UgbWF0dGVycy4qKiBCdXllcnMgZG9uJ3Qgd2FudCBhIHByb2plY3QuIFRoZXkgd2FudCBhIGZlbmNlIHRoYXQgbG9va3MgZ3JlYXQgYW5kIHdpbGwga2VlcCBsb29raW5nIGdyZWF0IHdpdGhvdXQgY29uc3RhbnQgdXBrZWVwLiBUaGF0J3Mgd2h5IHRoZSBjb21iaW5hdGlvbiBvZiB3b29kIHBhbmVscyB3aXRoIHN0ZWVsIHBvc3RzIGlzIHNvIGF0dHJhY3RpdmUg4oCUIHlvdSBnZXQgdGhlIGNsYXNzaWMgbG9vayBvZiB3b29kIHdpdGggdGhlIGR1cmFiaWxpdHkgb2YgbW9kZXJuIGVuZ2luZWVyaW5nLgoKKipDbGVhciBwcm9wZXJ0eSBib3VuZGFyaWVzKiogYXJlIGFub3RoZXIgc2VsbGluZyBwb2ludC4gQSBmZW5jZSBjbGVhcmx5IGRlZmluZXMgd2hhdCBiZWxvbmdzIHRvIHRoZSBob21lb3duZXIgYW5kIGVsaW1pbmF0ZXMgcG90ZW50aWFsIGRpc3B1dGVzIHdpdGggbmVpZ2hib3JzLiBUaGF0IHBlYWNlIG9mIG1pbmQgaGFzIHJlYWwgdmFsdWUuCgotLS0KCiMjIFByYWN0aWNhbCBUaXBzIGZvciBNYXhpbWl6aW5nIFlvdXIgRmVuY2UgUk9JCgpJZiB5b3UncmUgcmVhZHkgdG8gaW52ZXN0IGluIGEgd29vZCBmZW5jZSBmb3IgeW91ciBPYWtsYW5kIENvdW50eSBob21lLCBoZXJlJ3MgaG93IHRvIGdldCB0aGUgYmVzdCByZXR1cm46CgojIyMgMS4gQ2hvb3NlIHRoZSBSaWdodCBMb2NhdGlvbgoKRm9jdXMgb24gdGhlICoqYmFja3lhcmQqKiDigJQgdGhhdCdzIHdoZXJlIHByaXZhY3kgZmVuY2VzIGFkZCB0aGUgbW9zdCB2YWx1ZS4gRnJvbnQgeWFyZCBmZW5jZXMgY2FuIHdvcmsgZm9yIGNlcnRhaW4gcHJvcGVydHkgc3R5bGVzLCBidXQgdGhlIGJhY2t5YXJkIGlzIHdoZXJlIGZhbWlsaWVzIGFjdHVhbGx5IHNwZW5kIHRpbWUsIGFuZCB0aGF0J3Mgd2hhdCBidXllcnMgY2FyZSBhYm91dCBtb3N0LgoKIyMjIDIuIFBpY2sgdGhlIFJpZ2h0IEhlaWdodAoKSW4gTWljaGlnYW4sIG1vc3QgbXVuaWNpcGFsaXRpZXMgYWxsb3cgKio2LWZvb3QgZmVuY2VzIGluIGJhY2t5YXJkcyoqIGFuZCAqKjQtZm9vdCBmZW5jZXMgaW4gZnJvbnQgeWFyZHMqKi4gQSA2LWZvb3QgcHJpdmFjeSBmZW5jZSBpcyB0aGUgc3dlZXQgc3BvdCBmb3IgbWF4aW11bSB2YWx1ZS4gSXQgcHJvdmlkZXMgY29tcGxldGUgcHJpdmFjeSB3aXRob3V0IGJlaW5nIHVubmVjZXNzYXJpbHkgdGFsbC4KCiMjIyAzLiBJbnZlc3QgaW4gUXVhbGl0eSBNYXRlcmlhbHMKClRoaXMgaXMgbm90IHRoZSBwbGFjZSB0byBjdXQgY29ybmVycy4gQSBmZW5jZSBidWlsdCB3aXRoIHN0ZWVsIHBvc3RzIGFuZCBxdWFsaXR5IHdvb2Qg4oCUIHdoZXRoZXIgY2VkYXIgb3IgcHJlc3N1cmUtdHJlYXRlZCBwaW5lIOKAlCB3aWxsIG91dGxhc3QgYSBidWRnZXQgZmVuY2UgYnkgeWVhcnMuIEFuZCB3aGVuIGl0IGNvbWVzIHRpbWUgdG8gc2VsbCwgYnV5ZXJzIChhbmQgdGhlaXIgaW5zcGVjdG9ycykgd2lsbCBub3RpY2UgdGhlIGRpZmZlcmVuY2UuCgojIyMgNC4gR2V0IGEgUHJvcGVydHkgU3VydmV5CgpCZWZvcmUgYnVpbGRpbmcsIGludmVzdCAkMzAwIHRvICQ4MDAgaW4gYSBwcm9mZXNzaW9uYWwgbGFuZCBzdXJ2ZXkuIEl0IHByZXZlbnRzIGxlZ2FsIGRpc3B1dGVzIHdpdGggbmVpZ2hib3JzIGFuZCBlbnN1cmVzIHlvdXIgZmVuY2UgaXMgZXhhY3RseSB3aGVyZSBpdCBzaG91bGQgYmUuIFdoZW4geW91IGxhdGVyIHNlbGwsIHlvdSdsbCBoYXZlIGRvY3VtZW50YXRpb24gdGhhdCB5b3VyIGZlbmNlIGlzIHByb3Blcmx5IHBsYWNlZC4KCiMjIyA1LiBQbGFuIFlvdXIgVGltaW5nCgpJZiB5b3UncmUgcGxhbm5pbmcgdG8gc2VsbCwgdGhlIGlkZWFsIHRpbWUgdG8gaW5zdGFsbCBhIGZlbmNlIGlzICoqMSB0byAzIHllYXJzIGJlZm9yZSBsaXN0aW5nKiouIFRoYXQgZ2l2ZXMgdGhlIGZlbmNlIHRpbWUgdG8gc2V0dGxlIGFuZCBsb29rIGVzdGFibGlzaGVkIHdpdGhvdXQgYXBwZWFyaW5nIHdvcm4uIEEgZmVuY2UgdGhhdCdzIGJyYW5kIG5ldyB0aGUgd2VlayBiZWZvcmUgeW91IGxpc3QgY2FuIGZlZWwgbGlrZSBhIGxhc3QtbWludXRlIHRhY3RpYyB0byBidXllcnMuCgojIyMgNi4gTWFpbnRhaW4gV2hhdCBZb3UgSGF2ZQoKVGhpcyBvbmUgaXMgY3J1Y2lhbC4gQSB3b29kIGZlbmNlIG5lZWRzIHBlcmlvZGljIG1haW50ZW5hbmNlIHRvIHJldGFpbiBpdHMgdmFsdWUuIFN0YWluIG9yIHNlYWwgaXQgZXZlcnkgMiB0byAzIHllYXJzLiBSZXBsYWNlIGRhbWFnZWQgYm9hcmRzIHByb21wdGx5LiBLZWVwIHZlZ2V0YXRpb24gdHJpbW1lZCBhd2F5IGZyb20gdGhlIGZlbmNlIGxpbmUuIEEgd2VsbC1tYWludGFpbmVkIGZlbmNlIHNpZ25hbHMgdGhhdCB0aGUgd2hvbGUgcHJvcGVydHkgaGFzIGJlZW4gY2FyZWQgZm9yLgoKIyMjIDcuIENoZWNrIExvY2FsIFJlZ3VsYXRpb25zCgpQZXJtaXQgcmVxdWlyZW1lbnRzIHZhcnkgYnkgdG93bnNoaXAgaW4gT2FrbGFuZCBDb3VudHkuIFNvbWUgY29tbXVuaXRpZXMgcmVxdWlyZSBwZXJtaXRzIGZvciBmZW5jZXMgb3ZlciBhIGNlcnRhaW4gaGVpZ2h0LiBTb21lIGhhdmUgc2V0YmFjayByZXF1aXJlbWVudHMuIE90aGVycywgbGlrZSBPYWtsYW5kIFRvd25zaGlwLCBkb24ndCByZXF1aXJlIHBlcm1pdHMgZm9yIHN0YW5kYXJkIHJlc2lkZW50aWFsIGZlbmNlIGluc3RhbGxhdGlvbiBhdCBhbGwuIEFsd2F5cyBjaGVjayB3aXRoIHlvdXIgbG9jYWwgYnVpbGRpbmcgZGVwYXJ0bWVudCBiZWZvcmUgc3RhcnRpbmcgY29uc3RydWN0aW9uLgoKLS0tCgojIyBUaGUgQm90dG9tIExpbmU6IElzIGEgV29vZCBGZW5jZSBXb3J0aCBJdD8KCkhlcmUncyBvdXIgc3RyYWlnaHRmb3J3YXJkIGFuc3dlcjogKipZZXMsIGEgcXVhbGl0eSB3b29kIGZlbmNlIGlzIG9uZSBvZiB0aGUgc21hcnRlc3QgaW52ZXN0bWVudHMgeW91IGNhbiBtYWtlIGluIHlvdXIgT2FrbGFuZCBDb3VudHkgaG9tZS4qKgoKVGhlIGRhdGEgc3VwcG9ydHMgaXQuIFJlYWwgZXN0YXRlIGV4cGVydHMgY29uZmlybSBpdC4gQW5kIG91ciBjdXN0b21lcnMgbGl2ZSBpdCBldmVyeSBkYXkg4oCUIGVuam95aW5nIHRoZWlyIHByaXZhdGUgYmFja3lhcmRzIHdoaWxlIGJ1aWxkaW5nIGVxdWl0eSBpbiB0aGVpciBwcm9wZXJ0aWVzLgoKQSB3ZWxsLWJ1aWx0IHdvb2QgZmVuY2Ugd2l0aCBzdGVlbCBwb3N0czoKLSBBZGRzICoqMiUgdG8gNSUqKiB0byB5b3VyIGhvbWUncyB2YWx1ZSAoJDgsMDAwIHRvICQyMCwwMDAgb24gYSB0eXBpY2FsIE9ha2xhbmQgQ291bnR5IGhvbWUpCi0gRGVsaXZlcnMgYW4gKipST0kgb2YgNTAlIHRvIDc1JSoqIG9mIGluc3RhbGxhdGlvbiBjb3N0Ci0gSGVscHMgeW91ciBob21lICoqc2VsbCBmYXN0ZXIqKiBpbiBhIGNvbXBldGl0aXZlIG1hcmtldAotIFByb3ZpZGVzICoqeWVhcnMgb2YgZW5qb3ltZW50Kiog4oCUIHByaXZhY3ksIHNlY3VyaXR5LCBhbmQgcGVhY2Ugb2YgbWluZAoKQnV0IG9ubHkgaWYgaXQncyBkb25lIHJpZ2h0LiBBIGNoZWFwIGZlbmNlIGlzIGFuIGV4cGVuc2UuIEEgcXVhbGl0eSBmZW5jZSBpcyBhbiBpbnZlc3RtZW50LgoKLS0tCgojIyBSZWFkeSB0byBJbnZlc3QgaW4gWW91ciBQcm9wZXJ0eT8KCkF0IEJGIEZlbmNlLCB3ZSBidWlsZCB3b29kIGZlbmNlcyB0aGF0IHN0YW5kIHVwIHRvIE1pY2hpZ2FuJ3MgY2xpbWF0ZSBhbmQgYWRkIHJlYWwgdmFsdWUgdG8geW91ciBob21lLiBFdmVyeSBmZW5jZSB3ZSBpbnN0YWxsIHVzZXMgKipQb3N0TWFzdGVyIHN0ZWVsIHBvc3RzKiog4oCUIGJlY2F1c2UgYSBmZW5jZSBidWlsdCB0byBsYXN0IGlzIGEgZmVuY2UgdGhhdCBwYXlzIGZvciBpdHNlbGYuCgpXZSBzZXJ2ZSBob21lb3duZXJzIGFjcm9zcyBPYWtsYW5kIENvdW50eSDigJQgQXVidXJuIEhpbGxzLCBSb2NoZXN0ZXIsIFRyb3ksIGFuZCB0aGUgc3Vycm91bmRpbmcgY29tbXVuaXRpZXMuIE91ciB0ZWFtIG9mIHR3byBiZXN0IGZyaWVuZHMsIEp1c3RpbiBhbmQgQ2hyaXMsIHRha2VzIHByaWRlIGluIGRvaW5nIHRoZSBqb2IgcmlnaHQuIE5vIHNob3J0Y3V0cy4gTm8gY3V0dGluZyBjb3JuZXJzLiBKdXN0IGhvbmVzdCB3b3JrIGF0IGEgZmFpciBwcmljZS4KCioqQ2FsbCB1cyB0b2RheSBhdCAoMjQ4KSA2MDQtNjE2OCoqIG9yIFtyZXF1ZXN0IGEgZnJlZSBlc3RpbWF0ZSBvbmxpbmVdKGh0dHBzOi8vYmZmZW5jZS5jb20vZnJlZS1lc3RpbWF0ZSkuIFdlJ2xsIHZpc2l0IHlvdXIgcHJvcGVydHksIGRpc2N1c3MgeW91ciBuZWVkcywgYW5kIGdpdmUgeW91IGFuIGFjY3VyYXRlIHF1b3RlIOKAlCBubyBwcmVzc3VyZSwgbm8gZ2FtZXMuCgpZb3VyIGhvbWUgaXMgeW91ciBiaWdnZXN0IGludmVzdG1lbnQuIFByb3RlY3QgaXQgd2l0aCBhIGZlbmNlIHRoYXQncyBidWlsdCB0byBsYXN0LgoKLS0tCgoqQkYgRmVuY2UgaXMgYSBsb2NhbGx5IG93bmVkIGFuZCBvcGVyYXRlZCBmZW5jZSBjb250cmFjdG9yIHNlcnZpbmcgV2F5bmUsIE9ha2xhbmQsIGFuZCBHZW5lc2VlIENvdW50aWVzLiBMb2NhdGVkIGF0IDI3MTEgV2lsbGlhbXNidXJnIENpciwgQXVidXJuIEhpbGxzLCBNSSA0ODMyNi4gQ2FsbCAoMjQ4KSA2MDQtNjE2OCBvciBlbWFpbCBlc3RpbWF0ZUBiZmZlbmNlLmNvbSBmb3IgYSBmcmVlIGVzdGltYXRlLioK
+---
+title: "Does a Wood Fence Increase Your Home's Value? What Oakland County Homeowners Need to Know"
+date: "2026-05-09"
+description: "Discover how much value a wood fence adds to your Michigan home. We break down ROI data, best materials, and what Oakland County buyers really want."
+category: "BF Fence"
+author: "BFFence"
+---
+
+# Does a Wood Fence Increase Your Home's Value? What Oakland County Homeowners Need to Know
+
+*Published: May 9, 2026 | By BF Fence*
+
+---
+
+You've been thinking about it. Maybe you're tired of your neighbor's dog wandering into your yard during the family barbecue. Maybe you want somewhere safe for your kids to play without having to watch every second. Or maybe you're considering selling your home and wondering if that privacy fence you've always wanted will actually pay off.
+
+These are real questions Oakland County homeowners ask us every day. And the answer isn't as simple as a yes or no — but it's a lot more encouraging than you might think.
+
+Let's cut through the noise and talk about what a wood fence actually does for your home's value in Metro Detroit.
+
+---
+
+## The Short Answer: Yes, a Wood Fence Adds Value
+
+Here's what the numbers say. According to national real estate data from HomeGuide, a well-built, well-maintained fence can increase your property value by **2% to 5%**. On a typical Oakland County home valued at $400,000, that's between **$8,000 and $20,000** in added value.
+
+The return on investment (ROI) for fence installation typically falls between **50% and 75%** of what you paid to install it, according to Angi and confirmed by multiple real estate sources. That puts a wood fence in the same ballpark as kitchen upgrades and bathroom remodels — without the headache of a full renovation.
+
+Kelly Fencing, a national industry resource, puts it this way: "Most homeowners can expect to recoup 50% to 75% of their fence installation costs when selling." That's a solid return for any home improvement project.
+
+But here's the thing about Oakland County specifically — those numbers might actually be on the conservative side for our area. Why? Because fenced yards aren't just nice to have around here. For many buyers, they're a must-have.
+
+---
+
+## Why Oakland County Homeowners Get Better ROI
+
+Let's talk about Metro Detroit specifically. In Auburn Hills, Rochester, Troy, and across Oakland County, the housing market is competitive. Buyers have options, and the ones who can afford a $400,000+ home know what they want.
+
+According to Zillow's Consumer Housing Trends Report, **over 40% of buyers list a fenced yard as one of their top 10 priorities**. And here's the part that matters for you: in suburban areas like Oakland County where most homes in a neighborhood have fences, **not having one can actually hurt your home's appeal**.
+
+Think about it this way. A family with two kids and a golden retriever walks into an open house. They see a beautiful backyard — and no fence. In their head, they're immediately adding $3,000 to $8,000 to their mental cost of buying the home because they know they'll need to install one. That's money they'd rather spend on the down payment or the closing costs.
+
+Meanwhile, the house two doors down with the same floor plan but a well-built privacy fence? That house just became the easier choice.
+
+A Redfin analysis confirms this: "A well-maintained fence can make a strong impression on buyers, helping the home sell faster and potentially attract better offers." When you're competing in the Oakland County market, every advantage counts.
+
+---
+
+## How Much Value Does a Fence Actually Add?
+
+Let's get specific. The numbers vary depending on who you ask and what market you're in, but here's the range you can expect:
+
+| Source | ROI Range | Value Added |
+|--------|-----------|-------------|
+| Angi | 30%–70% | $950–$2,400 on $3,200 install |
+| HomeGuide (2026) | 50%–70% | 2%–5% of home value |
+| Kelly Fencing | 50%–75% | Recoup most of installation |
+| General real estate consensus | 50%–65% | $5,000–$20,000 on $400k home |
+
+The reason the range is wide is simple: not all fences are created equal. A rotting, leaning wood fence with rusted nails doesn't add value — it subtracts it. Real estate agents and appraisers will tell you that a fence in poor condition is worse than no fence at all.
+
+But a well-built, well-maintained wood privacy fence? That's a different story entirely.
+
+---
+
+## What Type of Fence Adds the Most Value?
+
+This is where we get into practical advice you can use. Not all fencing materials deliver the same return. Here's how they stack up for Oakland County homeowners:
+
+### Wood Privacy Fences — Best Overall ROI
+
+**ROI: 50%–70% | Cost: $15–$35 per linear foot | Lifespan: 15–20 years**
+
+Wood privacy fences — specifically board-on-board or shadowbox styles at 6 feet tall — consistently deliver the best return on investment in suburban markets. They offer the privacy that families want, the classic look that fits Michigan homes, and the security that pet owners need.
+
+Cedar and pressure-treated pine are the two main options. Cedar costs more upfront but requires less maintenance over time. Pressure-treated pine is more budget-friendly but needs regular staining and sealing to hold up. Either way, a well-built wood fence is a solid investment for any Oakland County property.
+
+The key differentiator in today's market? **How the posts are installed.** Traditional wood posts set in concrete eventually rot at the ground line — it's the number one point of failure for wood fences in Michigan. That's why we use **PostMaster steel posts** for every fence we build. They're galvanized steel, completely hidden from view, and they won't rot, warp, or shift during Michigan's freeze-thaw cycles.
+
+### Vinyl Fences — Low Maintenance, High Cost
+
+**ROI: 50%–65% | Cost: $20–$40 per linear foot | Lifespan: 20–30 years**
+
+Vinyl fences have their fans, and for good reason. They're virtually maintenance-free and won't rot or warp. But they cost significantly more upfront, and in Michigan's climate, the freeze-thaw cycle can make vinyl brittle over time. The higher upfront cost also means a longer payback period.
+
+### Wrought Iron and Aluminum — Best for Curb Appeal
+
+**ROI: 55%–65% | Cost: $25–$50 per linear foot | Lifespan: 20–50 years**
+
+These are beautiful fences that add significant curb appeal — especially for front yards or upscale properties. But they offer almost no privacy, which limits their appeal for families. They're a niche choice that works well for certain properties but won't deliver the same value as a privacy fence for most Oakland County homes.
+
+### Chain Link — The Lowest Return
+
+**ROI: 20%–40% | Cost: $7–$15 per linear foot | Lifespan: 15–20 years**
+
+We'll be honest with you: chain link is functional but it won't add much to your home's value. In some cases, it can even detract from curb appeal. If you're investing in your property for the long term, wood or vinyl is almost always the better choice.
+
+### The Verdict
+
+For Oakland County homeowners looking to maximize ROI, a **6-foot wood privacy fence with steel posts** is the clear winner. It delivers the best balance of cost, privacy, durability, and resale value in our local market.
+
+---
+
+## The Michigan Factor: Why Local Climate Matters
+
+Here's something the national studies don't account for: Michigan's weather is uniquely tough on fences.
+
+We get the full spectrum — blazing summer sun, soaking spring rains, and winter freeze-thaw cycles that can shift fence posts by several inches. According to industry research, Michigan's freeze-thaw cycle is one of the most aggressive in the country for fence longevity. When water in the soil freezes and expands, it can push wooden posts out of alignment or even topple sections of fence entirely.
+
+This is why the quality of installation matters so much more in Michigan than it does in, say, California or Arizona. A fence built with standard treated wood posts set in concrete might last 10 to 12 years in our climate before the posts start rotting at the ground line. A fence built with galvanized steel posts? It can easily last 20 to 25 years — double the lifespan.
+
+When you're thinking about ROI, that math matters. A fence that lasts twice as long delivers roughly twice the value. And when a potential buyer sees **PostMaster steel posts** in their inspection, they're not just seeing a fence — they're seeing an investment that was built to last.
+
+---
+
+## When a Fence Doesn't Add Value
+
+Let's be fair and talk about the situations where a fence won't help your home's value. Because honesty is part of being a good neighbor, and we'd rather you have the full picture.
+
+**Poor condition is the biggest value killer.** A fence with leaning posts, cracked boards, rusted hardware, or rotting sections is worse than no fence at all. It signals neglect to buyers and gives them a reason to negotiate your price down. If your existing fence is in bad shape, your best bet is to repair or replace it before listing.
+
+**The wrong material hurts, too.** Installing a chain-link fence around a $500,000 home in a neighborhood where every other house has wood privacy fences is going to stand out — and not in a good way. Match your neighborhood's standard.
+
+**Obstructing a valuable view** is another no-go. If your property overlooks a lake, a golf course, or open green space, a solid privacy fence could actually lower your home's value by blocking that amenity.
+
+**HOA restrictions** can also limit your options. Some subdivisions have strict rules about fence height, material, and color. Always check your covenants before building.
+
+And finally, **rural properties on large lots** typically see lower fence ROI. When you have five acres, fencing the whole thing is expensive and the return is minimal. Instead, focus on fencing a smaller area around the house where the family will actually spend time.
+
+---
+
+## How Appraisers Evaluate Fences
+
+You might be wondering how a home appraiser actually accounts for a fence when valuing your property. It's a fair question.
+
+Appraisers use comparable sales — "comps" — to determine your home's value. When they find a comparable home that sold with a fence and yours has one too, they note the similarity. When yours has a fence and the comp doesn't, they typically add **$2,000 to $5,000** to your home's adjusted value for a standard privacy fence.
+
+But here's the catch: appraisers are conservative. They're looking at condition, material quality, remaining lifespan, and functional utility. A fence that's 15 years old and showing its age won't command the same premium as one that was installed last year.
+
+The real value of a quality fence often shows up in a different way: **it helps your home sell faster and closer to asking price.** When two similar homes are on the market and one has a fenced backyard, guess which one gets the first offer? That's a value that doesn't always appear on the appraisal — but it shows up in your bank account.
+
+---
+
+## What Oakland County Buyers Actually Want
+
+We work with homeowners across Metro Detroit every day. Here's what we hear from buyers when they walk a property:
+
+**Privacy is the number one priority.** Buyers want a backyard where they can relax, entertain, and let their guard down without feeling like they're on display. A 6-foot privacy fence delivers that in a way nothing else can.
+
+**Pet safety is a close second.** Michigan is a pet-loving state. When a buyer with a dog walks into a yard without a fence, they immediately start calculating how much it will cost to fence it in. Remove that barrier, and your home just became more appealing.
+
+**Low maintenance matters.** Buyers don't want a project. They want a fence that looks great and will keep looking great without constant upkeep. That's why the combination of wood panels with steel posts is so attractive — you get the classic look of wood with the durability of modern engineering.
+
+**Clear property boundaries** are another selling point. A fence clearly defines what belongs to the homeowner and eliminates potential disputes with neighbors. That peace of mind has real value.
+
+---
+
+## Practical Tips for Maximizing Your Fence ROI
+
+If you're ready to invest in a wood fence for your Oakland County home, here's how to get the best return:
+
+### 1. Choose the Right Location
+
+Focus on the **backyard** — that's where privacy fences add the most value. Front yard fences can work for certain property styles, but the backyard is where families actually spend time, and that's what buyers care about most.
+
+### 2. Pick the Right Height
+
+In Michigan, most municipalities allow **6-foot fences in backyards** and **4-foot fences in front yards**. A 6-foot privacy fence is the sweet spot for maximum value. It provides complete privacy without being unnecessarily tall.
+
+### 3. Invest in Quality Materials
+
+This is not the place to cut corners. A fence built with steel posts and quality wood — whether cedar or pressure-treated pine — will outlast a budget fence by years. And when it comes time to sell, buyers (and their inspectors) will notice the difference.
+
+### 4. Get a Property Survey
+
+Before building, invest $300 to $800 in a professional land survey. It prevents legal disputes with neighbors and ensures your fence is exactly where it should be. When you later sell, you'll have documentation that your fence is properly placed.
+
+### 5. Plan Your Timing
+
+If you're planning to sell, the ideal time to install a fence is **1 to 3 years before listing**. That gives the fence time to settle and look established without appearing worn. A fence that's brand new the week before you list can feel like a last-minute tactic to buyers.
+
+### 6. Maintain What You Have
+
+This one is crucial. A wood fence needs periodic maintenance to retain its value. Stain or seal it every 2 to 3 years. Replace damaged boards promptly. Keep vegetation trimmed away from the fence line. A well-maintained fence signals that the whole property has been cared for.
+
+### 7. Check Local Regulations
+
+Permit requirements vary by township in Oakland County. Some communities require permits for fences over a certain height. Some have setback requirements. Others, like Oakland Township, don't require permits for standard residential fence installation at all. Always check with your local building department before starting construction.
+
+---
+
+## The Bottom Line: Is a Wood Fence Worth It?
+
+Here's our straightforward answer: **Yes, a quality wood fence is one of the smartest investments you can make in your Oakland County home.**
+
+The data supports it. Real estate experts confirm it. And our customers live it every day — enjoying their private backyards while building equity in their properties.
+
+A well-built wood fence with steel posts:
+- Adds **2% to 5%** to your home's value ($8,000 to $20,000 on a typical Oakland County home)
+- Delivers an **ROI of 50% to 75%** of installation cost
+- Helps your home **sell faster** in a competitive market
+- Provides **years of enjoyment** — privacy, security, and peace of mind
+
+But only if it's done right. A cheap fence is an expense. A quality fence is an investment.
+
+---
+
+## Ready to Invest in Your Property?
+
+At BF Fence, we build wood fences that stand up to Michigan's climate and add real value to your home. Every fence we install uses **PostMaster steel posts** — because a fence built to last is a fence that pays for itself.
+
+We serve homeowners across Oakland County — Auburn Hills, Rochester, Troy, and the surrounding communities. Our team of two best friends, Justin and Chris, takes pride in doing the job right. No shortcuts. No cutting corners. Just honest work at a fair price.
+
+**Call us today at (248) 604-6168** or [request a free estimate online](https://bffence.com/free-estimate). We'll visit your property, discuss your needs, and give you an accurate quote — no pressure, no games.
+
+Your home is your biggest investment. Protect it with a fence that's built to last.
+
+---
+
+*BF Fence is a locally owned and operated fence contractor serving Wayne, Oakland, and Genesee Counties. Located at 2711 Williamsburg Cir, Auburn Hills, MI 48326. Call (248) 604-6168 or email estimate@bffence.com for a free estimate.*

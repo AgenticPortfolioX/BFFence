@@ -1,1 +1,36 @@
-IyBQdWJsaXNoaW5nIEluc3RydWN0aW9ucyAtIDIwMjYtMDUtMDktd29vZC1mZW5jZS1ob21lLXZhbHVlLW9ha2xhbmQtY291bnR5CgojIyBQb3N0IERldGFpbHMKLSAqKlRpdGxlOioqIERvZXMgYSBXb29kIEZlbmNlIEluY3JlYXNlIFlvdXIgSG9tZSdzIFZhbHVlPyBXaGF0IE9ha2xhbmQgQ291bnR5IEhvbWVvd25lcnMgTmVlZCB0byBLbm93Ci0gKipTbHVnOioqIDIwMjYtMDUtMDktd29vZC1mZW5jZS1ob21lLXZhbHVlLW9ha2xhbmQtY291bnR5Ci0gKipEYXRlOioqIDIwMjYtMDUtMDkKLSAqKkNhdGVnb3J5OioqIEJGIEZlbmNlIChHZW5lcmFsKQotICoqQXV0aG9yOioqIEJGRmVuY2UKLSAqKlRhcmdldCBVUkw6KiogaHR0cHM6Ly9iZmZlbmNlLmNvbS9ibG9nLzIwMjYtMDUtMDkKCiMjIEZpbGVzCjEuICoqZmluYWwubWQqKiAtIEJsb2cgcG9zdCB3aXRoIFlBTUwgZnJvbnRtYXR0ZXIgKHRpdGxlLCBkYXRlLCBkZXNjcmlwdGlvbiwgY2F0ZWdvcnksIGF1dGhvcikKMi4gKipmZWF0dXJlX2ltYWdlLnBuZyoqIC0gMTI4MHg3MjAgMTY6OSBmZWF0dXJlZCBpbWFnZQozLiAqKnNjaGVtYS5qc29uKiogLSBKU09OLUxEIHN0cnVjdHVyZWQgZGF0YSAoQXJ0aWNsZSArIEZBUVBhZ2UgKyBMb2NhbEJ1c2luZXNzICsgU2VydmljZSkKCiMjIERlcGxveW1lbnQgTm90ZXMKLSBUaGlzIGJsb2cgdXNlcyAqKnNjaGVtYS5qc29uKiogKG5vdCBzZGlyYV9jb21wbGlhbmNlX3NjaGVtYS5qc29uKSDigJQgdGhlIEJGRmVuY2Ugd2Vic2l0ZSBidWlsZGVyIGV4cGVjdHMgYHNjaGVtYS5qc29uYAotIFRoZSB3ZWJzaXRlIHVzZXMgYSBzeW5jLWJsb2cudHMgc2NyaXB0IHRoYXQgYXV0by1yZWFkcyBgZmluYWwubWRgIGZyb250bWF0dGVyIGFuZCByZWdlbmVyYXRlcyBgc3JjL2RhdGEvYmxvZy1wb3N0cy5qc29uYAotIEEgR2l0SHViIEFjdGlvbiAoYGJsb2ctYXV0b21hdGlvbi55bWxgKSBoYW5kbGVzIHJlZ2lzdHJ5IHN5bmMgYXV0b21hdGljYWxseQoKIyMgU0VPIENoZWNrbGlzdAotIFt4XSBZQU1MIGZyb250bWF0dGVyIHdpdGggdGl0bGUsIGRhdGUsIGRlc2NyaXB0aW9uLCBjYXRlZ29yeSwgYXV0aG9yCi0gW3hdIEpTT04tTEQgc2NoZW1hIHdpdGggQXJ0aWNsZSwgRkFRUGFnZSwgTG9jYWxCdXNpbmVzcywgU2VydmljZQotIFt4XSBQcmltYXJ5IGtleXdvcmQ6ICJmZW5jZSBST0kgT2FrbGFuZCBDb3VudHkiCi0gW3hdIFNlY29uZGFyeSBrZXl3b3Jkczogd29vZCBmZW5jZSBob21lIHZhbHVlLCBwcml2YWN5IGZlbmNlIHByb3BlcnR5IHZhbHVlCi0gW3hdIEludGVybmFsIGxpbmtpbmcgdG8gYmZmZW5jZS5jb20vZnJlZS1lc3RpbWF0ZQotIFt4XSBFeHRlcm5hbCBkYXRhIGNpdGF0aW9ucyAoUmVkZmluLCBaaWxsb3csIEFuZ2ksIEhvbWVHdWlkZSwgS2VsbHkgRmVuY2luZykKLSBbeF0gTW9iaWxlLWZyaWVuZGx5IGZvcm1hdHRpbmcgKHNob3J0IHBhcmFncmFwaHMsIGNsZWFyIGhlYWRpbmdzKQotIFt4XSBDVEEgd2l0aCBwaG9uZSBudW1iZXIgYW5kIGZyZWUgZXN0aW1hdGUgbGluawoKIyMgUXVhbGl0eSBDaGVjawotIFdvcmQgY291bnQ6IH4zLDUwMCB3b3JkcwotIEJyYW5kIGFyY2hldHlwZTogR3VhcmRpYW4gKHByb3RlY3RpdmUsIHJlbGlhYmxlLCBncm91bmRlZCkKLSBUb25lOiBOZWlnaGJvcmx5LCBydWdnZWQsIGRpcmVjdAotIEUtRS1BLVQgc2lnbmFsczogTG9jYWwgZXhwZXJ0aXNlLCBhdXRob3JpdGF0aXZlIGRhdGEsIHRyYW5zcGFyZW50IGNvbnRhY3QgaW5mbwotIEZlYXR1cmVkIGltYWdlOiBSZWFkeSBhdCBibG9nX2ltYWdlcy9mZWF0dXJlX2ltYWdlLnBuZwo=
+# Publishing Instructions - 2026-05-09-wood-fence-home-value-oakland-county
+
+## Post Details
+- **Title:** Does a Wood Fence Increase Your Home's Value? What Oakland County Homeowners Need to Know
+- **Slug:** 2026-05-09-wood-fence-home-value-oakland-county
+- **Date:** 2026-05-09
+- **Category:** BF Fence (General)
+- **Author:** BFFence
+- **Target URL:** https://bffence.com/blog/2026-05-09
+
+## Files
+1. **final.md** - Blog post with YAML frontmatter (title, date, description, category, author)
+2. **feature_image.png** - 1280x720 16:9 featured image
+3. **schema.json** - JSON-LD structured data (Article + FAQPage + LocalBusiness + Service)
+
+## Deployment Notes
+- This blog uses **schema.json** (not sdira_compliance_schema.json) — the BFFence website builder expects `schema.json`
+- The website uses a sync-blog.ts script that auto-reads `final.md` frontmatter and regenerates `src/data/blog-posts.json`
+- A GitHub Action (`blog-automation.yml`) handles registry sync automatically
+
+## SEO Checklist
+- [x] YAML frontmatter with title, date, description, category, author
+- [x] JSON-LD schema with Article, FAQPage, LocalBusiness, Service
+- [x] Primary keyword: "fence ROI Oakland County"
+- [x] Secondary keywords: wood fence home value, privacy fence property value
+- [x] Internal linking to bffence.com/free-estimate
+- [x] External data citations (Redfin, Zillow, Angi, HomeGuide, Kelly Fencing)
+- [x] Mobile-friendly formatting (short paragraphs, clear headings)
+- [x] CTA with phone number and free estimate link
+
+## Quality Check
+- Word count: ~3,500 words
+- Brand archetype: Guardian (protective, reliable, grounded)
+- Tone: Neighborly, rugged, direct
+- E-E-A-T signals: Local expertise, authoritative data, transparent contact info
+- Featured image: Ready at blog_images/feature_image.png
