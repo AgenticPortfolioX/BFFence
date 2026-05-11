@@ -1,1 +1,41 @@
-LS0tCnRpdGxlOiAiUHVibGlzaGluZyBJbnN0cnVjdGlvbnMg4oCUIFdvb2QgRmVuY2UgQ29zdCBHdWlkZSIKZGF0ZTogIjIwMjYtMDUtMDIiCmJyYW5kOiAiQkZGZW5jZSIKLS0tCgojIFB1Ymxpc2hpbmcgSW5zdHJ1Y3Rpb25zCgojIyBQb3N0IERldGFpbHMKLSAqKlRpdGxlKio6IEhvdyBNdWNoIERvZXMgYSBXb29kIEZlbmNlIENvc3QgaW4gTWljaGlnYW4/IEEgQ29tcGxldGUgMjAyNiBQcmljaW5nIEd1aWRlIGZvciBPYWtsYW5kIENvdW50eSBIb21lb3duZXJzCi0gKipEYXRlKio6IDIwMjYtMDUtMDIKLSAqKkNhdGVnb3J5Kio6IEJGIEZlbmNlCi0gKipBdXRob3IqKjogQkZGZW5jZQotICoqU2x1ZyoqOiB3b29kLWZlbmNlLWNvc3QtZ3VpZGUtbWljaGlnYW4KCiMjIEZpbGVzIFByb3ZpZGVkCjEuIGBibG9nX2ZpbmFsL2ZpbmFsLm1kYCDigJQgVGhlIGZ1bGwgYmxvZyBwb3N0CjIuIGBibG9nX2ltYWdlcy9mZWF0dXJlX2ltYWdlLnBuZ2Ag4oCUIEZlYXR1cmVkIGltYWdlICgxMjgww5c3MjAsIDE2OjkpCjMuIGBzY2hlbWEvc2NoZW1hLmpzb25gIOKAlCBKU09OLUxEIHN0cnVjdHVyZWQgZGF0YSAoQXJ0aWNsZSArIEZBUVBhZ2UgKyBMb2NhbEJ1c2luZXNzICsgU2VydmljZSkKNC4gYHB1Ymxpc2hfaW5zdHJ1Y3Rpb25zL3B1Ymxpc2hfaW5zdHJ1Y3Rpb25zLm1kYCDigJQgVGhpcyBmaWxlCgojIyBQcmUtUHVibGlzaCBDaGVja2xpc3QKLSBbIF0gVmVyaWZ5IGFsbCBZQU1MIGZyb250bWF0dGVyIGtleXMgaW4gZmluYWwubWQ6IHRpdGxlLCBkYXRlLCBkZXNjcmlwdGlvbiwgY2F0ZWdvcnksIGF1dGhvcgotIFsgXSBDb25maXJtIGZlYXR1cmUgaW1hZ2UgdXBsb2FkZWQgYW5kIGxpbmtlZCBjb3JyZWN0bHkKLSBbIF0gVXBsb2FkIHNjaGVtYS5qc29uIHRvIHdlYnNpdGUgKHdlYnNpdGUgYnVpbGRlciBleHBlY3RzIHRoaXMgZmlsZW5hbWUpCi0gWyBdIEFkZCBjYW5vbmljYWwgVVJMIHBvaW50aW5nIHRvIGJmZmVuY2UuY29tL3VwZGF0ZXMKLSBbIF0gU2V0IG1ldGEgZGVzY3JpcHRpb24gZnJvbSBmcm9udG1hdHRlcgotIFsgXSBFbmFibGUgc29jaWFsIHNoYXJlIHByZXZpZXcgKE9HIGltYWdlID0gZmVhdHVyZV9pbWFnZS5wbmcpCgojIyBTRU8gVGFncwotIFByaW1hcnkga2V5d29yZDogd29vZCBmZW5jZSBjb3N0IE1pY2hpZ2FuIDIwMjYKLSBTZWNvbmRhcnk6IGZlbmNlIGluc3RhbGxhdGlvbiBjb3N0IE9ha2xhbmQgQ291bnR5LCBwcml2YWN5IGZlbmNlIHByaWNpbmcKLSBMb2NhbCBlbnRpdGllczogT2FrbGFuZCBDb3VudHksIEF1YnVybiBIaWxscywgTWV0cm8gRGV0cm9pdAoKIyMgSW50ZXJuYWwgTGlua3MKTGluayB0byB0aGVzZSBleGlzdGluZyBwb3N0czoKLSAiSG93IHRvIENob29zZSB0aGUgUmlnaHQgV29vZCBGZW5jZSBmb3IgWW91ciBNaWNoaWdhbiBIb21lIiAoMjAyNi0wNC0xOCkKLSAiVGhlIE9ha2xhbmQgQ291bnR5IEhvbWVvd25lcidzIENvbXBsZXRlIEd1aWRlIHRvIFNwcmluZyBGZW5jZSBJbnN0YWxsYXRpb24iICgyMDI2LTA0LTI5KQoKIyMgQ1RBCkVuc3VyZSB0aGUgZmluYWwgcGFyYWdyYXBoIGluY2x1ZGVzIHBob25lICgyNDgtNjA0LTYxNjgpIGFuZCBlbWFpbCAoZXN0aW1hdGVAYmZmZW5jZS5jb20pIHdpdGggYSBsaW5rIHRvIGJmZmVuY2UuY29tLgo=
+---
+title: "Publishing Instructions — Wood Fence Cost Guide"
+date: "2026-05-02"
+brand: "BFFence"
+---
+
+# Publishing Instructions
+
+## Post Details
+- **Title**: How Much Does a Wood Fence Cost in Michigan? A Complete 2026 Pricing Guide for Oakland County Homeowners
+- **Date**: 2026-05-02
+- **Category**: BF Fence
+- **Author**: BFFence
+- **Slug**: wood-fence-cost-guide-michigan
+
+## Files Provided
+1. `blog_final/final.md` — The full blog post
+2. `blog_images/feature_image.png` — Featured image (1280×720, 16:9)
+3. `schema/schema.json` — JSON-LD structured data (Article + FAQPage + LocalBusiness + Service)
+4. `publish_instructions/publish_instructions.md` — This file
+
+## Pre-Publish Checklist
+- [ ] Verify all YAML frontmatter keys in final.md: title, date, description, category, author
+- [ ] Confirm feature image uploaded and linked correctly
+- [ ] Upload schema.json to website (website builder expects this filename)
+- [ ] Add canonical URL pointing to bffence.com/updates
+- [ ] Set meta description from frontmatter
+- [ ] Enable social share preview (OG image = feature_image.png)
+
+## SEO Tags
+- Primary keyword: wood fence cost Michigan 2026
+- Secondary: fence installation cost Oakland County, privacy fence pricing
+- Local entities: Oakland County, Auburn Hills, Metro Detroit
+
+## Internal Links
+Link to these existing posts:
+- "How to Choose the Right Wood Fence for Your Michigan Home" (2026-04-18)
+- "The Oakland County Homeowner's Complete Guide to Spring Fence Installation" (2026-04-29)
+
+## CTA
+Ensure the final paragraph includes phone (248-604-6168) and email (estimate@bffence.com) with a link to bffence.com.

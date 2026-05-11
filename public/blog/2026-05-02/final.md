@@ -1,1 +1,288 @@
-LS0tCnRpdGxlOiAiSG93IE11Y2ggRG9lcyBhIFdvb2QgRmVuY2UgQ29zdCBpbiBNaWNoaWdhbj8gQSBDb21wbGV0ZSAyMDI2IFByaWNpbmcgR3VpZGUgZm9yIE9ha2xhbmQgQ291bnR5IEhvbWVvd25lcnMiCmRhdGU6ICIyMDI2LTA1LTAyIgpkZXNjcmlwdGlvbjogIldvbmRlcmluZyBob3cgbXVjaCBhIHdvb2QgZmVuY2UgY29zdHMgaW4gTWljaGlnYW4gaW4gMjAyNj8gVGhpcyBjb21wbGV0ZSBwcmljaW5nIGd1aWRlIGJyZWFrcyBkb3duIG1hdGVyaWFsIGNvc3RzLCBsYWJvciByYXRlcywgcGVybWl0IGZlZXMsIGFuZCBST0kgZm9yIE9ha2xhbmQgQ291bnR5IGhvbWVvd25lcnMg4oCUIGZyb20gcmVhbCBsb2NhbCBleHBlcnRzLCBub3QgbmF0aW9uYWwgYXZlcmFnZXMuIgpjYXRlZ29yeTogIkJGIEZlbmNlIgphdXRob3I6ICJCRkZlbmNlIgotLS0KCiMgSG93IE11Y2ggRG9lcyBhIFdvb2QgRmVuY2UgQ29zdCBpbiBNaWNoaWdhbj8gQSBDb21wbGV0ZSAyMDI2IFByaWNpbmcgR3VpZGUgZm9yIE9ha2xhbmQgQ291bnR5IEhvbWVvd25lcnMKCipQdWJsaXNoZWQ6IE1heSAyLCAyMDI2IHwgQnkgQkYgRmVuY2UqCgotLS0KCllvdSdyZSBzdGFuZGluZyBpbiB5b3VyIGJhY2t5YXJkLCBsb29raW5nIGF0IHRoYXQgc2FnZ2luZyBzZWN0aW9uIG9mIGZlbmNlIOKAlCBvciBtYXliZSBqdXN0IGF0IHRoZSBuZWlnaGJvcidzIGtpdGNoZW4gd2luZG93IOKAlCBhbmQgeW91J3ZlIGZpbmFsbHkgZGVjaWRlZCBpdCdzIHRpbWUuIFRpbWUgdG8gZ2V0IGEgZmVuY2UuIEFuZCBub3cgeW91J3ZlIGdvdCB0aGUgb25lIHF1ZXN0aW9uIHRoYXQncyBvbiBldmVyeSBob21lb3duZXIncyBtaW5kIGJlZm9yZSB0aGV5IG1ha2UgdGhhdCBjYWxsOgoKKipIb3cgbXVjaCBpcyB0aGlzIGdvaW5nIHRvIGNvc3Q/KioKCkl0J3MgYSBmYWlyIHF1ZXN0aW9uLiBBbmQgd2UncmUgZ29pbmcgdG8gZ2l2ZSB5b3UgYSByZWFsIGFuc3dlciDigJQgbm90IGEgdmFndWUgcmFuZ2UgZnJvbSBzb21lIG5hdGlvbmFsIHdlYnNpdGUgdGhhdCdzIG5ldmVyIHNldCBmb290IGluIE1pY2hpZ2FuLiBXZSdyZSBKdXN0aW4gYW5kIENocmlzIGZyb20gQkYgRmVuY2UsIGFuZCB3ZSd2ZSBiZWVuIGJ1aWxkaW5nIHdvb2QgZmVuY2VzIGFjcm9zcyBPYWtsYW5kIENvdW50eSDigJQgQXVidXJuIEhpbGxzLCBSb2NoZXN0ZXIsIFRyb3ksIEJsb29tZmllbGQgSGlsbHMsIExha2UgT3Jpb24sIGFuZCBldmVyeXdoZXJlIGluIGJldHdlZW4g4oCUIGxvbmcgZW5vdWdoIHRvIGtub3cgd2hhdCB0aGluZ3MgYWN0dWFsbHkgY29zdCBhcm91bmQgaGVyZS4KClRoaXMgZ3VpZGUgY292ZXJzIGV2ZXJ5dGhpbmc6IG1hdGVyaWFsIHByaWNlcywgbGFib3IgcmF0ZXMsIHBlcm1pdCBjb3N0cywgaGlkZGVuIGV4cGVuc2VzLCBhbmQgd2hldGhlciBhIGZlbmNlIGlzIGFjdHVhbGx5IHdvcnRoIHdoYXQgeW91J2xsIHBheSBmb3IgaXQuIEJ5IHRoZSB0aW1lIHlvdSBmaW5pc2ggcmVhZGluZywgeW91J2xsIGtub3cgZXhhY3RseSB3aGF0IHRvIGV4cGVjdCB3aGVuIHlvdSBjYWxsIGZvciBhbiBlc3RpbWF0ZS4KCkxldCdzIGdldCBpbnRvIGl0LgoKLS0tCgojIyBUaGUgU2hvcnQgQW5zd2VyOiBXaGF0IGEgV29vZCBGZW5jZSBDb3N0cyBpbiBNaWNoaWdhbiAoMjAyNikKCkJlZm9yZSB3ZSBkaXZlIGludG8gdGhlIGRldGFpbHMsIGhlcmUncyB0aGUgYm90dG9tIGxpbmU6CgoqKkZvciBhIHN0YW5kYXJkIDYtZm9vdCBwcml2YWN5IGZlbmNlIGluIE9ha2xhbmQgQ291bnR5LCBNaWNoaWdhbiwgeW91J3JlIGxvb2tpbmcgYXQgJDMwIHRvICQ1MCBwZXIgbGluZWFyIGZvb3QgaW5zdGFsbGVkIGluIDIwMjYuKiogVGhhdCBpbmNsdWRlcyBtYXRlcmlhbHMsIGxhYm9yLCBhbmQgc3RhbmRhcmQgcG9zdC1zZXR0aW5nLgoKRm9yIHRoZSBhdmVyYWdlIHF1YXJ0ZXItYWNyZSBsb3QgaW4gbWV0cm8gRGV0cm9pdCDigJQgd2hpY2ggbmVlZHMgcm91Z2hseSAxNTAgdG8gMjAwIGxpbmVhciBmZWV0IG9mIGZlbmNpbmcg4oCUIHRoYXQgd29ya3Mgb3V0IHRvIGEgdG90YWwgcHJvamVjdCBjb3N0IG9mICoqJDQsNTAwIHRvICQxMCwwMDAqKi4KCkhlcmUncyBhIHF1aWNrIHJlZmVyZW5jZSBmb3IgY29tbW9uIHByb2plY3Qgc2l6ZXM6Cgp8IFByb2plY3QgU2l6ZSB8IExpbmVhciBGZWV0IHwgRXN0aW1hdGVkIFRvdGFsIENvc3QgfAp8Oi0tLXwtLS06fC0tLTp8CnwgU21hbGwgYmFja3lhcmQgKHRvd25ob3VzZS9jb25kbykgfCA4MOKAkzEyMCBmdCB8ICQyLDQwMOKAkyQ2LDAwMCB8CnwgQXZlcmFnZSBzdWJ1cmJhbiBsb3QgKHF1YXJ0ZXIgYWNyZSkgfCAxNTDigJMyMDAgZnQgfCAkNCw1MDDigJMkMTAsMDAwIHwKfCBMYXJnZSBjb3JuZXIgbG90IChoYWxmIGFjcmUpIHwgMjUw4oCTMzUwIGZ0IHwgJDcsNTAw4oCTJDE3LDUwMCB8CnwgQ29tbWVyY2lhbCAvIHNtYWxsIGJ1c2luZXNzIGxvdCB8IDMwMOKAkzUwMCsgZnQgfCAkOSwwMDDigJMkMjUsMDAwKyB8CgpUaGUgcmFuZ2UgZGVwZW5kcyBvbiBhIGZldyBrZXkgZmFjdG9yczogdGhlIHR5cGUgb2Ygd29vZCB5b3UgY2hvb3NlLCBob3cgY29tcGxleCB0aGUgaW5zdGFsbGF0aW9uIGlzLCBhbmQgd2hldGhlciB5b3UncmUgZGVhbGluZyB3aXRoIHRyaWNreSBncm91bmQgY29uZGl0aW9ucy4gV2UnbGwgYnJlYWsgYWxsIG9mIHRoYXQgZG93biBiZWxvdy4KCi0tLQoKIyMgV2hhdCBHb2VzIEludG8gdGhlIENvc3Qgb2YgYSBXb29kIEZlbmNlPwoKQSBmZW5jZSBlc3RpbWF0ZSBpc24ndCBqdXN0ICJYIGRvbGxhcnMgcGVyIGZvb3QuIiBUaGVyZSBhcmUgdGhyZWUgbWFpbiBjb3N0IGJ1Y2tldHMsIGFuZCB1bmRlcnN0YW5kaW5nIGVhY2ggb25lIHdpbGwgaGVscCB5b3UgY29tcGFyZSBxdW90ZXMgd2l0aCBjb25maWRlbmNlLgoKIyMjIDEuIE1hdGVyaWFsczogVGhlIFdvb2QgWW91IENob29zZSBNYWtlcyB0aGUgQmlnZ2VzdCBEaWZmZXJlbmNlCgpUaGUgdHlwZSBvZiB3b29kIHlvdSBwaWNrIGlzIHRoZSBzaW5nbGUgYmlnZ2VzdCB2YXJpYWJsZSBpbiB5b3VyIGZlbmNlIGNvc3QuIEhlcmUncyB3aGF0IHlvdSBjYW4gZXhwZWN0IGZvciB0aGUgdHdvIG1vc3QgY29tbW9uIG9wdGlvbnMgaW4gTWljaGlnYW46CgoqKlByZXNzdXJlLVRyZWF0ZWQgUGluZSAoJDIw4oCTJDMwIHBlciBsaW5lYXIgZm9vdCBpbnN0YWxsZWQpKioKClByZXNzdXJlLXRyZWF0ZWQgcGluZSBpcyB0aGUgd29ya2hvcnNlIG9mIE1pY2hpZ2FuIGZlbmNpbmcg4oCUIGFuZCBmb3IgZ29vZCByZWFzb24uIEl0J3MgdHJlYXRlZCB3aXRoIHByZXNlcnZhdGl2ZXMgdGhhdCByZXNpc3Qgcm90LCBpbnNlY3RzLCBhbmQgbW9pc3R1cmUuIEl0IGhhbmRsZXMgb3VyIGZyZWV6ZS10aGF3IGN5Y2xlcyBiZXR0ZXIgdGhhbiBhbG1vc3QgYW55IG90aGVyIG1hdGVyaWFsIGluIGl0cyBwcmljZSByYW5nZS4gSXQncyB0aGUgbW9zdCBwb3B1bGFyIGNob2ljZSBpbiBPYWtsYW5kIENvdW50eSBmb3IgYSByZWFzb246IGl0IHdvcmtzLgoKLSAqKlByb3MqKjogTW9zdCBhZmZvcmRhYmxlLCBuYXR1cmFsbHkgcm90LXJlc2lzdGFudCwgYWNjZXB0cyBzdGFpbiB3ZWxsLCBwcm92ZW4gZHVyYWJpbGl0eSBpbiBNaWNoaWdhbgotICoqQ29ucyoqOiBDYW4gd2FycCBpZiBub3QgcHJvcGVybHkgZHJpZWQgYW5kIGluc3RhbGxlZCwgcmVxdWlyZXMgc3RhaW5pbmcgb3Igc2VhbGluZyB3aXRoaW4gNuKAkzEyIG1vbnRocwotICoqQmVzdCBmb3IqKjogQnVkZ2V0LWNvbnNjaW91cyBob21lb3duZXJzLCBsYXJnZSBsb3RzLCByZW50YWwgcHJvcGVydGllcywgc2lkZSB5YXJkcwotICoqVHlwaWNhbCBsaWZlc3BhbiBpbiBNaWNoaWdhbioqOiAxMOKAkzE1IHllYXJzIHdpdGggcHJvcGVyIG1haW50ZW5hbmNlCgoqKkNlZGFyICgkMzXigJMkNTAgcGVyIGxpbmVhciBmb290IGluc3RhbGxlZCkqKgoKQ2VkYXIgaXMgdGhlIHByZW1pdW0gY2hvaWNlLiBJdCBuYXR1cmFsbHkgcmVzaXN0cyByb3QgYW5kIGluc2VjdHMgd2l0aG91dCBjaGVtaWNhbCB0cmVhdG1lbnQsIGFuZCBpdCBoYXMgYSB3YXJtdGggYW5kIGJlYXV0eSB0aGF0IHByZXNzdXJlLXRyZWF0ZWQgcGluZSBqdXN0IGNhbid0IG1hdGNoLiBJdCdzIGxpZ2h0ZXIgaW4gd2VpZ2h0LCBzbyBpdCBwdXRzIGxlc3Mgc3RyZXNzIG9uIHBvc3RzIGFuZCBoYXJkd2FyZSBvdmVyIHRpbWUuCgotICoqUHJvcyoqOiBOYXR1cmFsbHkgYmVhdXRpZnVsLCBpbnNlY3QtcmVzaXN0YW50IHdpdGhvdXQgY2hlbWljYWxzLCB0YWtlcyBzdGFpbiBiZWF1dGlmdWxseSwgbGlnaHRlciB3ZWlnaHQKLSAqKkNvbnMqKjogU2lnbmlmaWNhbnRseSBtb3JlIGV4cGVuc2l2ZSwgc2xpZ2h0bHkgc29mdGVyIHdvb2QsIG1vcmUgcHJvbmUgdG8gc2NyYXRjaGluZwotICoqQmVzdCBmb3IqKjogRnJvbnQgeWFyZHMsIHZpc2libGUgcHJvcGVydHkgbGluZXMsIGhvbWVzIHdoZXJlIGN1cmIgYXBwZWFsIGlzIGEgcHJpb3JpdHkKLSAqKlR5cGljYWwgbGlmZXNwYW4gaW4gTWljaGlnYW4qKjogMTXigJMyMCB5ZWFycyB3aXRoIHByb3BlciBtYWludGVuYW5jZQoKKipNYXRlcmlhbCBDb3N0IEJyZWFrZG93biBhdCBDdXJyZW50ICgyMDI2KSBQcmljaW5nKioKCnwgTWF0ZXJpYWwgfCBQZXIgTGluZWFyIEZvb3QgKE1hdGVyaWFscyBPbmx5KSB8IFBlciBMaW5lYXIgRm9vdCAoSW5zdGFsbGVkKSB8Cnw6LS0tfC0tLTp8LS0tOnwKfCBQcmVzc3VyZS10cmVhdGVkIHBpbmUsIDYtZnQgcHJpdmFjeSB8ICQxNeKAkyQyMCB8ICQzMOKAkyQzNSB8CnwgQ2VkYXIsIDYtZnQgcHJpdmFjeSB8ICQyMuKAkyQzMCB8ICQ0MOKAkyQ1MCB8CnwgUHJlc3N1cmUtdHJlYXRlZCBwaW5lLCA0LWZ0IGRlY29yYXRpdmUgfCAkMTLigJMkMTYgfCAkMjXigJMkMzAgfAp8IENlZGFyLCA0LWZ0IGRlY29yYXRpdmUgfCAkMjDigJMkMjUgfCAkMzXigJMkNDUgfAoKVGhlc2UgcHJpY2VzIGFyZSBjdXJyZW50IGFzIG9mIHNwcmluZyAyMDI2IGFuZCByZWZsZWN0IHdoYXQgd2UncmUgc2VlaW5nIGluIHRoZSBPYWtsYW5kIENvdW50eSBtYXJrZXQuIEx1bWJlciBwcmljZXMgZmx1Y3R1YXRlIOKAlCBsaWtlIGV2ZXJ5dGhpbmcgZWxzZSDigJQgYnV0IHRoZXNlIHJhbmdlcyBoYXZlIGJlZW4gc3RhYmxlIGZvciB0aGUgcGFzdCB5ZWFyLgoKIyMjIDIuIExhYm9yOiBXaGF0IFlvdSdyZSBQYXlpbmcgRm9yIFdoZW4gWW91IEhpcmUgYSBQcm8KCkxhYm9yIHR5cGljYWxseSBhY2NvdW50cyBmb3IgNDAlIHRvIDUwJSBvZiB5b3VyIHRvdGFsIGZlbmNlIGluc3RhbGxhdGlvbiBjb3N0LiBZb3UgbWlnaHQgYmUgdGVtcHRlZCB0byBzYXZlIG1vbmV5IGhlcmUgYnkgZG9pbmcgaXQgeW91cnNlbGYsIGJ1dCBoZXJlJ3Mgd2hhdCBwcm9mZXNzaW9uYWwgbGFib3IgY292ZXJzIGluIE1pY2hpZ2FuIOKAlCBhbmQgd2h5IGl0IG1hdHRlcnMuCgoqKldoYXQgUHJvZmVzc2lvbmFsIEluc3RhbGxhdGlvbiBJbmNsdWRlczoqKgoKLSAqKlByb3BlciBwb3N0LWhvbGUgZGlnZ2luZyB0byBmcm9zdCBsaW5lIGRlcHRoKiog4oCUIEluIE1pY2hpZ2FuLCB0aGF0J3MgNDIgaW5jaGVzIGRlZXAuIFBvc3RzIHNldCBzaGFsbG93ZXIgdGhhbiB0aGF0IHdpbGwgaGVhdmUgdXAgZHVyaW5nIHRoZSBmaXJzdCB3aW50ZXIuIFdlJ3ZlIHNlZW4gaXQgaGFwcGVuLiBJdCdzIG5vdCBwcmV0dHkuCi0gKipDb25jcmV0ZSBzZXR0aW5nKiog4oCUIFBvc3RzIGFyZSBzZXQgaW4gY29uY3JldGUgYmVsb3cgdGhlIGZyb3N0IGxpbmUsIHdpdGggcHJvcGVyIGRyYWluYWdlIHRvIHByZXZlbnQgd2F0ZXIgcG9vbGluZyBhdCB0aGUgYmFzZSBvZiB0aGUgcG9zdC4KLSAqKkxldmVsaW5nIGFuZCBhbGlnbm1lbnQqKiDigJQgQSBmZW5jZSB0aGF0IGxvb2tzIHN0cmFpZ2h0IGZyb20gdGhlIHN0cmVldCByZXF1aXJlcyBwcmVjaXNpb24uIEJhZGx5IGFsaWduZWQgZmVuY2VzIGFyZSB0aGUgbnVtYmVyIG9uZSBjb21wbGFpbnQgd2Ugc2VlIGZyb20gaG9tZW93bmVycyB3aG8gdHJpZWQgdGhlIERJWSByb3V0ZSB3aXRoIGEgYnVkZHkgYW5kIGEgcG9zdC1ob2xlIGRpZ2dlci4KLSAqKkdhdGUgaW5zdGFsbGF0aW9uKiog4oCUIFByb3BlciBnYXRlIGhhbmdpbmcgaXMgYW4gYXJ0LiBBIHNhZ2dpbmcgZ2F0ZSBpcyB0aGUgZmFzdGVzdCB3YXkgdG8gbWFrZSBhIGJyYW5kLW5ldyBmZW5jZSBsb29rIGNoZWFwLgotICoqUmVtb3ZhbCBhbmQgZGlzcG9zYWwgb2Ygb2xkIGZlbmNpbmcqKiDigJQgSWYgeW91J3JlIHJlcGxhY2luZyBhIGZlbmNlLCB3ZSBoYXVsIHRoZSBvbGQgb25lIGF3YXkuIFRoYXQncyBpbmNsdWRlZC4KCioqQXZlcmFnZSBMYWJvciBSYXRlcyBpbiBPYWtsYW5kIENvdW50eSAoMjAyNikqKgoKfCBMYWJvciBDb21wb25lbnQgfCBUeXBpY2FsIENvc3QgfAp8Oi0tLXwtLS06fAp8IFN0YW5kYXJkIGluc3RhbGxhdGlvbiBsYWJvciAocGVyIGxpbmVhciBmb290KSB8ICQxMuKAkyQxOCB8CnwgR2F0ZSBpbnN0YWxsYXRpb24gKHBlciBnYXRlKSB8ICQxNTDigJMkNDAwIHwKfCBPbGQgZmVuY2UgcmVtb3ZhbCAocGVyIGxpbmVhciBmb290KSB8ICQ14oCTJDggfAp8IENvbmNyZXRlIGZvciBwb3N0LXNldHRpbmcgfCAkM+KAkyQ1IHBlciBwb3N0IHwKCiMjIyAzLiBQZXJtaXRzICYgU2l0ZSBQcmVwCgoqKk9ha2xhbmQgQ291bnR5IEZlbmNlIFBlcm1pdHMqKgoKTW9zdCBtdW5pY2lwYWxpdGllcyBpbiBPYWtsYW5kIENvdW50eSByZXF1aXJlIGEgZmVuY2UgcGVybWl0LiBIZXJlJ3MgdGhlIGdlbmVyYWwgcnVsZTogaWYgdGhlIGZlbmNlIGlzIG92ZXIgMyBmZWV0IHRhbGwgaW4gdGhlIGZyb250IHlhcmQgb3Igb3ZlciA2IGZlZXQgaW4gdGhlIGJhY2ssIHlvdSBhbG1vc3QgY2VydGFpbmx5IG5lZWQgb25lLiBIZXJlJ3Mgd2hhdCBwZXJtaXRzIHR5cGljYWxseSBjb3N0IGluIGNvbW1vbiBCRiBGZW5jZSBzZXJ2aWNlIGFyZWFzOgoKfCBNdW5pY2lwYWxpdHkgfCBUeXBpY2FsIFBlcm1pdCBGZWUgfCBOb3RlcyB8Cnw6LS0tfC0tLTp8Oi0tLXwKfCBBdWJ1cm4gSGlsbHMgfCAkNTDigJMkNzUgfCBTaW1wbGUgYXBwbGljYXRpb24sIHVzdWFsbHkgYXBwcm92ZWQgc2FtZSBkYXkgfAp8IFJvY2hlc3RlciAvIFJvY2hlc3RlciBIaWxscyB8ICQ2MOKAkyQxMDAgfCBNYXkgcmVxdWlyZSBwbG90IHBsYW4gfAp8IFRyb3kgfCAkNTDigJMkODAgfCBPbmxpbmUgYXBwbGljYXRpb24gYXZhaWxhYmxlIHwKfCBCbG9vbWZpZWxkIEhpbGxzIHwgJDc14oCTJDEyNSB8IEhPQSBhcHByb3ZhbCBtYXkgYmUgcmVxdWlyZWQgZmlyc3QgfAp8IExha2UgT3Jpb24gfCAkNDDigJMkNjAgfCBNb3N0IGFmZm9yZGFibGUgaW4gdGhlIGFyZWEgfAp8IE9ha2xhbmQgQ291bnR5ICh1bmluY29ycG9yYXRlZCkgfCAkNTDigJMkNzUgfCBDb3VudHkgcGVybWl0IHwKCk5vdGU6IFNvbWUgSE9BcyBoYXZlIGFkZGl0aW9uYWwgYXBwcm92YWwgcHJvY2Vzc2VzIGFuZCBmZWVzLiBJZiB5b3UncmUgaW4gYW4gSE9BIGNvbW11bml0eSwgYWx3YXlzIGNoZWNrIHlvdXIgY292ZW5hbnRzIGJlZm9yZSBvcmRlcmluZyBtYXRlcmlhbHMuCgoqKk90aGVyIFNpdGUtU3BlY2lmaWMgQ29zdHM6KioKCi0gKipQcm9wZXJ0eSBzdXJ2ZXkqKjogSWYgeW91IGRvbid0IGtub3cgeW91ciBleGFjdCBwcm9wZXJ0eSBsaW5lcywgYSBzdXJ2ZXkgY29zdHMgJDM1MOKAkyQ4MDAuIFdlIHN0cm9uZ2x5IHJlY29tbWVuZCBnZXR0aW5nIG9uZSDigJQgYnVpbGRpbmcgYSBmZW5jZSBvbiB5b3VyIG5laWdoYm9yJ3MgcHJvcGVydHkgaXMgYW4gZXhwZW5zaXZlIG1pc3Rha2UuCi0gKipVdGlsaXR5IGxvY2F0b3IgKE1pc3MgRGlnKSoqOiBGcmVlIGluIE1pY2hpZ2FuLiBBbHdheXMgY2FsbCA4MTEgYmVmb3JlIGRpZ2dpbmcuIFdlIGRvIHRoaXMgb24gZXZlcnkgam9iLgotICoqVHJlZS9yb290IHJlbW92YWwqKjogSWYgbGFyZ2Ugcm9vdHMgYXJlIGluIHRoZSB3YXksIHJlbW92YWwgY2FuIGFkZCAkNTDigJMkMjAwIHBlciBvYnN0YWNsZS4KLSAqKlNsb3BlZCBsb3QqKjogSWYgeW91ciB5YXJkIGhhcyBzaWduaWZpY2FudCBncmFkZSBjaGFuZ2VzLCB0aGUgY29zdCBtYXkgaW5jcmVhc2UgMTDigJMyMCUgZHVlIHRvIHN0ZXBwZWQgcGFuZWwgaW5zdGFsbGF0aW9uLgoKLS0tCgojIyBGZW5jZSBIZWlnaHQgJiBTdHlsZTogSG93IEl0IEFmZmVjdHMgdGhlIFByaWNlCgpOb3QgYWxsIHdvb2QgZmVuY2VzIGFyZSBidWlsdCB0aGUgc2FtZSB3YXkuIEhlcmUncyBob3cgZGlmZmVyZW50IHN0eWxlcyBhbmQgaGVpZ2h0cyBhZmZlY3QgeW91ciBjb3N0IGluIHRoZSBNaWNoaWdhbiBtYXJrZXQ6Cgp8IEZlbmNlIFN0eWxlIHwgQ29zdCBwZXIgTGluZWFyIEZvb3QgKEluc3RhbGxlZCkgfCBCZXN0IFVzZSB8Cnw6LS0tfC0tLTp8Oi0tLXwKfCA2LWZ0IHByaXZhY3kgKGJvYXJkLW9uLWJvYXJkKSB8ICQzNeKAkyQ1MCB8IE1heGltdW0gcHJpdmFjeSwgYmFja3lhcmQgfAp8IDYtZnQgcHJpdmFjeSAoZG9nLWVhcmVkKSB8ICQzMOKAkyQ0MCB8IEdvb2QgcHJpdmFjeSwgc2xpZ2h0bHkgbG93ZXIgY29zdCB8CnwgNC1mdCBwaWNrZXQgLyBkZWNvcmF0aXZlIHwgJDI14oCTJDM1IHwgRnJvbnQgeWFyZCwgY3VyYiBhcHBlYWwgfAp8IDQtZnQgcHJpdmFjeSB8ICQzMOKAkyQ0MCB8IFNob3J0ZXIgcHJpdmFjeSBvcHRpb24sIHBvb2wgYXJlYXMgfAp8IFNlbWktcHJpdmFjeSAoc3BhY2VkIHBpY2tldHMpIHwgJDI44oCTJDM4IHwgUGFydGlhbCB2aWV3cyArIGFpcmZsb3cgfAp8IExhdHRpY2UgdG9wIChhZGRlZCB0byBhbnkgc3R5bGUpIHwgJDjigJMkMTUgZXh0cmEgcGVyIGZ0IHwgRGVjb3JhdGl2ZSBhY2NlbnQgfAoKKipXaHkgaGVpZ2h0IG1hdHRlcnMqKjogQSA2LWZvb3QgZmVuY2UgdXNlcyBtb3JlIHdvb2QgcGVyIGxpbmVhciBmb290IChsb25nZXIgcGlja2V0cywgd2lkZXIgc3BhY2luZyByZXF1aXJlbWVudHMgZm9yIHN0YWJpbGl0eSksIHJlcXVpcmVzIGRlZXBlciBwb3N0cywgYW5kIHRha2VzIG1vcmUgbGFib3IgdGhhbiBhIDQtZm9vdCBmZW5jZS4gVGhlIGRpZmZlcmVuY2UgaXMgYWJvdXQgMTXigJMyNSUgbW9yZSBwZXIgZm9vdC4KCi0tLQoKIyMgRG9lcyBhIFdvb2QgRmVuY2UgSW5jcmVhc2UgWW91ciBQcm9wZXJ0eSBWYWx1ZT8KClRoaXMgaXMgdGhlIHF1ZXN0aW9uIHdlIGhlYXIgbW9yZSB0aGFuIGFueSBvdGhlciwgYW5kIGl0J3MgYSBzbWFydCBvbmUuIFlvdSdyZSBub3QganVzdCBzcGVuZGluZyBtb25leSDigJQgeW91J3JlIGludmVzdGluZyBpbiB5b3VyIGhvbWUuIFNvIGxldCdzIHRhbGsgYWJvdXQgdGhlIHJldHVybiBvbiB0aGF0IGludmVzdG1lbnQuCgoqKlRoZSBzaG9ydCBhbnN3ZXI6IFllcywgYSB3ZWxsLWJ1aWx0IHdvb2QgZmVuY2UgYWRkcyB2YWx1ZSB0byB5b3VyIE1pY2hpZ2FuIGhvbWUg4oCUIHR5cGljYWxseSBiZXR3ZWVuIDUwJSBhbmQgNzAlIG9mIHdoYXQgeW91IHNwZW5kIG9uIGl0LioqCgpIZXJlJ3Mgd2hhdCB0aGUgZGF0YSBzaG93cyBmb3IgdGhlIE1ldHJvIERldHJvaXQgbWFya2V0OgoKLSAqKkFwcHJhaXNlZCB2YWx1ZSBpbmNyZWFzZSoqOiBSZWFsIGVzdGF0ZSBhZ2VudHMgaW4gT2FrbGFuZCBDb3VudHkgcmVwb3J0IHRoYXQgYSBxdWFsaXR5IHByaXZhY3kgZmVuY2UgYWRkcyAkMywwMDDigJMkNywwMDAgdG8gYSBob21lJ3MgYXBwcmFpc2VkIHZhbHVlLCBkZXBlbmRpbmcgb24gbG90IHNpemUgYW5kIG5laWdoYm9yaG9vZC4KLSAqKkN1cmIgYXBwZWFsIGZhY3RvcioqOiBJbiBhIFppbGxvdyBzdXJ2ZXksIDQ0JSBvZiBidXllcnMgc2FpZCB0aGV5J2QgcGF5IG1vcmUgZm9yIGEgaG9tZSB3aXRoIGEgZmVuY2UuIFRoYXQncyBzaWduaWZpY2FudCBpbiBhIGNvbXBldGl0aXZlIG1hcmtldCBsaWtlIE9ha2xhbmQgQ291bnR5LgotICoqRGF5cyBvbiBtYXJrZXQqKjogSG9tZXMgd2l0aCBmZW5jZWQgeWFyZHMgaW4gTWV0cm8gRGV0cm9pdCB0eXBpY2FsbHkgc2VsbCAy4oCTNSBkYXlzIGZhc3RlciB0aGFuIGNvbXBhcmFibGUgdW5mZW5jZWQgcHJvcGVydGllcy4gSW4gYSBtYXJrZXQgd2hlcmUgaG9tZXMgYWxyZWFkeSBtb3ZlIGZhc3QsIHRoYXQgZWRnZSBtYXR0ZXJzLgoKKipXaGVyZSB0aGUgUk9JIGlzIHN0cm9uZ2VzdDoqKgoKfCBTY2VuYXJpbyB8IEVzdGltYXRlZCBST0kgfAp8Oi0tLXwtLS06fAp8IEJhY2t5YXJkIHByaXZhY3kgZmVuY2UsIHdlbGwtbWFpbnRhaW5lZCB8IDYw4oCTNzAlIG9mIGNvc3QgcmVjb3VwZWQgfAp8IEZyb250IHlhcmQgZGVjb3JhdGl2ZSBmZW5jZSB8IDUw4oCTNjAlIHwKfCBQb29sIHNhZmV0eSBmZW5jZSB8IFJlcXVpcmVkIGZvciBpbnN1cmFuY2Ug4oCUIHZhbHVlIGlzIGluIGNvbXBsaWFuY2UgfAp8IExhcmdlIGxvdCBwZXJpbWV0ZXIgZmVuY2UgfCA0MOKAkzU1JSAobW9yZSBmb290YWdlLCBsb3dlciBST0kgcGVyIGZvb3QpIHwKCioqVGhlIGNhdGNoKio6IFVubWFpbnRhaW5lZCBmZW5jZXMgYXJlIGEgbGlhYmlsaXR5LCBub3QgYW4gYXNzZXQuIEEgZmVuY2UgdGhhdCdzIHJvdHRpbmcsIGxlYW5pbmcsIG9yIGJhZGx5IHN0YWluZWQgd2lsbCBsb3dlciB5b3VyIGhvbWUncyBwZXJjZWl2ZWQgdmFsdWUuIFRoaXMgaXMgd2h5IHByb3BlciB3b29kIHNlbGVjdGlvbiBhbmQgaW5zdGFsbGF0aW9uIG1hdHRlciDigJQgYSBmZW5jZSB0aGF0IGxhc3RzIDE1IHllYXJzIHdpdGggYmFzaWMgY2FyZSBiZWF0cyBhIGNoZWFwIG9uZSB0aGF0IG5lZWRzIHJlcGxhY2VtZW50IGluIDUuCgotLS0KCiMjIE5ldyBJbnN0YWxsYXRpb24gdnMuIEZlbmNlIFJlcGxhY2VtZW50OiBXaGljaCBDb3N0cyBNb3JlPwoKSWYgeW91IGFscmVhZHkgaGF2ZSBhIGZlbmNlLCB5b3UgbWlnaHQgYmUgd29uZGVyaW5nIHdoZXRoZXIgcmVwYWlyIG9yIHJlcGxhY2VtZW50IGlzIHRoZSBzbWFydGVyIG1vdmUuIEhlcmUncyB0aGUgaG9uZXN0IGJyZWFrZG93bjoKCnwgU2NlbmFyaW8gfCBUeXBpY2FsIENvc3QgfAp8Oi0tLXwtLS06fAp8IE5ldyBmZW5jZSBpbnN0YWxsYXRpb24gKG5vIGV4aXN0aW5nIGZlbmNlKSB8ICQzMOKAkyQ1MCBwZXIgbGluZWFyIGZvb3QgfAp8IEZ1bGwgcmVwbGFjZW1lbnQgKHJlbW92ZSBvbGQsIGluc3RhbGwgbmV3KSB8ICQzNeKAkyQ1NSBwZXIgbGluZWFyIGZvb3QgfAp8IFJlcGFpciAocmVwbGFjZSBkYW1hZ2VkIHNlY3Rpb25zIG9ubHkpIHwgJDE14oCTJDMwIHBlciBsaW5lYXIgZm9vdCB8CnwgUG9zdCByZXBsYWNlbWVudCAoc2luZ2xlIHBvc3QpIHwgJDc14oCTJDE1MCBwZXIgcG9zdCB8CnwgR2F0ZSByZXBhaXIgfCAkMTAw4oCTJDMwMCB8CgoqKldoZW4gcmVwYWlyIG1ha2VzIHNlbnNlKio6IElmIHRoZSBkYW1hZ2UgaXMgbGltaXRlZCB0byBhIGZldyBwaWNrZXRzIG9yIGEgc2luZ2xlIHNlY3Rpb24g4oCUIHNheSwgc3Rvcm0gZGFtYWdlIG9uIG9uZSBwYW5lbCDigJQgcmVwYWlyIGlzIHRoZSBvYnZpb3VzIGNob2ljZS4KCioqV2hlbiByZXBsYWNlbWVudCBtYWtlcyBzZW5zZSoqOiBJZiBtb3JlIHRoYW4gMzAlIG9mIHlvdXIgZmVuY2UgaXMgZmFpbGluZywgb3IgaWYgdGhlIHBvc3RzIGFyZSByb3R0ZWQgYXQgZ3JvdW5kIGxldmVsICh3aGljaCBpcyBzdHJ1Y3R1cmFsIOKAlCB5b3UncmUgcmVwbGFjaW5nIHRoZSBmb3VuZGF0aW9uLCBub3QganVzdCB0aGUgc2lkaW5nKSwgcmVwbGFjZW1lbnQgaXMgYWxtb3N0IGFsd2F5cyBtb3JlIGNvc3QtZWZmZWN0aXZlIGluIHRoZSBsb25nIHJ1bi4gQSBwYXRjaCBqb2Igb24gcm90dGVkIHBvc3RzIGJ1eXMgeW91IGEgeWVhciBvciB0d28gYXQgbW9zdC4KCi0tLQoKIyMgSGlkZGVuIENvc3RzIEV2ZXJ5IE1pY2hpZ2FuIEhvbWVvd25lciBTaG91bGQgS25vdyBBYm91dAoKVGhlc2UgYXJlIHRoZSBleHBlbnNlcyB0aGF0IGNhdGNoIHBlb3BsZSBvZmYgZ3VhcmQuIFdlIHdhbnQgeW91IHRvIHdhbGsgaW50byB0aGlzIHdpdGggeW91ciBleWVzIHdpZGUgb3Blbi4KCioqMS4gVGhlICJJJ2xsIFN0YWluIEl0IExhdGVyIiBUcmFwKioKWW91IGhhdmUgYWJvdXQgNuKAkzEyIG1vbnRocyBhZnRlciBpbnN0YWxsYXRpb24gdG8gc3RhaW4gb3Igc2VhbCBhIG5ldyBwcmVzc3VyZS10cmVhdGVkIGZlbmNlLiBBZnRlciB0aGF0LCB0aGUgd29vZCBzdGFydHMgdG8gZ3JheSwgY2hlY2sgKGRldmVsb3Agc21hbGwgY3JhY2tzKSwgYW5kIGFic29yYiBtb2lzdHVyZS4gU3RhaW5pbmcgYSBmZW5jZSBjb3N0cyAkMS41MOKAkyQzLjAwIHBlciBsaW5lYXIgZm9vdCBpZiB5b3UgRElZLCBvciAkM+KAkyQ1IHBlciBmb290IGlmIHlvdSBoaXJlIGl0IG91dC4gVGhhdCdzICQzMDDigJMkMSwwMDAgb24gYW4gYXZlcmFnZSBsb3QuIEJ1ZGdldCBmb3IgaXQuCgoqKjIuIEdhdGUgSGFyZHdhcmUqKgpBIHN0YW5kYXJkIGdhdGUgd29ya3MgZmluZSB3aXRoIGJhc2ljIGhhcmR3YXJlLiBCdXQgaWYgeW91IHdhbnQgc2VsZi1jbG9zaW5nIGhpbmdlcywgbWFnbmV0aWMgbG9ja3MsIG9yIGhlYXZ5LWR1dHkgY29tbWVyY2lhbC1ncmFkZSBoYXJkd2FyZSBmb3IgYSBkcml2ZXdheSBnYXRlLCBleHBlY3QgdG8gYWRkICQxMDDigJMkNTAwIHBlciBnYXRlLgoKKiozLiBIT0EgRmVlcyAmIEZpbmVzKioKSWYgeW91ciBIT0EgcmVxdWlyZXMgYSBzcGVjaWZpYyBmZW5jZSBzdHlsZSwgaGVpZ2h0LCBvciBtYXRlcmlhbCwgYW5kIHlvdSBpbnN0YWxsIHNvbWV0aGluZyBkaWZmZXJlbnQsIHlvdSBtYXkgZmFjZSBmaW5lcyBhbmQgYmUgZm9yY2VkIHRvIHJlZG8gdGhlIHdvcmsuIEFsd2F5cyDigJQgYWx3YXlzIOKAlCBjaGVjayB5b3VyIGNvdmVuYW50cyBiZWZvcmUgb3JkZXJpbmcuCgoqKjQuIFNwcmluZyB2cy4gRmFsbCBQcmljaW5nKioKRGVtYW5kIGZvciBmZW5jZSBpbnN0YWxsYXRpb24gc3Bpa2VzIGluIGxhdGUgc3ByaW5nIChBcHJpbOKAk0p1bmUpLiBTb21lIGNvbnRyYWN0b3JzIHJhaXNlIHByaWNlcyA14oCTMTUlIGR1cmluZyBwZWFrIHNlYXNvbiBvciBzaW1wbHkgaGF2ZSBsb25nZXIgbGVhZCB0aW1lcy4gQm9va2luZyBpbiBlYXJseSBzcHJpbmcgb3IgbGF0ZSBzdW1tZXIgY2FuIHNhdmUgeW91IG1vbmV5LiBJbiBNYXksIHlvdSdyZSBpbiB0aGUgc3dlZXQgc3BvdCDigJQgZGVtYW5kIGlzIGhpZ2ggYnV0IHN1cHBseSBjaGFpbnMgYXJlIHNldHRsZWQuCgotLS0KCiMjIFRoZSBUcnVlIENvc3Qgb2YgRElZIHZzLiBIaXJpbmcgYSBQcm8KCldlJ3JlIGJpYXNlZCwgb2J2aW91c2x5LiBXZSBtYWtlIG91ciBsaXZpbmcgaW5zdGFsbGluZyBmZW5jZXMuIEJ1dCBsZXQncyBiZSBob25lc3QgYWJvdXQgd2hhdCBESVkgYWN0dWFsbHkgY29zdHMgd2hlbiB5b3UgYWRkIHVwIGV2ZXJ5dGhpbmc6Cgp8IEV4cGVuc2UgfCBESVkgQ29zdCB8IFBybyBJbnN0YWxsYXRpb24gQ29zdCB8Cnw6LS0tfC0tLTp8LS0tOnwKfCBNYXRlcmlhbHMgKDE1MCBmdCwgcHJlc3N1cmUtdHJlYXRlZCkgfCAkMiwyNTDigJMkMywwMDAgfCAkMiwyNTDigJMkMywwMDAgKHNhbWUpIHwKfCBUb29sIHJlbnRhbCAoYXVnZXIsIHNhdywgbGV2ZWwsIGV0Yy4pIHwgJDIwMOKAkyQ0MDAgfCAkMCAoaW5jbHVkZWQpIHwKfCBDb25jcmV0ZSAoNjDigJM4MCBiYWdzKSB8ICQxNTDigJMkMjUwIHwgJDAgKGluY2x1ZGVkKSB8CnwgWW91ciBsYWJvciAoNDDigJM2MCBob3VycykgfCBQcmljZWxlc3MgfCAkMCAoaW5jbHVkZWQpIHwKfCBNaXN0YWtlcyAmIHJld29yayB8IFRCRCB8ICQwIHwKfCBPbGQgZmVuY2UgZGlzcG9zYWwgfCAkMTAw4oCTJDIwMCB8ICQwIChpbmNsdWRlZCkgfAp8ICoqVG90YWwgZXN0aW1hdGVkKiogfCAqKiQyLDcwMOKAkyQzLDg1MCArIHlvdXIgdGltZSoqIHwgKiokNCw1MDDigJMkNSwyNTAqKiB8CgpUaGUgY29zdCBkaWZmZXJlbmNlIGlzICQxLDUwMOKAkyQyLDAwMCBmb3IgdGhlIGF2ZXJhZ2UgbG90LiBOb3cgYXNrIHlvdXJzZWxmOiB3aGF0J3MgeW91ciB0aW1lIHdvcnRoPyBBbmQgbW9yZSBpbXBvcnRhbnRseSwgd2hhdCdzIGl0IHdvcnRoIHRvIGhhdmUgYSBmZW5jZSB0aGF0J3Mgc3RpbGwgc3RhbmRpbmcgc3RyYWlnaHQgaW4gMTAgeWVhcnM/CgpBIHByb2Zlc3Npb25hbCBpbnN0YWxsIG1lYW5zIHRoZSBwb3N0cyBhcmUgc2V0IGJlbG93IHRoZSBmcm9zdCBsaW5lLiBJdCBtZWFucyB0aGUgcmFpbHMgYXJlIGxldmVsLCB0aGUgcGlja2V0cyBhcmUgZXZlbmx5IHNwYWNlZCwgYW5kIHRoZSBnYXRlIGRvZXNuJ3QgZHJhZy4gVGhvc2UgYXJlbid0IGx1eHVyaWVzIOKAlCB0aGV5J3JlIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSBmZW5jZSB0aGF0IGxhc3RzIGEgZGVjYWRlIGFuZCBvbmUgdGhhdCBuZWVkcyBmaXhpbmcgaW4gdGhyZWUgeWVhcnMuCgotLS0KCiMjIEhvdyB0byBHZXQgYW4gQWNjdXJhdGUgRmVuY2UgRXN0aW1hdGUgaW4gT2FrbGFuZCBDb3VudHkKCldoZW4geW91J3JlIHJlYWR5IHRvIGdldCBzZXJpb3VzIGFib3V0IHByaWNpbmcsIGhlcmUncyB3aGF0IHlvdSBjYW4gZG8gdG8gbWFrZSBzdXJlIHRoZSBlc3RpbWF0ZSB5b3UgZ2V0IGlzIGFjY3VyYXRlOgoKKioxLiBLbm93IHlvdXIgcHJvcGVydHkgbGluZXMuKiogSGF2ZSB5b3VyIHN1cnZleSBoYW5keSwgb3IgYmUgcHJlcGFyZWQgdG8gZ2V0IG9uZS4gQSBjb250cmFjdG9yIGNhbid0IGdpdmUgeW91IGEgZmlybSBwcmljZSBpZiB0aGV5IGRvbid0IGtub3cgZXhhY3RseSB3aGVyZSB0aGUgZmVuY2UgZ29lcy4KCioqMi4gSGF2ZSBhIHJvdWdoIGlkZWEgb2YgdGhlIHN0eWxlIHlvdSB3YW50LioqIEJyb3dzZSBvdXIgYmxvZyBwb3N0cyBvciBvdXIgcHJvamVjdCBnYWxsZXJ5LiBJZiB5b3UgY2FuIHRlbGwgYSBjb250cmFjdG9yICJJIHdhbnQgYSA2LWZvb3QgcHJpdmFjeSBmZW5jZSBpbiBwcmVzc3VyZS10cmVhdGVkIHBpbmUgd2l0aCBvbmUgd2FsayBnYXRlLCIgeW91J2xsIGdldCBhIG11Y2ggbW9yZSBhY2N1cmF0ZSBxdW90ZSB0aGFuICJJIHdhbnQgYSBmZW5jZS4iCgoqKjMuIEFzayBhYm91dCB0aGUgZGV0YWlscy4qKiBJbiBhIGdvb2QgcXVvdGUsIHlvdSdsbCBzZWUgbGluZSBpdGVtcyBmb3IgbWF0ZXJpYWxzLCBsYWJvciwgZ2F0ZXMsIHJlbW92YWwsIGFuZCBwZXJtaXQgZmVlcy4gSWYgYSBxdW90ZSBpcyBqdXN0IG9uZSBsdW1wIG51bWJlciwgYXNrIGZvciB0aGUgYnJlYWtkb3duLgoKKio0LiBHZXQgYXQgbGVhc3QgdGhyZWUgcXVvdGVzLioqIFRoaXMgaXMgc3RhbmRhcmQgYWR2aWNlIGZvciBhbnkgaG9tZSBpbXByb3ZlbWVudCBwcm9qZWN0LiBCdXQgZG9uJ3QgYXV0b21hdGljYWxseSBwaWNrIHRoZSBjaGVhcGVzdCDigJQgbG9vayBhdCB3aGF0J3MgaW5jbHVkZWQuIFRoZSBjaGVhcGVzdCBxdW90ZSBpcyBvZnRlbiB0aGUgb25lIHdpdGggdGhlIHRoaW5uZXN0IHBvc3RzLCB0aGUgc2hhbGxvd2VzdCBob2xlcywgYW5kIHRoZSBjaGVhcGVzdCBoYXJkd2FyZS4KCioqNS4gQXNrIGFib3V0IHdhcnJhbnR5LioqIFdlIHN0YW5kIGJlaGluZCBvdXIgd29yay4gQXNrIGFueSBjb250cmFjdG9yIHlvdSdyZSBjb25zaWRlcmluZyB3aGF0IHRoZWlyIHdhcnJhbnR5IGNvdmVycyBhbmQgZm9yIGhvdyBsb25nLgoKLS0tCgojIyBGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9ucwoKIyMjIEhvdyBtdWNoIGRvZXMgYSA2LWZvb3QgcHJpdmFjeSBmZW5jZSBjb3N0IGluIE1pY2hpZ2FuPwoKRm9yIGEgc3RhbmRhcmQgNi1mb290IHByaXZhY3kgZmVuY2UgaW4gT2FrbGFuZCBDb3VudHksIGV4cGVjdCB0byBwYXkgJDMwIHRvICQ1MCBwZXIgbGluZWFyIGZvb3QgaW5zdGFsbGVkIGluIDIwMjYuIFByZXNzdXJlLXRyZWF0ZWQgcGluZSBydW5zICQzMOKAkyQzNSBpbnN0YWxsZWQ7IGNlZGFyIHJ1bnMgJDQw4oCTJDUwIGluc3RhbGxlZC4gT24gYW4gYXZlcmFnZSBxdWFydGVyLWFjcmUgbG90ICgxNTDigJMyMDAgZnQpLCB0aGF0J3MgJDQsNTAwIHRvICQxMCwwMDAgdG90YWwuCgojIyMgV2hhdCBpcyB0aGUgbW9zdCBhZmZvcmRhYmxlIHdvb2QgZmVuY2UgbWF0ZXJpYWwgaW4gTWljaGlnYW4/CgpQcmVzc3VyZS10cmVhdGVkIHBpbmUgaXMgdGhlIG1vc3QgYWZmb3JkYWJsZSB3b29kIGZlbmNlIG1hdGVyaWFsIGZvciBNaWNoaWdhbidzIGNsaW1hdGUuIEF0ICQzMOKAkyQzNSBwZXIgbGluZWFyIGZvb3QgaW5zdGFsbGVkLCBpdCBvZmZlcnMgdGhlIGJlc3QgYmFsYW5jZSBvZiBkdXJhYmlsaXR5IGFuZCBjb3N0LiBJdCBoYW5kbGVzIE1pY2hpZ2FuJ3MgZnJlZXplLXRoYXcgY3ljbGVzIHdlbGwgd2hlbiBwcm9wZXJseSBpbnN0YWxsZWQuCgojIyMgRG9lcyBhIGZlbmNlIGluY3JlYXNlIGhvbWUgdmFsdWUgZW5vdWdoIHRvIGp1c3RpZnkgdGhlIGNvc3Q/CgpZZXMsIHR5cGljYWxseS4gQSB3ZWxsLWJ1aWx0LCB3ZWxsLW1haW50YWluZWQgd29vZCBmZW5jZSByZWNvdmVycyA1MOKAkzcwJSBvZiBpdHMgY29zdCBpbiBpbmNyZWFzZWQgaG9tZSB2YWx1ZSwgYWNjb3JkaW5nIHRvIHJlYWwgZXN0YXRlIGRhdGEgZm9yIHRoZSBNZXRybyBEZXRyb2l0IG1hcmtldC4gSG9tZXMgd2l0aCBmZW5jZWQgeWFyZHMgYWxzbyB0ZW5kIHRvIHNlbGwgMuKAkzUgZGF5cyBmYXN0ZXIsIHdoaWNoIGlzIG1lYW5pbmdmdWwgaW4gYSBjb21wZXRpdGl2ZSBtYXJrZXQuCgojIyMgSG93IG11Y2ggZG9lcyBpdCBjb3N0IHRvIHJlcGxhY2UgYSBmZW5jZSBpbiBNaWNoaWdhbj8KCkZ1bGwgZmVuY2UgcmVwbGFjZW1lbnQgY29zdHMgJDM14oCTJDU1IHBlciBsaW5lYXIgZm9vdCwgd2hpY2ggaW5jbHVkZXMgcmVtb3ZpbmcgYW5kIGRpc3Bvc2luZyBvZiB0aGUgb2xkIGZlbmNlIGFuZCBpbnN0YWxsaW5nIGEgbmV3IG9uZS4gVGhlIGFkZGl0aW9uYWwgY29zdCBvdmVyIG5ldyBpbnN0YWxsYXRpb24gaXMgJDXigJMkOCBwZXIgZm9vdCBmb3IgcmVtb3ZhbCBhbmQgZGlzcG9zYWwuCgojIyMgV2hhdCBpcyB0aGUgbGFib3IgY29zdCBmb3IgZmVuY2UgaW5zdGFsbGF0aW9uIGluIE9ha2xhbmQgQ291bnR5PwoKTGFib3IgZm9yIGZlbmNlIGluc3RhbGxhdGlvbiBpbiBPYWtsYW5kIENvdW50eSBydW5zICQxMuKAkyQxOCBwZXIgbGluZWFyIGZvb3QgaW4gMjAyNi4gVGhpcyBjb3ZlcnMgZGlnZ2luZyA0Mi1pbmNoIHBvc3QgaG9sZXMgYmVsb3cgdGhlIGZyb3N0IGxpbmUsIGNvbmNyZXRlIHNldHRpbmcsIGxldmVsaW5nLCBhbGlnbm1lbnQsIGFuZCBnYXRlIGluc3RhbGxhdGlvbi4gTGFib3IgYWNjb3VudHMgZm9yIHJvdWdobHkgNDDigJM1MCUgb2YgeW91ciB0b3RhbCBmZW5jZSBjb3N0LgoKIyMjIEhvdyBsb25nIGRvZXMgYSB3b29kIGZlbmNlIGxhc3QgaW4gTWljaGlnYW4sIGFuZCBpcyBpdCB3b3J0aCB0aGUgaW52ZXN0bWVudD8KCkEgcHJvcGVybHkgaW5zdGFsbGVkIHByZXNzdXJlLXRyZWF0ZWQgcGluZSBmZW5jZSBsYXN0cyAxMOKAkzE1IHllYXJzIHdpdGggc3RhaW5pbmcgZXZlcnkgMuKAkzMgeWVhcnMuIENlZGFyIGxhc3RzIDE14oCTMjAgeWVhcnMuIEdpdmVuIHRoYXQgdGhlIGNvc3Qgd29ya3Mgb3V0IHRvIHJvdWdobHkgJDMwMOKAkyQ3MDAgcGVyIHllYXIgb3ZlciB0aGUgZmVuY2UncyBsaWZlc3BhbiBmb3IgYSBzdGFuZGFyZCBsb3QsIGFuZCBpdCBhZGRzIHZhbHVlIHRvIHlvdXIgaG9tZSBBTkQgaW1wcm92ZXMgeW91ciBkYWlseSBxdWFsaXR5IG9mIGxpZmUg4oCUIHllcywgaXQncyB3b3J0aCB0aGUgaW52ZXN0bWVudC4KCiMjIyBTaG91bGQgSSBzdGFpbiBteSBmZW5jZSB0byBwcm90ZWN0IG15IGludmVzdG1lbnQ/CgpBYnNvbHV0ZWx5LiBTdGFpbmluZyBvciBzZWFsaW5nIGEgbmV3IHByZXNzdXJlLXRyZWF0ZWQgZmVuY2Ugd2l0aGluIHRoZSBmaXJzdCB5ZWFyIGlzIHRoZSBzaW5nbGUgbW9zdCBpbXBvcnRhbnQgdGhpbmcgeW91IGNhbiBkbyB0byBleHRlbmQgaXRzIGxpZmUuIFVudHJlYXRlZCwgdGhlIHdvb2Qgd2lsbCBncmF5LCBkZXZlbG9wIGNyYWNrcywgYW5kIGJlZ2luIGFic29yYmluZyBtb2lzdHVyZS4gU3RhaW5pbmcgY29zdHMgJDMwMOKAkyQxLDAwMCBmb3IgYW4gYXZlcmFnZSBsb3QgYW5kIGFkZHMgeWVhcnMgb2YgbGlmZSB0byB5b3VyIGZlbmNlLgoKLS0tCgojIyBSZWFkeSBGb3IgWW91ciBGcmVlIEVzdGltYXRlPwoKVGhlIGJlc3Qgd2F5IHRvIGtub3cgZXhhY3RseSB3aGF0IHlvdXIgZmVuY2Ugd2lsbCBjb3N0IGlzIHRvIGhhdmUgYW4gaG9uZXN0IGNvbnZlcnNhdGlvbiB3aXRoIHNvbWVvbmUgd2hvJ3MgYmVlbiBidWlsZGluZyB0aGVtIGluIHlvdXIgbmVpZ2hib3Job29kLiBUaGF0J3MgdXMuCgpXZSdyZSBKdXN0aW4gYW5kIENocmlzIOKAlCB0d28gT2FrbGFuZCBDb3VudHkgZ3V5cyB3aG8gc3RhcnRlZCBCRiBGZW5jZSBiZWNhdXNlIHdlIGJlbGlldmVkIHRoZXJlIHdhcyBhIGJldHRlciB3YXkgdG8gYnVpbGQgZmVuY2VzLiBXZSB1c2UgcXVhbGl0eSBtYXRlcmlhbHMuIFdlIHNldCBwb3N0cyBiZWxvdyB0aGUgZnJvc3QgbGluZS4gV2Ugc3RhbmQgYmVoaW5kIG91ciB3b3JrLgoKKipDYWxsIHVzIGF0ICgyNDgpIDYwNC02MTY4IG9yIGVtYWlsIGVzdGltYXRlQGJmZmVuY2UuY29tIGZvciBhIGZyZWUsIG5vLW9ibGlnYXRpb24gZXN0aW1hdGUuKioKCk9yIHZpc2l0IHVzIGF0IGJmZmVuY2UuY29tIHRvIHNlZSBwaG90b3Mgb2Ygb3VyIHJlY2VudCBwcm9qZWN0cywgcmVhZCByZXZpZXdzIGZyb20geW91ciBuZWlnaGJvcnMsIGFuZCBsZWFybiBtb3JlIGFib3V0IHdoYXQgbWFrZXMgYSBmZW5jZSBidWlsdCB0byBsYXN0LgoKWW91ciBiYWNreWFyZCDigJQgYW5kIHlvdXIgcGVhY2Ugb2YgbWluZCDigJQgaXMgd29ydGggaXQuCg==
+---
+title: "How Much Does a Wood Fence Cost in Michigan? A Complete 2026 Pricing Guide for Oakland County Homeowners"
+date: "2026-05-02"
+description: "Wondering how much a wood fence costs in Michigan in 2026? This complete pricing guide breaks down material costs, labor rates, permit fees, and ROI for Oakland County homeowners — from real local experts, not national averages."
+category: "BF Fence"
+author: "BFFence"
+---
+
+# How Much Does a Wood Fence Cost in Michigan? A Complete 2026 Pricing Guide for Oakland County Homeowners
+
+*Published: May 2, 2026 | By BF Fence*
+
+---
+
+You're standing in your backyard, looking at that sagging section of fence — or maybe just at the neighbor's kitchen window — and you've finally decided it's time. Time to get a fence. And now you've got the one question that's on every homeowner's mind before they make that call:
+
+**How much is this going to cost?**
+
+It's a fair question. And we're going to give you a real answer — not a vague range from some national website that's never set foot in Michigan. We're Justin and Chris from BF Fence, and we've been building wood fences across Oakland County — Auburn Hills, Rochester, Troy, Bloomfield Hills, Lake Orion, and everywhere in between — long enough to know what things actually cost around here.
+
+This guide covers everything: material prices, labor rates, permit costs, hidden expenses, and whether a fence is actually worth what you'll pay for it. By the time you finish reading, you'll know exactly what to expect when you call for an estimate.
+
+Let's get into it.
+
+---
+
+## The Short Answer: What a Wood Fence Costs in Michigan (2026)
+
+Before we dive into the details, here's the bottom line:
+
+**For a standard 6-foot privacy fence in Oakland County, Michigan, you're looking at $30 to $50 per linear foot installed in 2026.** That includes materials, labor, and standard post-setting.
+
+For the average quarter-acre lot in metro Detroit — which needs roughly 150 to 200 linear feet of fencing — that works out to a total project cost of **$4,500 to $10,000**.
+
+Here's a quick reference for common project sizes:
+
+| Project Size | Linear Feet | Estimated Total Cost |
+|:---|---:|---:|
+| Small backyard (townhouse/condo) | 80–120 ft | $2,400–$6,000 |
+| Average suburban lot (quarter acre) | 150–200 ft | $4,500–$10,000 |
+| Large corner lot (half acre) | 250–350 ft | $7,500–$17,500 |
+| Commercial / small business lot | 300–500+ ft | $9,000–$25,000+ |
+
+The range depends on a few key factors: the type of wood you choose, how complex the installation is, and whether you're dealing with tricky ground conditions. We'll break all of that down below.
+
+---
+
+## What Goes Into the Cost of a Wood Fence?
+
+A fence estimate isn't just "X dollars per foot." There are three main cost buckets, and understanding each one will help you compare quotes with confidence.
+
+### 1. Materials: The Wood You Choose Makes the Biggest Difference
+
+The type of wood you pick is the single biggest variable in your fence cost. Here's what you can expect for the two most common options in Michigan:
+
+**Pressure-Treated Pine ($20–$30 per linear foot installed)**
+
+Pressure-treated pine is the workhorse of Michigan fencing — and for good reason. It's treated with preservatives that resist rot, insects, and moisture. It handles our freeze-thaw cycles better than almost any other material in its price range. It's the most popular choice in Oakland County for a reason: it works.
+
+- **Pros**: Most affordable, naturally rot-resistant, accepts stain well, proven durability in Michigan
+- **Cons**: Can warp if not properly dried and installed, requires staining or sealing within 6–12 months
+- **Best for**: Budget-conscious homeowners, large lots, rental properties, side yards
+- **Typical lifespan in Michigan**: 10–15 years with proper maintenance
+
+**Cedar ($35–$50 per linear foot installed)**
+
+Cedar is the premium choice. It naturally resists rot and insects without chemical treatment, and it has a warmth and beauty that pressure-treated pine just can't match. It's lighter in weight, so it puts less stress on posts and hardware over time.
+
+- **Pros**: Naturally beautiful, insect-resistant without chemicals, takes stain beautifully, lighter weight
+- **Cons**: Significantly more expensive, slightly softer wood, more prone to scratching
+- **Best for**: Front yards, visible property lines, homes where curb appeal is a priority
+- **Typical lifespan in Michigan**: 15–20 years with proper maintenance
+
+**Material Cost Breakdown at Current (2026) Pricing**
+
+| Material | Per Linear Foot (Materials Only) | Per Linear Foot (Installed) |
+|:---|---:|---:|
+| Pressure-treated pine, 6-ft privacy | $15–$20 | $30–$35 |
+| Cedar, 6-ft privacy | $22–$30 | $40–$50 |
+| Pressure-treated pine, 4-ft decorative | $12–$16 | $25–$30 |
+| Cedar, 4-ft decorative | $20–$25 | $35–$45 |
+
+These prices are current as of spring 2026 and reflect what we're seeing in the Oakland County market. Lumber prices fluctuate — like everything else — but these ranges have been stable for the past year.
+
+### 2. Labor: What You're Paying For When You Hire a Pro
+
+Labor typically accounts for 40% to 50% of your total fence installation cost. You might be tempted to save money here by doing it yourself, but here's what professional labor covers in Michigan — and why it matters.
+
+**What Professional Installation Includes:**
+
+- **Proper post-hole digging to frost line depth** — In Michigan, that's 42 inches deep. Posts set shallower than that will heave up during the first winter. We've seen it happen. It's not pretty.
+- **Concrete setting** — Posts are set in concrete below the frost line, with proper drainage to prevent water pooling at the base of the post.
+- **Leveling and alignment** — A fence that looks straight from the street requires precision. Badly aligned fences are the number one complaint we see from homeowners who tried the DIY route with a buddy and a post-hole digger.
+- **Gate installation** — Proper gate hanging is an art. A sagging gate is the fastest way to make a brand-new fence look cheap.
+- **Removal and disposal of old fencing** — If you're replacing a fence, we haul the old one away. That's included.
+
+**Average Labor Rates in Oakland County (2026)**
+
+| Labor Component | Typical Cost |
+|:---|---:|
+| Standard installation labor (per linear foot) | $12–$18 |
+| Gate installation (per gate) | $150–$400 |
+| Old fence removal (per linear foot) | $5–$8 |
+| Concrete for post-setting | $3–$5 per post |
+
+### 3. Permits & Site Prep
+
+**Oakland County Fence Permits**
+
+Most municipalities in Oakland County require a fence permit. Here's the general rule: if the fence is over 3 feet tall in the front yard or over 6 feet in the back, you almost certainly need one. Here's what permits typically cost in common BF Fence service areas:
+
+| Municipality | Typical Permit Fee | Notes |
+|:---|---:|:---|
+| Auburn Hills | $50–$75 | Simple application, usually approved same day |
+| Rochester / Rochester Hills | $60–$100 | May require plot plan |
+| Troy | $50–$80 | Online application available |
+| Bloomfield Hills | $75–$125 | HOA approval may be required first |
+| Lake Orion | $40–$60 | Most affordable in the area |
+| Oakland County (unincorporated) | $50–$75 | County permit |
+
+Note: Some HOAs have additional approval processes and fees. If you're in an HOA community, always check your covenants before ordering materials.
+
+**Other Site-Specific Costs:**
+
+- **Property survey**: If you don't know your exact property lines, a survey costs $350–$800. We strongly recommend getting one — building a fence on your neighbor's property is an expensive mistake.
+- **Utility locator (Miss Dig)**: Free in Michigan. Always call 811 before digging. We do this on every job.
+- **Tree/root removal**: If large roots are in the way, removal can add $50–$200 per obstacle.
+- **Sloped lot**: If your yard has significant grade changes, the cost may increase 10–20% due to stepped panel installation.
+
+---
+
+## Fence Height & Style: How It Affects the Price
+
+Not all wood fences are built the same way. Here's how different styles and heights affect your cost in the Michigan market:
+
+| Fence Style | Cost per Linear Foot (Installed) | Best Use |
+|:---|---:|:---|
+| 6-ft privacy (board-on-board) | $35–$50 | Maximum privacy, backyard |
+| 6-ft privacy (dog-eared) | $30–$40 | Good privacy, slightly lower cost |
+| 4-ft picket / decorative | $25–$35 | Front yard, curb appeal |
+| 4-ft privacy | $30–$40 | Shorter privacy option, pool areas |
+| Semi-privacy (spaced pickets) | $28–$38 | Partial views + airflow |
+| Lattice top (added to any style) | $8–$15 extra per ft | Decorative accent |
+
+**Why height matters**: A 6-foot fence uses more wood per linear foot (longer pickets, wider spacing requirements for stability), requires deeper posts, and takes more labor than a 4-foot fence. The difference is about 15–25% more per foot.
+
+---
+
+## Does a Wood Fence Increase Your Property Value?
+
+This is the question we hear more than any other, and it's a smart one. You're not just spending money — you're investing in your home. So let's talk about the return on that investment.
+
+**The short answer: Yes, a well-built wood fence adds value to your Michigan home — typically between 50% and 70% of what you spend on it.**
+
+Here's what the data shows for the Metro Detroit market:
+
+- **Appraised value increase**: Real estate agents in Oakland County report that a quality privacy fence adds $3,000–$7,000 to a home's appraised value, depending on lot size and neighborhood.
+- **Curb appeal factor**: In a Zillow survey, 44% of buyers said they'd pay more for a home with a fence. That's significant in a competitive market like Oakland County.
+- **Days on market**: Homes with fenced yards in Metro Detroit typically sell 2–5 days faster than comparable unfenced properties. In a market where homes already move fast, that edge matters.
+
+**Where the ROI is strongest:**
+
+| Scenario | Estimated ROI |
+|:---|---:|
+| Backyard privacy fence, well-maintained | 60–70% of cost recouped |
+| Front yard decorative fence | 50–60% |
+| Pool safety fence | Required for insurance — value is in compliance |
+| Large lot perimeter fence | 40–55% (more footage, lower ROI per foot) |
+
+**The catch**: Unmaintained fences are a liability, not an asset. A fence that's rotting, leaning, or badly stained will lower your home's perceived value. This is why proper wood selection and installation matter — a fence that lasts 15 years with basic care beats a cheap one that needs replacement in 5.
+
+---
+
+## New Installation vs. Fence Replacement: Which Costs More?
+
+If you already have a fence, you might be wondering whether repair or replacement is the smarter move. Here's the honest breakdown:
+
+| Scenario | Typical Cost |
+|:---|---:|
+| New fence installation (no existing fence) | $30–$50 per linear foot |
+| Full replacement (remove old, install new) | $35–$55 per linear foot |
+| Repair (replace damaged sections only) | $15–$30 per linear foot |
+| Post replacement (single post) | $75–$150 per post |
+| Gate repair | $100–$300 |
+
+**When repair makes sense**: If the damage is limited to a few pickets or a single section — say, storm damage on one panel — repair is the obvious choice.
+
+**When replacement makes sense**: If more than 30% of your fence is failing, or if the posts are rotted at ground level (which is structural — you're replacing the foundation, not just the siding), replacement is almost always more cost-effective in the long run. A patch job on rotted posts buys you a year or two at most.
+
+---
+
+## Hidden Costs Every Michigan Homeowner Should Know About
+
+These are the expenses that catch people off guard. We want you to walk into this with your eyes wide open.
+
+**1. The "I'll Stain It Later" Trap**
+You have about 6–12 months after installation to stain or seal a new pressure-treated fence. After that, the wood starts to gray, check (develop small cracks), and absorb moisture. Staining a fence costs $1.50–$3.00 per linear foot if you DIY, or $3–$5 per foot if you hire it out. That's $300–$1,000 on an average lot. Budget for it.
+
+**2. Gate Hardware**
+A standard gate works fine with basic hardware. But if you want self-closing hinges, magnetic locks, or heavy-duty commercial-grade hardware for a driveway gate, expect to add $100–$500 per gate.
+
+**3. HOA Fees & Fines**
+If your HOA requires a specific fence style, height, or material, and you install something different, you may face fines and be forced to redo the work. Always — always — check your covenants before ordering.
+
+**4. Spring vs. Fall Pricing**
+Demand for fence installation spikes in late spring (April–June). Some contractors raise prices 5–15% during peak season or simply have longer lead times. Booking in early spring or late summer can save you money. In May, you're in the sweet spot — demand is high but supply chains are settled.
+
+---
+
+## The True Cost of DIY vs. Hiring a Pro
+
+We're biased, obviously. We make our living installing fences. But let's be honest about what DIY actually costs when you add up everything:
+
+| Expense | DIY Cost | Pro Installation Cost |
+|:---|---:|---:|
+| Materials (150 ft, pressure-treated) | $2,250–$3,000 | $2,250–$3,000 (same) |
+| Tool rental (auger, saw, level, etc.) | $200–$400 | $0 (included) |
+| Concrete (60–80 bags) | $150–$250 | $0 (included) |
+| Your labor (40–60 hours) | Priceless | $0 (included) |
+| Mistakes & rework | TBD | $0 |
+| Old fence disposal | $100–$200 | $0 (included) |
+| **Total estimated** | **$2,700–$3,850 + your time** | **$4,500–$5,250** |
+
+The cost difference is $1,500–$2,000 for the average lot. Now ask yourself: what's your time worth? And more importantly, what's it worth to have a fence that's still standing straight in 10 years?
+
+A professional install means the posts are set below the frost line. It means the rails are level, the pickets are evenly spaced, and the gate doesn't drag. Those aren't luxuries — they're the difference between a fence that lasts a decade and one that needs fixing in three years.
+
+---
+
+## How to Get an Accurate Fence Estimate in Oakland County
+
+When you're ready to get serious about pricing, here's what you can do to make sure the estimate you get is accurate:
+
+**1. Know your property lines.** Have your survey handy, or be prepared to get one. A contractor can't give you a firm price if they don't know exactly where the fence goes.
+
+**2. Have a rough idea of the style you want.** Browse our blog posts or our project gallery. If you can tell a contractor "I want a 6-foot privacy fence in pressure-treated pine with one walk gate," you'll get a much more accurate quote than "I want a fence."
+
+**3. Ask about the details.** In a good quote, you'll see line items for materials, labor, gates, removal, and permit fees. If a quote is just one lump number, ask for the breakdown.
+
+**4. Get at least three quotes.** This is standard advice for any home improvement project. But don't automatically pick the cheapest — look at what's included. The cheapest quote is often the one with the thinnest posts, the shallowest holes, and the cheapest hardware.
+
+**5. Ask about warranty.** We stand behind our work. Ask any contractor you're considering what their warranty covers and for how long.
+
+---
+
+## Frequently Asked Questions
+
+### How much does a 6-foot privacy fence cost in Michigan?
+
+For a standard 6-foot privacy fence in Oakland County, expect to pay $30 to $50 per linear foot installed in 2026. Pressure-treated pine runs $30–$35 installed; cedar runs $40–$50 installed. On an average quarter-acre lot (150–200 ft), that's $4,500 to $10,000 total.
+
+### What is the most affordable wood fence material in Michigan?
+
+Pressure-treated pine is the most affordable wood fence material for Michigan's climate. At $30–$35 per linear foot installed, it offers the best balance of durability and cost. It handles Michigan's freeze-thaw cycles well when properly installed.
+
+### Does a fence increase home value enough to justify the cost?
+
+Yes, typically. A well-built, well-maintained wood fence recovers 50–70% of its cost in increased home value, according to real estate data for the Metro Detroit market. Homes with fenced yards also tend to sell 2–5 days faster, which is meaningful in a competitive market.
+
+### How much does it cost to replace a fence in Michigan?
+
+Full fence replacement costs $35–$55 per linear foot, which includes removing and disposing of the old fence and installing a new one. The additional cost over new installation is $5–$8 per foot for removal and disposal.
+
+### What is the labor cost for fence installation in Oakland County?
+
+Labor for fence installation in Oakland County runs $12–$18 per linear foot in 2026. This covers digging 42-inch post holes below the frost line, concrete setting, leveling, alignment, and gate installation. Labor accounts for roughly 40–50% of your total fence cost.
+
+### How long does a wood fence last in Michigan, and is it worth the investment?
+
+A properly installed pressure-treated pine fence lasts 10–15 years with staining every 2–3 years. Cedar lasts 15–20 years. Given that the cost works out to roughly $300–$700 per year over the fence's lifespan for a standard lot, and it adds value to your home AND improves your daily quality of life — yes, it's worth the investment.
+
+### Should I stain my fence to protect my investment?
+
+Absolutely. Staining or sealing a new pressure-treated fence within the first year is the single most important thing you can do to extend its life. Untreated, the wood will gray, develop cracks, and begin absorbing moisture. Staining costs $300–$1,000 for an average lot and adds years of life to your fence.
+
+---
+
+## Ready For Your Free Estimate?
+
+The best way to know exactly what your fence will cost is to have an honest conversation with someone who's been building them in your neighborhood. That's us.
+
+We're Justin and Chris — two Oakland County guys who started BF Fence because we believed there was a better way to build fences. We use quality materials. We set posts below the frost line. We stand behind our work.
+
+**Call us at (248) 604-6168 or email estimate@bffence.com for a free, no-obligation estimate.**
+
+Or visit us at bffence.com to see photos of our recent projects, read reviews from your neighbors, and learn more about what makes a fence built to last.
+
+Your backyard — and your peace of mind — is worth it.

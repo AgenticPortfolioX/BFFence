@@ -1,1 +1,140 @@
-ewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAZ3JhcGgiOiBbCiAgICB7CiAgICAgICJAdHlwZSI6ICJBcnRpY2xlIiwKICAgICAgImhlYWRsaW5lIjogIkhvdyBNdWNoIERvZXMgYSBXb29kIEZlbmNlIENvc3QgaW4gTWljaGlnYW4/IEEgQ29tcGxldGUgMjAyNiBQcmljaW5nIEd1aWRlIGZvciBPYWtsYW5kIENvdW50eSBIb21lb3duZXJzIiwKICAgICAgImRlc2NyaXB0aW9uIjogIldvbmRlcmluZyBob3cgbXVjaCBhIHdvb2QgZmVuY2UgY29zdHMgaW4gTWljaGlnYW4gaW4gMjAyNj8gVGhpcyBjb21wbGV0ZSBwcmljaW5nIGd1aWRlIGJyZWFrcyBkb3duIG1hdGVyaWFsIGNvc3RzLCBsYWJvciByYXRlcywgcGVybWl0IGZlZXMsIGFuZCBST0kgZm9yIE9ha2xhbmQgQ291bnR5IGhvbWVvd25lcnMg4oCUIGZyb20gcmVhbCBsb2NhbCBleHBlcnRzLCBub3QgbmF0aW9uYWwgYXZlcmFnZXMuIiwKICAgICAgImRhdGVQdWJsaXNoZWQiOiAiMjAyNi0wNS0wMiIsCiAgICAgICJkYXRlTW9kaWZpZWQiOiAiMjAyNi0wNS0wMiIsCiAgICAgICJhdXRob3IiOiB7CiAgICAgICAgIkB0eXBlIjogIk9yZ2FuaXphdGlvbiIsCiAgICAgICAgIm5hbWUiOiAiQkYgRmVuY2UiLAogICAgICAgICJhbHRlcm5hdGVOYW1lIjogIlJlbm93bmVkIFZhbHVlIFJlc3RvcmF0aW9uIExMQyIsCiAgICAgICAgInVybCI6ICJodHRwczovL2JmZmVuY2UuY29tIiwKICAgICAgICAidGVsZXBob25lIjogIigyNDgpNjA0LTYxNjgiLAogICAgICAgICJlbWFpbCI6ICJlc3RpbWF0ZUBiZmZlbmNlLmNvbSIsCiAgICAgICAgImFkZHJlc3MiOiB7CiAgICAgICAgICAiQHR5cGUiOiAiUG9zdGFsQWRkcmVzcyIsCiAgICAgICAgICAic3RyZWV0QWRkcmVzcyI6ICIyNzExIFdpbGxpYW1zYnVyZyBDaXIiLAogICAgICAgICAgImFkZHJlc3NMb2NhbGl0eSI6ICJBdWJ1cm4gSGlsbHMiLAogICAgICAgICAgImFkZHJlc3NSZWdpb24iOiAiTUkiLAogICAgICAgICAgInBvc3RhbENvZGUiOiAiNDgzMjYiLAogICAgICAgICAgImFkZHJlc3NDb3VudHJ5IjogIlVTIgogICAgICAgIH0sCiAgICAgICAgImFyZWFTZXJ2ZWQiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJAdHlwZSI6ICJDaXR5IiwKICAgICAgICAgICAgIm5hbWUiOiBbIk9ha2xhbmQgQ291bnR5IiwgIldheW5lIENvdW50eSIsICJHZW5lc2VlIENvdW50eSJdCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9LAogICAgICAicHVibGlzaGVyIjogewogICAgICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgICAgICJuYW1lIjogIkJGIEZlbmNlIiwKICAgICAgICAidXJsIjogImh0dHBzOi8vYmZmZW5jZS5jb20iCiAgICAgIH0sCiAgICAgICJtYWluRW50aXR5T2ZQYWdlIjogewogICAgICAgICJAdHlwZSI6ICJXZWJQYWdlIiwKICAgICAgICAiQGlkIjogImh0dHBzOi8vYmZmZW5jZS5jb20vdXBkYXRlcyIKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIkZBUVBhZ2UiLAogICAgICAibWFpbkVudGl0eSI6IFsKICAgICAgICB7CiAgICAgICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICAgICAgIm5hbWUiOiAiSG93IG11Y2ggZG9lcyBhIDYtZm9vdCBwcml2YWN5IGZlbmNlIGNvc3QgaW4gTWljaGlnYW4/IiwKICAgICAgICAgICJhY2NlcHRlZEFuc3dlciI6IHsKICAgICAgICAgICAgIkB0eXBlIjogIkFuc3dlciIsCiAgICAgICAgICAgICJ0ZXh0IjogIkZvciBhIHN0YW5kYXJkIDYtZm9vdCBwcml2YWN5IGZlbmNlIGluIE9ha2xhbmQgQ291bnR5LCBleHBlY3QgdG8gcGF5ICQzMCB0byAkNTAgcGVyIGxpbmVhciBmb290IGluc3RhbGxlZCBpbiAyMDI2LiBQcmVzc3VyZS10cmVhdGVkIHBpbmUgcnVucyAkMzAtJDM1IGluc3RhbGxlZDsgY2VkYXIgcnVucyAkNDAtJDUwIGluc3RhbGxlZC4gT24gYW4gYXZlcmFnZSBxdWFydGVyLWFjcmUgbG90ICgxNTAtMjAwIGZ0KSwgdGhhdCdzICQ0LDUwMCB0byAkMTAsMDAwIHRvdGFsLiIKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgICAgICAibmFtZSI6ICJXaGF0IGlzIHRoZSBtb3N0IGFmZm9yZGFibGUgd29vZCBmZW5jZSBtYXRlcmlhbCBpbiBNaWNoaWdhbj8iLAogICAgICAgICAgImFjY2VwdGVkQW5zd2VyIjogewogICAgICAgICAgICAiQHR5cGUiOiAiQW5zd2VyIiwKICAgICAgICAgICAgInRleHQiOiAiUHJlc3N1cmUtdHJlYXRlZCBwaW5lIGlzIHRoZSBtb3N0IGFmZm9yZGFibGUgd29vZCBmZW5jZSBtYXRlcmlhbCBmb3IgTWljaGlnYW4ncyBjbGltYXRlLiBBdCAkMzAtJDM1IHBlciBsaW5lYXIgZm9vdCBpbnN0YWxsZWQsIGl0IG9mZmVycyB0aGUgYmVzdCBiYWxhbmNlIG9mIGR1cmFiaWxpdHkgYW5kIGNvc3QuIEl0IGhhbmRsZXMgTWljaGlnYW4ncyBmcmVlemUtdGhhdyBjeWNsZXMgd2VsbCB3aGVuIHByb3Blcmx5IGluc3RhbGxlZC4iCiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICAgICAgIm5hbWUiOiAiRG9lcyBhIGZlbmNlIGluY3JlYXNlIGhvbWUgdmFsdWUgZW5vdWdoIHRvIGp1c3RpZnkgdGhlIGNvc3Q/IiwKICAgICAgICAgICJhY2NlcHRlZEFuc3dlciI6IHsKICAgICAgICAgICAgIkB0eXBlIjogIkFuc3dlciIsCiAgICAgICAgICAgICJ0ZXh0IjogIlllcywgdHlwaWNhbGx5LiBBIHdlbGwtYnVpbHQsIHdlbGwtbWFpbnRhaW5lZCB3b29kIGZlbmNlIHJlY292ZXJzIDUwLTcwJSBvZiBpdHMgY29zdCBpbiBpbmNyZWFzZWQgaG9tZSB2YWx1ZSwgYWNjb3JkaW5nIHRvIHJlYWwgZXN0YXRlIGRhdGEgZm9yIHRoZSBNZXRybyBEZXRyb2l0IG1hcmtldC4gSG9tZXMgd2l0aCBmZW5jZWQgeWFyZHMgYWxzbyB0ZW5kIHRvIHNlbGwgMi01IGRheXMgZmFzdGVyLiIKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgICAgICAibmFtZSI6ICJIb3cgbXVjaCBkb2VzIGl0IGNvc3QgdG8gcmVwbGFjZSBhIGZlbmNlIGluIE1pY2hpZ2FuPyIsCiAgICAgICAgICAiYWNjZXB0ZWRBbnN3ZXIiOiB7CiAgICAgICAgICAgICJAdHlwZSI6ICJBbnN3ZXIiLAogICAgICAgICAgICAidGV4dCI6ICJGdWxsIGZlbmNlIHJlcGxhY2VtZW50IGNvc3RzICQzNS0kNTUgcGVyIGxpbmVhciBmb290LCB3aGljaCBpbmNsdWRlcyByZW1vdmluZyBhbmQgZGlzcG9zaW5nIG9mIHRoZSBvbGQgZmVuY2UgYW5kIGluc3RhbGxpbmcgYSBuZXcgb25lLiBUaGUgYWRkaXRpb25hbCBjb3N0IG92ZXIgbmV3IGluc3RhbGxhdGlvbiBpcyAkNS0kOCBwZXIgZm9vdCBmb3IgcmVtb3ZhbCBhbmQgZGlzcG9zYWwuIgogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgICAgICJuYW1lIjogIldoYXQgaXMgdGhlIGxhYm9yIGNvc3QgZm9yIGZlbmNlIGluc3RhbGxhdGlvbiBpbiBPYWtsYW5kIENvdW50eT8iLAogICAgICAgICAgImFjY2VwdGVkQW5zd2VyIjogewogICAgICAgICAgICAiQHR5cGUiOiAiQW5zd2VyIiwKICAgICAgICAgICAgInRleHQiOiAiTGFib3IgZm9yIGZlbmNlIGluc3RhbGxhdGlvbiBpbiBPYWtsYW5kIENvdW50eSBydW5zICQxMi0kMTggcGVyIGxpbmVhciBmb290IGluIDIwMjYuIFRoaXMgY292ZXJzIGRpZ2dpbmcgNDItaW5jaCBwb3N0IGhvbGVzIGJlbG93IHRoZSBmcm9zdCBsaW5lLCBjb25jcmV0ZSBzZXR0aW5nLCBsZXZlbGluZywgYWxpZ25tZW50LCBhbmQgZ2F0ZSBpbnN0YWxsYXRpb24uIExhYm9yIGFjY291bnRzIGZvciByb3VnaGx5IDQwLTUwJSBvZiB5b3VyIHRvdGFsIGZlbmNlIGNvc3QuIgogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgICAgICJuYW1lIjogIkhvdyBsb25nIGRvZXMgYSB3b29kIGZlbmNlIGxhc3QgaW4gTWljaGlnYW4/IiwKICAgICAgICAgICJhY2NlcHRlZEFuc3dlciI6IHsKICAgICAgICAgICAgIkB0eXBlIjogIkFuc3dlciIsCiAgICAgICAgICAgICJ0ZXh0IjogIkEgcHJvcGVybHkgaW5zdGFsbGVkIHByZXNzdXJlLXRyZWF0ZWQgcGluZSBmZW5jZSBsYXN0cyAxMC0xNSB5ZWFycyB3aXRoIHN0YWluaW5nIGV2ZXJ5IDItMyB5ZWFycy4gQ2VkYXIgbGFzdHMgMTUtMjAgeWVhcnMuIEdpdmVuIHRoYXQgdGhlIGNvc3Qgd29ya3Mgb3V0IHRvIHJvdWdobHkgJDMwMC0kNzAwIHBlciB5ZWFyIG92ZXIgdGhlIGZlbmNlJ3MgbGlmZXNwYW4gZm9yIGEgc3RhbmRhcmQgbG90LCBpdCBpcyBhIHdvcnRod2hpbGUgaW52ZXN0bWVudC4iCiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICAgICAgIm5hbWUiOiAiU2hvdWxkIEkgc3RhaW4gbXkgZmVuY2UgdG8gcHJvdGVjdCBteSBpbnZlc3RtZW50PyIsCiAgICAgICAgICAiYWNjZXB0ZWRBbnN3ZXIiOiB7CiAgICAgICAgICAgICJAdHlwZSI6ICJBbnN3ZXIiLAogICAgICAgICAgICAidGV4dCI6ICJBYnNvbHV0ZWx5LiBTdGFpbmluZyBvciBzZWFsaW5nIGEgbmV3IHByZXNzdXJlLXRyZWF0ZWQgZmVuY2Ugd2l0aGluIHRoZSBmaXJzdCB5ZWFyIGlzIHRoZSBzaW5nbGUgbW9zdCBpbXBvcnRhbnQgdGhpbmcgeW91IGNhbiBkbyB0byBleHRlbmQgaXRzIGxpZmUuIFVudHJlYXRlZCB3b29kIGdyYXlzLCBjcmFja3MsIGFuZCBhYnNvcmJzIG1vaXN0dXJlLiBTdGFpbmluZyBjb3N0cyAkMzAwLSQxLDAwMCBmb3IgYW4gYXZlcmFnZSBsb3QgYW5kIGFkZHMgeWVhcnMgb2YgbGlmZS4iCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiTG9jYWxCdXNpbmVzcyIsCiAgICAgICJuYW1lIjogIkJGIEZlbmNlIiwKICAgICAgImFsdGVybmF0ZU5hbWUiOiAiUmVub3duZWQgVmFsdWUgUmVzdG9yYXRpb24gTExDIiwKICAgICAgImRlc2NyaXB0aW9uIjogIkN1c3RvbSByZXNpZGVudGlhbCBhbmQgY29tbWVyY2lhbCB3b29kZW4gcGVyaW1ldGVyIGZlbmNlIGluc3RhbGxhdGlvbnMgaW4gTWV0cm8gRGV0cm9pdC4iLAogICAgICAidXJsIjogImh0dHBzOi8vYmZmZW5jZS5jb20iLAogICAgICAidGVsZXBob25lIjogIigyNDgpNjA0LTYxNjgiLAogICAgICAiZW1haWwiOiAiZXN0aW1hdGVAYmZmZW5jZS5jb20iLAogICAgICAiYWRkcmVzcyI6IHsKICAgICAgICAiQHR5cGUiOiAiUG9zdGFsQWRkcmVzcyIsCiAgICAgICAgInN0cmVldEFkZHJlc3MiOiAiMjcxMSBXaWxsaWFtc2J1cmcgQ2lyIiwKICAgICAgICAiYWRkcmVzc0xvY2FsaXR5IjogIkF1YnVybiBIaWxscyIsCiAgICAgICAgImFkZHJlc3NSZWdpb24iOiAiTUkiLAogICAgICAgICJwb3N0YWxDb2RlIjogIjQ4MzI2IiwKICAgICAgICAiYWRkcmVzc0NvdW50cnkiOiAiVVMiCiAgICAgIH0sCiAgICAgICJhcmVhU2VydmVkIjogWyJBdWJ1cm4gSGlsbHMiLCAiUm9jaGVzdGVyIiwgIlJvY2hlc3RlciBIaWxscyIsICJUcm95IiwgIkJsb29tZmllbGQgSGlsbHMiLCAiTGFrZSBPcmlvbiIsICJPYWtsYW5kIENvdW50eSIsICJXYXluZSBDb3VudHkiLCAiR2VuZXNlZSBDb3VudHkiXSwKICAgICAgInByaWNlUmFuZ2UiOiAiJCQkIiwKICAgICAgIm9wZW5pbmdIb3VycyI6ICJNby1GciAwODowMC0xNzowMCIsCiAgICAgICJpbWFnZSI6ICJodHRwczovL2JmZmVuY2UuY29tL2xvZ28ucG5nIiwKICAgICAgImZvdW5kZXJzIjogWwogICAgICAgIHsiQHR5cGUiOiAiUGVyc29uIiwgIm5hbWUiOiAiSnVzdGluIn0sCiAgICAgICAgeyJAdHlwZSI6ICJQZXJzb24iLCAibmFtZSI6ICJDaHJpcyJ9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJTZXJ2aWNlIiwKICAgICAgIm5hbWUiOiAiV29vZCBGZW5jZSBJbnN0YWxsYXRpb24iLAogICAgICAicHJvdmlkZXIiOiB7CiAgICAgICAgIkB0eXBlIjogIkxvY2FsQnVzaW5lc3MiLAogICAgICAgICJuYW1lIjogIkJGIEZlbmNlIgogICAgICB9LAogICAgICAic2VydmljZVR5cGUiOiAiRmVuY2UgSW5zdGFsbGF0aW9uIiwKICAgICAgImFyZWFTZXJ2ZWQiOiBbIk9ha2xhbmQgQ291bnR5IiwgIldheW5lIENvdW50eSIsICJHZW5lc2VlIENvdW50eSJdLAogICAgICAiZGVzY3JpcHRpb24iOiAiQ3VzdG9tIHJlc2lkZW50aWFsIGFuZCBjb21tZXJjaWFsIHdvb2QgZmVuY2UgaW5zdGFsbGF0aW9uIGluIE1ldHJvIERldHJvaXQuIFByZXNzdXJlLXRyZWF0ZWQgcGluZSBhbmQgY2VkYXIgZmVuY2luZyBmb3IgcHJpdmFjeSwgc2VjdXJpdHksIGFuZCBwcm9wZXJ0eSBkZW1hcmNhdGlvbi4iCiAgICB9CiAgXQp9Cg==
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "How Much Does a Wood Fence Cost in Michigan? A Complete 2026 Pricing Guide for Oakland County Homeowners",
+      "description": "Wondering how much a wood fence costs in Michigan in 2026? This complete pricing guide breaks down material costs, labor rates, permit fees, and ROI for Oakland County homeowners — from real local experts, not national averages.",
+      "datePublished": "2026-05-02",
+      "dateModified": "2026-05-02",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "alternateName": "Renowned Value Restoration LLC",
+        "url": "https://bffence.com",
+        "telephone": "(248)604-6168",
+        "email": "estimate@bffence.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2711 Williamsburg Cir",
+          "addressLocality": "Auburn Hills",
+          "addressRegion": "MI",
+          "postalCode": "48326",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": ["Oakland County", "Wayne County", "Genesee County"]
+          }
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a 6-foot privacy fence cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a standard 6-foot privacy fence in Oakland County, expect to pay $30 to $50 per linear foot installed in 2026. Pressure-treated pine runs $30-$35 installed; cedar runs $40-$50 installed. On an average quarter-acre lot (150-200 ft), that's $4,500 to $10,000 total."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the most affordable wood fence material in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure-treated pine is the most affordable wood fence material for Michigan's climate. At $30-$35 per linear foot installed, it offers the best balance of durability and cost. It handles Michigan's freeze-thaw cycles well when properly installed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a fence increase home value enough to justify the cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, typically. A well-built, well-maintained wood fence recovers 50-70% of its cost in increased home value, according to real estate data for the Metro Detroit market. Homes with fenced yards also tend to sell 2-5 days faster."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to replace a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Full fence replacement costs $35-$55 per linear foot, which includes removing and disposing of the old fence and installing a new one. The additional cost over new installation is $5-$8 per foot for removal and disposal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the labor cost for fence installation in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Labor for fence installation in Oakland County runs $12-$18 per linear foot in 2026. This covers digging 42-inch post holes below the frost line, concrete setting, leveling, alignment, and gate installation. Labor accounts for roughly 40-50% of your total fence cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A properly installed pressure-treated pine fence lasts 10-15 years with staining every 2-3 years. Cedar lasts 15-20 years. Given that the cost works out to roughly $300-$700 per year over the fence's lifespan for a standard lot, it is a worthwhile investment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I stain my fence to protect my investment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. Staining or sealing a new pressure-treated fence within the first year is the single most important thing you can do to extend its life. Untreated wood grays, cracks, and absorbs moisture. Staining costs $300-$1,000 for an average lot and adds years of life."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "alternateName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations in Metro Detroit.",
+      "url": "https://bffence.com",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": ["Auburn Hills", "Rochester", "Rochester Hills", "Troy", "Bloomfield Hills", "Lake Orion", "Oakland County", "Wayne County", "Genesee County"],
+      "priceRange": "$$$",
+      "openingHours": "Mo-Fr 08:00-17:00",
+      "image": "https://bffence.com/logo.png",
+      "founders": [
+        {"@type": "Person", "name": "Justin"},
+        {"@type": "Person", "name": "Chris"}
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Wood Fence Installation",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence"
+      },
+      "serviceType": "Fence Installation",
+      "areaServed": ["Oakland County", "Wayne County", "Genesee County"],
+      "description": "Custom residential and commercial wood fence installation in Metro Detroit. Pressure-treated pine and cedar fencing for privacy, security, and property demarcation."
+    }
+  ]
+}
