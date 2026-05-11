@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-05-09",
+    "title": "Does a Wood Fence Increase Your Home's Value? What Oakland County Homeowners Need to Know",
+    "date": "2026-05-09",
+    "description": "Discover how much value a wood fence adds to your Michigan home. We break down ROI data, best materials, and what Oakland County buyers really want.",
+    "category": "BF Fence",
+    "author": "BFFence",
+    "excerpt": "Discover how much value a wood fence adds to your Michigan home. We break down ROI data, best materials, and what Oakland County buyers really want.",
+    "tags": [],
+    "image": "/blog/2026-05-09/feature_image.png",
+    "path": "/blog/2026-05-09/final.md",
+    "schema": "/blog/2026-05-09/schema.json"
+  },
+  {
     "id": "2026-04-29",
     "title": "The Oakland County Homeowner's Complete Guide to Spring Fence Installation in 2026",
     "date": "2026-04-29",
@@ -95,11 +108,5 @@
     "image": "/blog/2026-05-02/feature_image.png",
     "path": "/blog/2026-05-02/final.md",
     "schema": "/blog/2026-05-02/schema.json"
-  },
-  {
-    "id": "2026-05-09",
-    "image": "/blog/2026-05-09/feature_image.png",
-    "path": "/blog/2026-05-09/final.md",
-    "schema": "/blog/2026-05-09/schema.json"
   }
 ]
