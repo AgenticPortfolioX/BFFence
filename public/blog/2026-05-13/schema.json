@@ -1,0 +1,176 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/updates/2026-05-13-best-wood-fence-styles-oakland-county-guide",
+      "headline": "The 7 Best Wood Fence Styles for Oakland County Homes (2026 Buyer's Guide)",
+      "description": "Discover the most popular wood fence styles for Oakland County homes — from classic board-on-board privacy to modern horizontal slat — with real-world advice on what holds up in Michigan's climate.",
+      "datePublished": "2026-05-13",
+      "dateModified": "2026-05-13",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://bffence.com/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/2026-05-13-best-wood-fence-styles-oakland-county-guide"
+      },
+      "image": "https://bffence.com/updates/blog_images/feature_image.png",
+      "articleSection": "Home Improvement",
+      "keywords": ["wood fence styles", "Oakland County", "board-on-board fence", "cedar fence", "privary fence Michigan", "fence installation Auburn Hills"]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "image": "https://bffence.com/logo.png",
+      "url": "https://bffence.com",
+      "telephone": "+1-248-604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Auburn Hills",
+          "state": "MI"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester",
+          "state": "MI"
+        },
+        {
+          "@type": "City",
+          "name": "Troy",
+          "state": "MI"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills",
+          "state": "MI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County",
+          "state": "MI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wayne County",
+          "state": "MI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Genesee County",
+          "state": "MI"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHours": "Mo-Fr 08:00-18:00",
+      "sameAs": []
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Wood Fence Installation",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Oakland County, MI"
+      },
+      "description": "Custom residential and commercial wood fence installation services including board-on-board, shadowbox, dog-ear picket, scalloped, horizontal slat, stockade, and split-rail styles.",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Board-on-Board Privacy Fence",
+          "description": "Complete privacy fence installation with overlapping vertical pickets. $30-$45/linear foot installed.",
+          "priceCurrency": "USD"
+        },
+        {
+          "@type": "Offer",
+          "name": "Shadowbox (Good Neighbor) Fence",
+          "description": "Alternating picket design that looks great from both sides. $35-$50/linear foot installed.",
+          "priceCurrency": "USD"
+        },
+        {
+          "@type": "Offer",
+          "name": "Dog-Ear Picket Fence",
+          "description": "Classic decorative fence for front yards and property boundaries. $25-$35/linear foot installed.",
+          "priceCurrency": "USD"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the #1 best wood fence style for Oakland County homes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For most Oakland County homeowners, board-on-board in pressure-treated pine delivers the best overall value balancing privacy, durability, aesthetics, and cost. Cedar board-on-board is the premium recommendation for the highest-end look."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cedar vs. pressure-treated pine — which is better for Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar is the premium choice — naturally rot and insect resistant with beautiful aging. Pressure-treated pine is the practical budget choice, chemically protected and significantly cheaper. Avoid untreated spruce, fir, or white pine for Michigan fences."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a wood fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in most Oakland County cities and townships including Auburn Hills, Rochester Hills, Troy, and Birmingham. BF Fence handles the permit process for you on every project."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What fence styles are HOA-friendly in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most Oakland County HOAs allow board-on-board, shadowbox, and dog-ear picket styles. Horizontal slat and split-rail may require pre-approval. Always check your HOA's architectural guidelines before finalizing plans."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I stain or seal my wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure-treated pine needs staining/sealing every 3-4 years. Cedar every 2-3 years. Regular maintenance nearly doubles the lifespan of a wood fence in Michigan's climate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I mix fence styles on the same property?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. A common approach is dog-ear picket in the front yard for curb appeal and board-on-board privacy in the backyard. The transition between styles at the corner of the house just needs a clean post and consistent material."
+          }
+        }
+      ]
+    }
+  ]
+}
