@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "The Complete Guide to Fence Permits and Regulations in Oakland County, Michigan (2026)",
+      "description": "Planning a new fence in Oakland County? Here's everything you need to know about permits, height restrictions, property line setbacks, HOA rules, and local regulations in Auburn Hills, Rochester, Farmington Hills, and beyond.",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "telephone": "+12486046168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir.",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Farmington Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Royal Oak"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "reviewCount": "150"
+      },
+      "serviceType": "Wood Fence Installation",
+      "priceRange": "$$"
+    },
+    {
+      "@type": "Service",
+      "name": "Custom Wood Fence Installation",
+      "provider": {
+        "@type": "Organization",
+        "name": "BF Fence"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Michigan"
+        }
+      },
+      "description": "Custom residential and commercial wood fence installation, including permits and local code compliance in Oakland County, Michigan."
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to build a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on your city. Michigan exempts fences under 7 feet from state-level building permits, but most Oakland County cities require a local zoning or fence permit. Auburn Hills, Rochester, Rochester Hills, Farmington Hills, Troy, and Royal Oak all require permits. White Lake Township does not require a permit for standard residential fences."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall can a privacy fence be in my backyard in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most Oakland County communities, backyard privacy fences can be up to 6 feet tall. Front yard fences are typically limited to 3-4 feet. Corner lot fences must often be 3 feet or less within the sight triangle at intersections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close to the property line can I build a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most local ordinances require fences to be set back 2 to 6 inches inside the property line. A professional property survey is strongly recommended before building to avoid encroachment issues."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need HOA approval for a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if you live in an HOA-governed community. HOAs can impose stricter rules than city ordinances, including limits on height, materials, colors, and design. Always get written HOA approval before building."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Michigan Fence Viewers Act?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Fence Viewers Act (Act 34 of 1978) allows property owners to request a township-appointed fence viewer to resolve fence cost-sharing and damage disputes. The viewer's decision is binding and costs $25 to request."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a fence permit cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Permit costs vary by city. Farmington Hills charges $100. White Lake charges nothing for standard residential fences. Most cities range from $25 to $150."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to call 811 before installing a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Call MISS DIG 811 at least 3 business days before digging to have underground utility lines marked. The service is free and required in most jurisdictions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What side of the fence faces my neighbor in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 'finished side out' rule requires the smooth, finished side of the fence to face your neighbor's property or the street, with posts and supports on your side. Most Oakland County cities enforce this rule."
+          }
+        }
+      ]
+    }
+  ]
+}
