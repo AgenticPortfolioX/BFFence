@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Auburn Hills Backyard Transformation: How a Custom Wood Privacy Fence Redefined Outdoor Living",
+      "description": "See how BF Fence transformed an open Auburn Hills backyard into a private outdoor sanctuary with a custom board-on-board wood privacy fence. A real project spotlight with before-and-after details, material choices, and the installation process.",
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/05/auburn-hills-privacy-fence-transformation-feature.jpg",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/auburn-hills-backyard-transformation-custom-wood-privacy-fence"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/05/auburn-hills-privacy-fence-transformation-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Farmington Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Custom Wood Privacy Fence Installation",
+      "description": "Custom residential and commercial wood fence installation including board-on-board privacy fences, stockade fences, shadowbox fences, and gate installation. Posts set 42 inches below frost line with concrete and gravel drainage.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "sameAs": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan"
+      },
+      "serviceType": "Fence Installation"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does a wood privacy fence cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A custom wood privacy fence in Oakland County typically costs between $4,500 and $6,000 for a standard 200-linear-foot backyard installation, including posts set 42 inches deep, concrete footings, gates, and premium pressure-treated pine materials. Prices vary based on property size, accessibility, material choices, and gate configurations. Contact BF Fence for a free custom estimate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fence posts in Michigan should be set at least 42 inches deep — below the frost line — to prevent heaving and leaning caused by the freeze-thaw cycle. A gravel drainage base at the bottom of each hole is also essential to prevent water pooling at the base of the post."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence in Auburn Hills, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the City of Auburn Hills requires permits for fence installation. Backyard privacy fences are generally allowed up to 6 feet in height, while front yard fences are limited to 3-4 feet. Setback requirements and HOA rules may also apply. BF Fence handles the permit process for homeowners."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best wood for a privacy fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For Michigan's climate, pressure-treated pine and cedar are the best choices. Pressure-treated pine offers excellent durability at a moderate price point. Cedar is naturally rot-resistant with a beautiful grain pattern but costs more. Both handle Michigan's freeze-thaw cycles well when properly installed with posts set below the frost line."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood privacy fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A quality wood privacy fence in Michigan can last 15-20 years with proper installation and regular maintenance. Posts must be set below the frost line. Using premium-grade pressure-treated wood, hot-dipped galvanized hardware, and applying stain or sealant every 3-4 years will maximize fence life."
+          }
+        }
+      ]
+    }
+  ]
+}
