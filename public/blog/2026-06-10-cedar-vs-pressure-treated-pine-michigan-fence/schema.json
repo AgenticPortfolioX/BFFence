@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Cedar vs. Pressure-Treated Pine: Choosing the Best Wood for Your Michigan Fence",
+      "description": "Compare cedar and pressure-treated pine fences for Michigan's unique climate. We break down cost, durability, maintenance, and which wood holds up best through Oakland County winters and humid summers.",
+      "datePublished": "2026-06-10",
+      "dateModified": "2026-06-10",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/cedar-vs-pressure-treated-pine-michigan-fence-feature.jpg",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/cedar-vs-pressure-treated-pine-best-wood-michigan-fence"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/cedar-vs-pressure-treated-pine-michigan-fence-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Cedar and Pressure-Treated Wood Fence Installation",
+      "description": "Professional wood fence installation using premium cedar and pressure-treated pine. Custom fence design, materials consultation, and installation for residential and commercial properties in Oakland County, Michigan. Posts set 42 inches below frost line with concrete and gravel drainage.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "sameAs": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan"
+      },
+      "serviceType": "Fence Installation"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does cedar last longer than pressure-treated pine in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — on average, cedar fences last 5-10 years longer than pressure-treated pine in Michigan's climate. Cedar's dimensional stability gives it a significant advantage through freeze-thaw cycles. However, the gap narrows if the pressure-treated pine is well-maintained and the cedar is neglected."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a cedar fence cost in Michigan in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expect to pay $30-$45 per linear foot installed for a standard 6-foot cedar fence in southeast Michigan. Premium Western Red Cedar runs toward the higher end. Pressure-treated pine runs $20-$30 per linear foot installed. Contact BF Fence for a free custom estimate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is pressure-treated pine good for Michigan winters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure-treated pine performs well in Michigan winters when properly installed. The chemical treatment resists rot and insects effectively. However, PT pine is 3x more prone to warping and twisting than cedar during the first 2-5 years due to Michigan's humidity swings and freeze-thaw cycles. Proper installation with posts set 42 inches below frost line is critical."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which fence wood needs less maintenance, cedar or treated pine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar requires less maintenance overall. It can be left untreated to weather naturally to a silvery-gray patina, needing only occasional cleaning. Pressure-treated pine requires regular staining or sealing every 2-3 years to prevent cracking, warping, and discoloration. Cedar needs resealing every 3-4 years if a stained finish is desired."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can pressure-treated pine be stained to look like cedar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. High-quality semi-transparent stains in cedar-tone colors can give pressure-treated pine a convincing cedar-like appearance. It won't have the same grain pattern or natural warmth, but the difference is subtle from a distance. This is a popular cost-saving option for homeowners who want the cedar look without the premium price tag."
+          }
+        }
+      ]
+    }
+  ]
+}
