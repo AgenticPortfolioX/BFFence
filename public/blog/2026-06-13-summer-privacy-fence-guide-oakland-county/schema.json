@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Your Summer Privacy Guide: How a Wood Fence Creates a Private Outdoor Retreat for Your Oakland County Home",
+      "description": "Summer is here and your backyard deserves privacy. Learn how the right wood privacy fence can transform your Oakland County home into a private outdoor retreat — with style tips, design options, and local advice from Michigan's trusted fence builders.",
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/summer-privacy-fence-guide-oakland-county-feature.jpg",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/summer-privacy-fence-guide-oakland-county"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/summer-privacy-fence-guide-oakland-county-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Wood Privacy Fence Installation in Oakland County",
+      "description": "Professional wood privacy fence installation using premium cedar and pressure-treated pine. Board-on-board, shadowbox, and lattice-top privacy fence designs for residential properties in Oakland County, Michigan. Posts set 42 inches below frost line with concrete and gravel drainage.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "sameAs": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan"
+      },
+      "serviceType": "Fence Installation"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best privacy fence style for a small Oakland County yard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For small yards in Oakland County, a 6-foot board-on-board fence offers maximum privacy without taking up much space. If the yard feels too enclosed, a shadowbox design provides excellent privacy while allowing airflow and light through the gaps. Lattice-top fences work well for homeowners who want privacy at eye level without feeling walled in."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall can a privacy fence be in Auburn Hills Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Auburn Hills, residential fences up to 6 feet in the rear yard typically do not require a permit. Front yard fences are generally limited to 4 feet. Always verify specific setback requirements and HOA covenants before building — BF Fence handles this research for every project we build."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a wood privacy fence cost in Michigan in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard 6-foot wood privacy fence in Oakland County runs $25-$40 per linear foot for pressure-treated pine and $35-$55 per linear foot for cedar. A typical 150-foot backyard project ranges from $3,750 to $8,250 installed. Contact BF Fence for a free, no-pressure estimate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between board-on-board and shadowbox fences?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board fences have overlapping boards on both sides of the rails, creating zero gaps and complete privacy. Shadowbox fences alternate boards on each side, creating small gaps that allow airflow and light while still providing substantial privacy. Shadowbox is better for windy yards; board-on-board is better for maximum seclusion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood privacy fence last in Michigan's climate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-built wood privacy fence in Michigan typically lasts 15-20 years with proper maintenance. Cedar fences tend to outlast pressure-treated pine by 5-10 years. Key factors include posts set below the frost line (42+ inches), quality stain/sealer applied every 2-4 years, and keeping vegetation trimmed back from the fence base."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a privacy fence increase my home's value?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — a quality wood privacy fence recovers approximately 50-70% of its cost in increased home value at resale, according to real estate data for Michigan homes. Beyond property value, the lifestyle benefits include 8-12 extra weeks of comfortable outdoor living, a safe contained space for kids and pets, and the peace of mind of a defined private property boundary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a privacy fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most Oakland County municipalities, fences under 6 feet in the rear yard do not require a building permit. However, every city has its own rules — Rochester Hills, Troy, Farmington Hills, and Bloomfield Hills all have different requirements. BF Fence researches and ensures permit compliance for every project at no extra cost to you."
+          }
+        }
+      ]
+    }
+  ]
+}
