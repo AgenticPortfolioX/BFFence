@@ -1,0 +1,151 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Rochester Hills Backyard Transformation: How a Custom Cedar Privacy Fence Created a Private Outdoor Sanctuary",
+      "description": "See how BF Fence transformed an open Rochester Hills backyard using a custom board-on-board Western red cedar privacy fence. Real project details, material choices, installation process, and cost considerations for Oakland County homeowners.",
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/rochester-hills-cedar-privacy-fence-transformation-feature.jpg",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/rochester-hills-cedar-privacy-fence-transformation"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/updates/wp-content/uploads/2026/06/rochester-hills-cedar-privacy-fence-transformation-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Custom Cedar Privacy Fence Installation in Rochester Hills",
+      "description": "Professional Western red cedar board-on-board privacy fence installation in Rochester Hills, Michigan. Posts set 48 inches below frost line with concrete and gravel drainage. Custom gate hardware, HOA-compliant designs, and full permit handling included.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "sameAs": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan"
+      },
+      "serviceType": "Fence Installation"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a cedar privacy fence cost in Rochester Hills, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 6-foot Western red cedar board-on-board privacy fence typically costs between $35 and $50 per linear foot installed in Oakland County. For an average 200-foot lot, that means a total investment of roughly $7,000 to $10,000, depending on site conditions, gate requirements, and design complexity. Contact BF Fence for a free on-site estimate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between board-on-board and shadowbox fence styles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board uses overlapping pickets on alternating sides of the rails, creating a solid barrier with no gaps from any angle. Shadowbox places pickets with small gaps on both sides, allowing filtered light through while still providing substantial privacy. Board-on-board is the better choice for total privacy; shadowbox is a compromise between privacy and airflow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cedar worth the extra cost compared to pressure-treated pine for a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, for homeowners who plan to stay in their home for more than a few years. Cedar costs about 30 to 50 percent more upfront than pressure-treated pine, but it lasts nearly twice as long (20+ years vs. 10 to 12 years), requires less maintenance, and looks significantly better throughout its lifespan. The total cost of ownership favors cedar over time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence in Rochester Hills?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Any fence exceeding 3 feet in height requires a zoning permit from the City of Rochester Hills Building Department. Fences up to 3 feet may be installed in the front yard setback provided they maintain proper corner clearance. HOA covenants may impose additional restrictions. BF Fence handles all permit applications for our customers as part of our standard service."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a cedar fence last in Michigan's climate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-built Western red cedar fence installed by experienced professionals will last 20 to 25 years in Michigan's climate with basic maintenance. The natural oils and resins in cedar provide built-in protection against the rot, moisture, and freeze-thaw damage that can destroy lesser woods in half that time. Posts set below the frost line (42+ inches) are critical for longevity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What height fence is allowed in Rochester Hills?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The maximum fence height in Rochester Hills residential zones is 6 feet in rear and side yards. Front yard fences are limited to 3 feet. Corner lots have additional height and setback restrictions to maintain visibility for drivers. Always verify your specific zoning district requirements before purchasing materials."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a cedar fence require staining or sealing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Cedar naturally weathers to an attractive silvery-gray patina if left untreated. The wood's structural integrity is not affected by this color change. If you prefer the original reddish-brown tone, applying a clear sealant or semi-transparent stain every 3 to 5 years will preserve it. Either way, cedar offers flexibility that pressure-treated pine does not."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best time of year to install a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spring (April through June) and fall (September through October) are ideal. The ground is workable without being frozen, temperatures are comfortable, and concrete has time to cure properly. Summer installations are fine but can stress newly planted grass. We install year-round, weather permitting."
+          }
+        }
+      ]
+    }
+  ]
+}
