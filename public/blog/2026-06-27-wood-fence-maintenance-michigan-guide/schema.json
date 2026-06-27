@@ -1,0 +1,151 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "The Complete Guide to Wood Fence Maintenance in Michigan: Protecting Your Investment Year After Year",
+      "description": "Keep your wood fence standing strong through Michigan's toughest weather. This complete year-round maintenance guide covers seasonal care, staining and sealing best practices, and how Oakland County homeowners can extend fence life from 10 to 25+ years.",
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "author": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/06/wood-fence-maintenance-michigan-guide-feature.jpg",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/wood-fence-maintenance-michigan-guide"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/06/wood-fence-maintenance-michigan-guide-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Wood Fence Maintenance and Repair Services in Oakland County",
+      "description": "Professional wood fence maintenance, staining, sealing, and repair services for Oakland County, Michigan homeowners. From seasonal inspections to full fence restorations, BF Fence keeps your wood fence looking great and lasting longer.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "areaServed": {
+        "@type": "County",
+        "name": "Oakland County",
+        "sameAs": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan"
+      },
+      "serviceType": "Fence Maintenance and Repair"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How often should I stain my wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every two to three years for semi-transparent stain. Cedar can go three years between coats; pressure-treated pine needs reapplication every two years. South-facing sections in full sun may need staining more often. The most reliable test is to splash water on the wood — if it beads up, the finish is still working. If it soaks in and darkens the wood, it's time to reseal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best time of year to stain a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Late June through July is ideal for staining a fence in Michigan. Temperatures are consistently between 55 and 80 degrees Fahrenheit, humidity is manageable, and there's plenty of daylight. The USDA Forest Products Lab recommends applying exterior finishes between 50 and 90 degrees Fahrenheit. Avoid staining in direct sunlight or when rain is expected within 24 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a wood fence last in Michigan with proper maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With proper maintenance — cleaning and resealing every two to three years — a wood fence in Michigan will last 20 to 25 years. Without maintenance, the same fence typically lasts only 10 to 12 years according to Home Innovation Research Labs. Regular maintenance more than doubles your fence's lifespan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pressure wash my wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, but carefully. Use a wide-angle tip (40 degrees or wider), keep the wand at least 12 inches from the wood surface, and work at or below 1,500 PSI. High pressure damages wood fibers, creating rough surfaces that trap moisture. For most homeowners, a garden hose sprayer with a stiff brush and oxygen bleach solution is safer and equally effective."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes wood fence rot in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prolonged moisture contact is the primary cause of wood fence rot in Michigan. The most common culprits are: poor drainage at the base of posts, leaves and debris piled against the fence, sprinklers spraying directly on wood, snow piled against the fence over winter, and vegetation growing too close to the fence line trapping moisture against the wood."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does wood fence maintenance cost per year in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DIY wood fence maintenance costs between $80 and $350 per year for an average Oakland County property (150 to 200 linear feet). This includes cleaning supplies, stain or sealer every two to three years, and minor repairs. Professional staining services add $400 to $800 every three years. Compare this to $4,000 to $8,000 for a full fence replacement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I seal a new fence right away?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not if it's pressure-treated pine. New treated wood needs three to six months of weathering before it will properly absorb stain. New cedar can be stained after four to eight weeks. Always do the water test before staining — if water beads up on the surface, the wood needs more drying time. If water absorbs readily, the wood is ready."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I replace my fence instead of repairing it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Replace your fence when more than 20 percent of posts show rot, when your fence is over 15 years old with widespread issues, or when repair costs exceed 50 percent of replacement cost. At that point, patching individual problems becomes more expensive than starting fresh with a properly built new fence."
+          }
+        }
+      ]
+    }
+  ]
+}
