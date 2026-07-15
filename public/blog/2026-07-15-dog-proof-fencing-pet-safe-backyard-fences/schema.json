@@ -1,0 +1,183 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-07-15",
+      "headline": "Dog-Proof Fencing: The Complete Guide to Pet-Safe Backyard Fences in Oakland County, Michigan",
+      "description": "Keep your dog safe and contained with the right fence. This guide covers fence heights, dig-proofing, jump-proofing, gate security, and Michigan-specific considerations for Oakland County pet owners.",
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/dog-proof-fencing-pet-safe-backyard-fences"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/dog-proof-fencing-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Pet-Safe Fencing"
+      },
+      "keywords": [
+        "dog proof fence Michigan",
+        "pet safe backyard fence",
+        "privacy fence for dogs",
+        "escape proof fence for dogs",
+        "best fence for dogs Michigan",
+        "Oakland County fence contractor",
+        "wood fence installation Auburn Hills"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/dog-proof-fencing-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Dog-Proof Fence Installation in Oakland County",
+      "description": "Professional custom wood fence installation designed for pet safety and containment. Board-on-board privacy fences with dig-proofing, jump-proofing, and secure gate systems for Oakland County, Michigan homeowners.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Pet-Safe Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Dog Owners", "Homeowners", "Pet Owners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Dog-Proof Fencing Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dig-Proof Fence Installation with Buried Mesh"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Self-Closing Gate Systems"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Retrofitting for Pet Containment"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What's the best fence height to keep a dog from jumping?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For most medium and large breeds, 6 feet is the recommended minimum. For athletic breeds like Huskies, German Shepherds, and Belgian Malinois, 6 feet with a smooth interior surface is essential. If your city allows it and your dog is a known escape artist, consider coyote rollers or top extensions as an added deterrent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I stop my dog from digging under the fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most effective solution is a buried L-footer — galvanized wire mesh attached to the bottom of the fence and extending 12 to 18 inches into the yard underground. Concrete footers are the premium option for complete dig-proofing. Alternative approaches include gravel trenches, landscape pavers along the fence base, and removing dirt or mulch buildup that creates an inviting digging surface."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a privacy fence better than chain link for dogs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Generally, yes — for most dogs. Privacy fences block visual triggers that cause reactive barking and charging, create a calmer environment, and are harder to climb than chain link. However, for some well-behaved, non-reactive dogs, chain link with proper bottom security can be a cost-effective containment solution."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best wood fence for dogs in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar is the top recommendation for Michigan dog owners. It is naturally rot-resistant in Michigan's humid climate, splits less than pine, creates fewer splinters, and stands up well to freeze-thaw cycles. Pressure-treated pine is a good budget alternative with a shorter lifespan and more maintenance. Board-on-board construction is the safest dog-proof design regardless of wood type."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a dog-proof fence cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A typical backyard setup with cedar board-on-board fencing, buried dig protection, self-closing gates, and professional installation runs $2,500 to $4,500 for an average Oakland County lot. Costs vary by fence length, gate count, wood type, and the level of dog-proofing you choose."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you make an existing fence dog-proof?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most cases, yes. Bottom gaps can be sealed with landscape timbers or wire mesh. Jumpers can be deterred with coyote rollers, top extensions, or privacy screening. Gates can be retrofitted with self-closing hinges, higher latches, and anti-sag hardware. The only situation where a full rebuild is recommended is if the fence posts are shallow or the wood is severely deteriorated."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be for a dog fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A minimum of 36 inches to reach below the frost line. For gate posts and corner posts, 42 inches is recommended. Posts must be set in concrete to prevent shifting during freeze-thaw cycles. Shallow posts are the most common cause of fence failure in Michigan and the most common way dogs escape."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What type of fence gate is best for dogs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A gate with self-closing hinges, a latch placed at 48 to 54 inches above nose reach, and a gate sweep to close the bottom gap. For persistent escape artists, a double-gate airlock system provides the ultimate security. Heavy-duty hinges rated for the gate's weight prevent sagging over time."
+          }
+        }
+      ]
+    }
+  ]
+}
