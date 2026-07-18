@@ -1,0 +1,184 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-07-18",
+      "headline": "Troy Backyard Transformation: How a Custom Wood Privacy Fence Created a Private Family Retreat",
+      "description": "See how a Troy, Michigan family transformed their exposed backyard into a private outdoor sanctuary with a custom cedar privacy fence from BF Fence — including design process, installation timeline, and local permit requirements.",
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/troy-backyard-privacy-fence-transformation"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/troy-backyard-transformation-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Custom Wood Privacy Fence Installation"
+      },
+      "keywords": [
+        "Troy fence installation",
+        "Troy privacy fence contractor",
+        "custom wood fence Troy MI",
+        "cedar privacy fence Troy",
+        "Troy backyard privacy fence",
+        "fence installation Oakland County",
+        "privacy fence contractor Oakland County",
+        "board on board privacy fence"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/troy-backyard-transformation-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood Privacy Fence Installation in Troy, Michigan",
+      "description": "Professional custom cedar privacy fence installation in Troy, Michigan. Board-on-board design with 6-foot height, 42-inch post depth, and custom gate systems for Oakland County homeowners.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Custom Wood Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Homeowners", "Troy Residents", "Oakland County Homeowners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Custom Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Residential Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Privacy Fence Design and Consultation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What's the maximum fence height allowed in Troy, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Residential fences in Troy cannot exceed 6 feet in height. This includes the posts and any decorative elements. Fences shorter than 4 feet typically don't require a building permit, but any fence 4 feet or taller requires review by the Planning Department. Commercial properties may have different height allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to build a fence in Troy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your fence is under 4 feet tall, a building permit is generally not required. However, if your fence is between 4 and 6 feet tall — which most privacy fences are — you need a Planning Department review. Submit a site plan showing the fence location relative to your property lines. We handle all permit applications for our customers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best wood for a privacy fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Western Red Cedar is the best choice for most Michigan homeowners. It's naturally rot-resistant, stable in Michigan's humidity, and develops a beautiful patina over time. Pressure-treated pine is a good budget alternative, but it's heavier, more prone to checking and twisting, and requires more maintenance. Cedar will typically outlast pressure-treated pine by 5-10 years in Michigan conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a cedar privacy fence cost in Troy, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A custom cedar privacy fence installed by a professional contractor typically runs $25-35 per linear foot in the Troy area. For an average Troy lot, expect a total installed cost of $5,000 to $10,000 depending on design complexity, number of gates, and site conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to install a custom wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most standard residential installations take 4 to 6 working days. The timeline depends on lot size, soil conditions, weather, and design complexity. Board-on-board designs take slightly longer than standard shadowbox or dog-ear fences because of the overlapping picket pattern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a wood privacy fence increase home value?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — multiple studies show that a quality wood privacy fence adds value to a home, with an estimated 50-70% return on investment at resale. In Troy's competitive real estate market, a well-maintained privacy fence is a significant selling point that adds usable square footage to the home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is board-on-board fence construction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board is a fence design where pickets are installed on both sides of the stringers, with each picket overlapping the next by about an inch. This creates a solid visual barrier with no gaps — unlike shadowbox fencing, which has alternating gaps. Board-on-board looks the same from both sides and provides maximum privacy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fence posts in Michigan need to be set at least 36 inches deep, and we recommend 42 inches for gate posts and corner posts. Michigan's frost line reaches 36-42 inches in most of Oakland County. Setting posts below the frost line prevents frost heave during spring freeze-thaw cycles, which is the most common cause of premature fence failure."
+          }
+        }
+      ]
+    }
+  ]
+}
