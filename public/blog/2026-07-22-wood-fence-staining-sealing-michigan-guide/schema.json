@@ -1,0 +1,187 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-07-22",
+      "headline": "The Complete Guide to Staining and Sealing Your Wood Fence in Michigan: Protect Your Investment Through Every Season",
+      "description": "Everything Michigan homeowners need to know about staining and sealing wood fences — from choosing the right stain for cedar vs. pine to step-by-step application, maintenance schedules, and local climate considerations for Oakland County.",
+      "datePublished": "2026-07-22",
+      "dateModified": "2026-07-22",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/wood-fence-staining-sealing-michigan-guide"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/wood-fence-staining-guide-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Wood Fence Staining and Sealing"
+      },
+      "keywords": [
+        "fence staining Michigan",
+        "staining wood fence Michigan",
+        "best fence stain for Michigan climate",
+        "cedar fence stain",
+        "pressure treated pine fence stain",
+        "fence maintenance Michigan",
+        "how to stain a wood fence",
+        "Oakland County fence staining",
+        "wood fence sealer",
+        "Michigan fence maintenance"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/wood-fence-staining-guide-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood Fence Staining and Sealing Services in Oakland County, Michigan",
+      "description": "Professional wood fence staining and sealing services for homeowners in Oakland County, Michigan. Expert application of oil-based semi-transparent stains, solid-body stains, and clear sealers on cedar and pressure-treated pine fences.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Wood Fence Staining and Sealing",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Homeowners", "Oakland County Homeowners", "Michigan Homeowners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Custom Fence Staining Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wood Fence Staining Application"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wood Fence Sealing and Protection"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure Washing and Fence Prep"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Maintenance and Recoating"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Fence Staining"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Staining"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long should a new wood fence cure before staining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar requires 2-4 weeks of drying before staining. Pressure-treated pine requires 4-8 weeks. Test by splashing water on the wood — if it beads up, it's not ready. If it absorbs within a few minutes, you're ready to stain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best stain for a cedar fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An oil-based semi-transparent stain is the best choice for cedar fences in Michigan's climate. It penetrates deeply, enhances the natural grain, and flexes with the wood during freeze-thaw cycles. Popular brands include Ready Seal, TWP, and Cabot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should you re-stain a wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clear sealers need recoat every 1-2 years. Semi-transparent stains need recoat every 3-5 years. Solid-body stains need recoat every 4-6 years. Schedule re-staining for late spring or early fall in Michigan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it better to spray or brush fence stain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spraying is faster but brushing gives better penetration. The professional method is to spray the stain on and immediately back-brush it into the wood fibers. This combination delivers both speed and quality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should you seal both sides of a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The side facing the weather needs protection from rain and sun, but the back side needs protection from ground moisture and humidity. An unsealed back side will absorb moisture, causing the wood to warp and the fence to lean."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if you don't stain a wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An unstained wood fence in Michigan will start graying within 6-12 months. Within 2-3 years, you'll see checking and cracks. By year 5-7, structural failure is likely. A properly stained fence will outlast an unstained fence by 5 to 10 years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does professional fence staining cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professional fence staining in the Oakland County area typically costs $1-3 per linear foot plus materials. For a standard 200-foot privacy fence, expect a total cost of $400 to $1,000 for a professional job including pressure washing and prep."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What temperature should it be to stain a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The ideal temperature range for staining a wood fence is 50-85°F. Below 50°F, the stain won't cure properly. Above 85°F, the stain dries too quickly and forms lap marks. Humidity should be under 70%."
+          }
+        }
+      ]
+    }
+  ]
+}
