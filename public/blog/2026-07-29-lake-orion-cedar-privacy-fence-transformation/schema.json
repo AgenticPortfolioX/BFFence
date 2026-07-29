@@ -1,0 +1,191 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-07-29",
+      "headline": "Lake Orion Backyard Transformation: How a Custom Cedar Privacy Fence Created a Private Lake-Side Retreat",
+      "description": "See how a Lake Orion family transformed their exposed corner lot into a private backyard paradise with a custom cedar board-on-board privacy fence from BF Fence. Complete before-and-after story with installation details, material choices, and real results.",
+      "datePublished": "2026-07-29",
+      "dateModified": "2026-07-29",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/lake-orion-cedar-privacy-fence-transformation"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/lake-orion-cedar-fence-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Lake Orion Cedar Privacy Fence Transformation"
+      },
+      "keywords": [
+        "Lake Orion fence company",
+        "cedar privacy fence Lake Orion",
+        "backyard transformation Michigan",
+        "custom wood fence Oakland County",
+        "fence installation Lake Orion MI",
+        "residential privacy fence Michigan",
+        "cedar board on board fence",
+        "Orion Township fence regulations",
+        "custom cedar fence Metro Detroit",
+        "privacy fence corner lot"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/07/lake-orion-cedar-fence-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Orion Township"},
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Clarkston"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood Privacy Fence Installation in Lake Orion, Michigan",
+      "description": "Professional custom cedar and wood privacy fence installation for Lake Orion and Oakland County, Michigan. Board-on-board privacy fences, custom gates, and backyard transformation projects for corner lots, lake properties, and residential homes.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Custom Wood Privacy Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Homeowners", "Oakland County Homeowners", "Lake Orion Homeowners", "Michigan Homeowners", "Corner Lot Homeowners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Lake Orion",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Custom Privacy Fence Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Corner Lot Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Shadowbox Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Drive and Walk Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Western Red Cedar Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Backyard Transformation and Privacy Solutions"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a cedar privacy fence cost in Lake Orion, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a professionally installed Western red cedar board-on-board privacy fence in Lake Orion, expect to pay between $35 and $50 per linear foot, depending on site conditions, linear footage, gate requirements, and grading complexity. A typical 200-foot installation runs $7,000 to $10,000. BF Fence provides free, detailed estimates for every property."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence in Orion Township or Lake Orion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Orion Township does not require a building permit for fences, but zoning regulations apply. Privacy fences cannot exceed 6 feet in height and must be outside the required yard setback area. Fences on the lot line are limited to 4 feet unless a variance is obtained. The Village of Lake Orion requires a separate fence permit for new construction. BF Fence handles all permitting for every project."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a cedar fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A properly built Western red cedar fence with posts set below the frost line and concrete footings will last 20 to 25 years in Michigan's climate. Occasional sealing or staining every 3 to 5 years extends the life and maintains the warm natural color. Even untreated, cedar's natural rot and insect resistance outperforms pressure-treated pine by a significant margin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a custom cedar fence add property value in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Professionally installed cedar fences typically return 50 to 70 percent of their cost in added property value. The National Association of Realtors reports that homes with fenced yards sell approximately 18 days faster than comparable unfenced properties. In family-oriented communities like Lake Orion, a high-quality cedar fence is a major selling point for buyers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is board-on-board fence construction and why is it better?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In standard privacy fence construction, pickets are attached to one side of the rails with small gaps between them. Over time, as the wood shrinks, these gaps widen and privacy is reduced. Board-on-board construction staggers pickets on alternating sides of the rails, creating a solid barrier with no gaps. It also looks finished from both sides — essential for corner lots where the fence is visible from the street."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best time of year to install a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spring (April through June) and fall (September through October) are ideal in Michigan. The ground is workable without being frozen, temperatures are comfortable, and concrete for post footings cures properly. Summer installations work well too. BF Fence installs year-round, weather permitting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you build custom gates for boat or RV access in Lake Orion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. BF Fence builds custom gates in any size and configuration. Single walk gates, double-drive gates, and gates for boat or RV access are all common requests in Lake Orion's lake communities. Heavy-duty steel posts, adjustable gate hinges, and driveway drop rods are standard on all drive gates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be for a Michigan fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fence posts in Michigan must be set below the frost line, which is typically 42 to 48 inches deep in Oakland County. Setting posts at this depth prevents frost heave — the natural lifting that occurs when the ground freezes and thaws. All BF Fence installations use concrete footings set to a minimum of 42 inches for maximum stability."
+          }
+        }
+      ]
+    }
+  ]
+}
