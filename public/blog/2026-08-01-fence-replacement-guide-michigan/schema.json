@@ -1,0 +1,191 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-08-01",
+      "headline": "Fence Replacement Guide for Michigan Homeowners: When to Repair vs. Replace and What It Costs",
+      "description": "Is it time to tear out that old fence? Our complete Michigan fence replacement guide covers material lifespans, the warning signs of structural failure, the repair-vs-replace decision, what replacement really costs in Oakland County, and when to schedule the work.",
+      "datePublished": "2026-08-01",
+      "dateModified": "2026-08-01",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/fence-replacement-guide-michigan"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-replacement-guide-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Fence Replacement in Michigan"
+      },
+      "keywords": [
+        "fence replacement Michigan",
+        "fence repair vs replace",
+        "when to replace a wood fence",
+        "cost to replace fence Michigan",
+        "fence replacement cost Oakland County",
+        "wood fence lifespan Michigan",
+        "how long does a cedar fence last",
+        "fence posts frost heave",
+        "privacy fence replacement cost",
+        "fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations and fence replacement serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-replacement-guide-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Farmington Hills"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood Fence Replacement and Installation in Oakland County, Michigan",
+      "description": "Professional wood fence replacement, removal and disposal, and custom cedar and pressure-treated pine privacy fence installation for Oakland County, Michigan. Frost-line post setting, concrete footings, board-on-board privacy fences, custom gates, and full yard transformation projects.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Fence Replacement and Custom Wood Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Homeowners", "Oakland County Homeowners", "Michigan Homeowners", "Property Managers"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Replacement and Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wood Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Repair Services"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Backyard Privacy and Property Value Solutions"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I know if my fence needs to be replaced or just repaired?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Walk the fence and check the posts first. Push on each post — if posts are leaning, wobbling, or soft at the base, the foundation is failing and replacement is usually the right call. As a rule of thumb, if more than 25% of the fence is damaged, replacement beats repair. Isolated problems — a cracked picket, a broken hinge, one bad board — on a fence with solid posts are usually worth repairing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do wood fences last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure-treated pine fences last 10–15 years in Michigan's climate. Western red cedar fences last 15–25 years with reasonable maintenance, and longer if stained or sealed every few years. Michigan's freeze-thaw cycles, heavy snow, and wet springs are harder on fences than most other climates — so plan on the shorter end of the range if the fence is unmaintained."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to replace a fence in Michigan in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Removal and disposal runs $3–$10 per linear foot (typically $300–$750 for a standard yard). A new pressure-treated pine privacy fence runs $25–$35 per linear foot installed; cedar runs $33–$53 per linear foot. A typical 150-foot Oakland County replacement with cedar and one walk gate lands around $6,500–$9,000 total, including removal. Every property is different, which is why a free on-site estimate is the only honest number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to replace a fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on your specific municipality. Some Oakland County communities require a fence permit for new construction; others don't require a permit but enforce zoning rules like the 6-foot height limit and yard setbacks. Replacing a fence in the same location at the same height is usually simpler, but usually isn't always. A professional local contractor handles permitting for you and knows your community's rules."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan's residential code puts the frost line at 42 inches, and in Oakland County the ground can freeze 42–48 inches deep. Fence posts should be set a minimum of 42 inches below grade, in concrete, with the bottom of the post at least 6 inches below the frost line. Gate posts should be bigger and set deeper. Shallow posts heave in the freeze-thaw cycle — that's the number one cause of leaning, failing fences in Michigan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes frost heave in fences, and can it be fixed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frost heave happens when wet soil freezes and expands, pushing up on fence posts set too shallow. Over two or three winters, a shallow post gets jacked out of the ground and never settles back. Once a post has heaved, it can't be fixed by resetting it — and if several posts have heaved, the whole run is compromised. That's when replacement, with posts set below the frost line, is the honest answer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it cheaper to repair a fence or replace it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For isolated damage on a fence with solid posts, repair is cheaper — a board here, a hinge there, maybe $200–$800. But if you're paying for repairs every year, or if the damage reaches a quarter of the fence, replacement is cheaper over time: you stop paying to maintain a failing structure and get a new fence that lasts 15–25 years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time of year to replace a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Late summer through early fall — August through October — is the ideal window. The ground is dry and workable, concrete footings cure properly, and the fence is settled and stable before winter. It's also before the spring rush, when every homeowner with a snow-damaged fence calls at once and wait times stretch to weeks."
+          }
+        }
+      ]
+    }
+  ]
+}
