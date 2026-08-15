@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-08-15",
+      "headline": "Wood, Vinyl, Aluminum, or Composite? How to Choose the Right Fence Material for Your Oakland County Yard",
+      "description": "An honest 2026 comparison of wood, vinyl, aluminum, and composite fences for Oakland County winters — cost per linear foot, real lifespans, maintenance demands, and how to match the right material to your yard, budget, and what you need the fence to do.",
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/fence-material-comparison-guide-oakland-county"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-material-comparison-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Fence Material Comparison in Michigan"
+      },
+      "keywords": [
+        "fence material comparison",
+        "best fence material for Michigan winters",
+        "wood vs vinyl fence Michigan",
+        "privacy fence materials Oakland County",
+        "aluminum fence cost Michigan",
+        "composite fence vs wood",
+        "vinyl fence cost Michigan",
+        "cedar vs pine fence",
+        "fence installation Oakland County",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations and fence material selection guidance serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-material-comparison-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Farmington Hills"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood, Vinyl, Aluminum, and Composite Fence Installation in Oakland County, Michigan",
+      "description": "Professional fence installation and material consultation for Oakland County, Michigan. Custom cedar and pressure-treated pine privacy fences, vinyl panel fences, ornamental aluminum fences, composite fences, frost-line post setting, concrete footings, custom gates, and fence replacement.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Fence Installation and Material Consultation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Homeowners", "Oakland County Homeowners", "Michigan Homeowners", "Property Managers"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Vinyl Panel Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ornamental Aluminum Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Composite Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best fence material for Michigan winters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For Oakland County's freeze-thaw climate, the most reliable combination is wood (cedar or pressure-treated pine) installed on posts set at least 42 inches deep below the frost line — or quality vinyl or composite if you want zero maintenance. The single most important factor isn't the board material; it's proper post installation. Cheap vinyl can get brittle and crack in extreme cold, while wood needs regular sealing to resist moisture damage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a wood or vinyl fence cheaper in the long run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you actually maintain a wood fence — staining every two to three years — wood is competitive over 20 years. If you're honest that you won't maintain it, quality vinyl is usually cheaper over two decades because you skip thousands of dollars in staining. Upfront, pressure-treated pine is the cheapest; cedar and quality vinyl are similar; composite is the most expensive to install."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do vinyl fences crack in cold weather?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cheaper vinyl panels can get brittle and crack at temperatures below about 20 degrees Fahrenheit, especially when hit by snow shovels, falling branches, or heavy impacts. Commercial-grade vinyl with proper panel thickness is much more cold-resistant. In Michigan, it's worth paying for quality vinyl or asking about the cold-weather warranty."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do aluminum fences last?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ornamental aluminum fences typically last 25 to 30-plus years with essentially no maintenance — they don't rust, rot, or warp. Aluminum is one of the most durable fence materials available, provided the posts are set properly in concrete below the frost line."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is composite fencing worth the extra cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you would otherwise skip wood maintenance, yes — composite's 20-year total cost often beats wood because you avoid staining costs and early replacement. Composite costs more upfront ($40–$60 per linear foot installed) but needs almost no maintenance, doesn't rot, and doesn't get brittle in cold weather. If you'll genuinely maintain wood, wood can match composite's long-term value for less money."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which fence material needs the least maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vinyl and aluminum are the lowest-maintenance options — neither needs staining, sealing, or painting; an occasional wash with a hose is all they require. Composite is also nearly maintenance-free. Wood is the only material in the comparison that requires regular upkeep: staining and sealing every two to three years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What fence material is best for privacy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wood (cedar or pressure-treated pine) is the classic privacy fence — solid sight-line blocking with a natural look. Vinyl panel fences and composite also provide excellent privacy. Classic ornamental aluminum does not block sight lines at all; only expensive slatted aluminum privacy systems do."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which fence material adds the most value to a home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-maintained wood fence — particularly cedar — consistently adds the most perceived value to an Oakland County home because it looks natural and expensive, and buyers recognize the craftsmanship. Quality vinyl also appeals to buyers who want zero maintenance. The key is that the fence must look good and be structurally sound; a sagging fence of any material hurts value."
+          }
+        }
+      ]
+    }
+  ]
+}
