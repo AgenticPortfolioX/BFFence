@@ -1,0 +1,200 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-08-26",
+      "headline": "Winter Fence Prep in Michigan: How to Protect Your Wood Fence from Snow, Ice, and Freeze-Thaw Damage",
+      "description": "A complete fall checklist for Michigan homeowners: how freezing, thawing, frost heave, snow load, and road salt damage wood fences — and exactly how to protect yours before the hard freeze. Local advice from an Oakland County fence contractor.",
+      "datePublished": "2026-08-26",
+      "dateModified": "2026-08-26",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/winter-fence-prep-michigan-guide"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/winter-fence-prep-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Winter Fence Preparation in Michigan"
+      },
+      "keywords": [
+        "winter fence prep Michigan",
+        "protect wood fence from snow and ice",
+        "freeze-thaw fence damage",
+        "frost heave fence posts",
+        "fence post frost line Michigan",
+        "winterize wood fence",
+        "fall fence maintenance Oakland County",
+        "wood fence winter damage Michigan",
+        "fence care Auburn Hills",
+        "fence installation winter Michigan"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations and fence material selection guidance serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/winter-fence-prep-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Farmington Hills"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Commercial and Residential Fence Installation in Oakland County, Michigan",
+      "description": "Professional commercial and residential fence installation for Metro Detroit businesses and homeowners. Commercial perimeter fencing, property demarcation, security fencing, custom cedar and pressure-treated pine privacy fences, vinyl panel fences, ornamental aluminum fences, composite fences, chain link fencing, frost-line post setting, concrete footings, custom walk and drive gates, gate automation, and fence replacement.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Commercial and Residential Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Business Owners", "Property Managers", "Commercial Property Owners", "Oakland County Homeowners", "Michigan Homeowners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Security Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Property Demarcation Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Chain Link Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Vinyl Panel Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ornamental Aluminum Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Composite Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gate Automation and Access Control"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Repair and Post Re-Setting"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Staining and Sealing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pre-Winter Fence Inspection and Preparation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does winter damage a wood fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Winter attacks a fence through freeze-thaw cycles that lift posts (frost heave), heavy snow and ice loading that stresses panels, moisture trapped at the ground line that causes rot, road salt that dries out the wood, and winter sun and wind that crack boards and loosen hardware. All of it is manageable with fall preparation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is frost heave, and how does it affect fence posts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frost heave happens when water in the soil freezes, expands, and pushes fence posts upward. Each freeze-thaw cycle lifts the post a little, and when it settles it doesn't return all the way. Posts set too shallow can rise an inch or more out of the ground over one winter, causing leaning fence sections and sagging gates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Below the frost line. Michigan's standard frost depth is 42 inches, so professional fence posts are set at 42 inches or deeper with a concrete footing and gravel at the bottom of the hole for drainage. Posts set above the frost line are vulnerable to heave every winter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I seal or stain my fence before winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if the wood is bare or the finish is more than about two years old. A penetrating stain or water-repellent sealer keeps snowmelt from soaking into the wood, where it freezes, expands, and cracks the boards. Apply in late summer or early fall when temperatures are in the 50-70 degree range so the finish cures properly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you install a fence in winter in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Fall and winter installation is common: schedules open up after the spring rush, the ground is drier in fall, and posts set on frost-line footings before the ground freezes are locked in solid by spring. Winter installs need a crew with equipment that can get through frozen ground, which is why it's worth hiring a professional."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I clear snow from my fence without damaging it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Keep equipment off the wood. Use a plastic shovel near the fence, never scrape with a metal edge, don't let a plow blade touch the fence, and don't pile snow up against the fence line. Gently knock heavy snow off panel tops with a broom after big storms."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I repair a fence post instead of replacing it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If a post is sound at the base but has been lifted by frost heave, it can often be re-set below the frost line with fresh concrete. If the post has rot at ground level, is cracked through, or has heaved repeatedly, replacement is the honest fix. A professional can tell you which is which in a quick visit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cedar or pressure-treated pine better for Michigan winters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both, done right. Cedar is naturally rot-resistant and beautiful, ideal for panels and above-ground sections, and can last 15-30 years. Pressure-treated pine is preservative-infused, takes ground contact well, and can last 20-40 years. The fence that survives winters best is the one with proper frost-line footings, good drainage, and a maintained finish — regardless of species."
+          }
+        }
+      ]
+    }
+  ]
+}
