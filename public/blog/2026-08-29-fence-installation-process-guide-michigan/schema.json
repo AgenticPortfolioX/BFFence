@@ -1,0 +1,200 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-08-29",
+      "headline": "Fence Installation Process in Michigan: A Step-by-Step Guide to What to Expect",
+      "description": "What actually happens when you hire a fence contractor in Michigan — from the free estimate and property line check to permits, MISS DIG 811, install day, and final walkthrough. A transparent, step-by-step process guide with real timelines for Oakland County homeowners.",
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/fence-installation-process-guide-michigan"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-installation-process-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Fence Installation Process in Michigan"
+      },
+      "keywords": [
+        "fence installation process Michigan",
+        "how long does fence installation take",
+        "fence installation timeline",
+        "what to expect fence installation",
+        "fence permit Oakland County",
+        "fence property line rules Michigan",
+        "MISS DIG 811 fence installation",
+        "fence installation prep checklist",
+        "how long does it take to install a wood fence",
+        "fall fence installation Michigan"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations and fence material selection guidance serving Oakland County, Michigan.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/08/fence-installation-process-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Farmington Hills"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Commercial and Residential Fence Installation in Oakland County, Michigan",
+      "description": "Professional commercial and residential fence installation for Metro Detroit businesses and homeowners. Commercial perimeter fencing, property demarcation, security fencing, custom cedar and pressure-treated pine privacy fences, vinyl panel fences, ornamental aluminum fences, composite fences, chain link fencing, frost-line post setting, concrete footings, custom walk and drive gates, gate automation, and fence replacement.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Commercial and Residential Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Business Owners", "Property Managers", "Commercial Property Owners", "Oakland County Homeowners", "Michigan Homeowners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Security Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Property Demarcation Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Chain Link Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Vinyl Panel Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ornamental Aluminum Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Composite Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gate Automation and Access Control"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Repair and Post Re-Setting"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Staining and Sealing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pre-Winter Fence Inspection and Preparation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does fence installation take in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a typical residential wood privacy fence, the installation itself takes 2.5 to 4 days for a 200-foot fence with a two-person crew. The full process — estimate, permits, utility locate, material ordering, and scheduling — typically runs 3 to 4 weeks from first call to finished fence, with a realistic range of 2 to 8 weeks depending on your city's permit process and the time of year."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to build a fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on your city. Michigan's Residential Code exempts fences under seven feet from building permits, but individual municipalities set their own zoning rules — and most Metro Detroit communities, including several in Oakland County, require a fence permit for new installations. Check with your city or township building department, or ask your contractor to handle it as part of the project."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is MISS DIG 811 and do I need it for a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MISS DIG 811 is Michigan's free utility notification center. When you request a locate, utility companies mark their buried gas, electric, water, sewer, and communication lines with flags and paint. It's required by Michigan law before any digging project — including fence posts — and it's the only way to safely know what's underground before you dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 42 inches — Michigan's standard frost depth. Posts set at 42 inches or deeper in a concrete footing with gravel at the bottom are anchored below the freeze-thaw zone, so winter frost heave can't push them up. Posts set shallower will lean, heave, and fail within a few winters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do to prepare my yard for fence installation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mow and trim the fence line, mark sprinkler heads, flag any invisible dog fence wire, clear the line of furniture and decor, plan for your dog during install days, ensure the crew has access to the yard, and tell your contractor about anything buried on the property."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens on fence installation day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The crew lays out the fence line, digs post holes below the frost line, sets posts in concrete, frames the rails, hangs the boards and gates, and cleans up. Most residential wood fences take two to four days, and a professional crew will walk the finished fence with you before they leave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a fence be built on the property line in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — Michigan doesn't mandate a setback for most residential fences, though many cities have their own placement rules and prohibit fences in the public right-of-way. The bigger issue is making sure you actually know where the line is: a survey is the only reliable answer, and a fence built on the wrong side of the line is an expensive mistake."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is fall a good time to install a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fall is the best time. The ground is still workable, the weather is comfortable, the spring rush is over, and booking windows are shorter — one to three weeks. A fence built in the fall also gets a full winter to prove its frost-line footings before heavy use in spring."
+          }
+        }
+      ]
+    }
+  ]
+}
