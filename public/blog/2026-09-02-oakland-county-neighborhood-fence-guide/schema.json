@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-02",
+      "headline": "What Fence Fits Your Oakland County Neighborhood? A Community-by-Community Guide to Styles, HOAs, and What Works Where",
+      "description": "Not every fence fits every street. A local installer's community-by-community guide to choosing the right wood fence for Auburn Hills, Rochester Hills, Troy, Lake Orion, Clarkston, Novi, and the rest of Oakland County — covering lot sizes, housing eras, HOA reality, and what actually looks right where you live.",
+      "datePublished": "2026-09-02",
+      "dateModified": "2026-09-02",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/oakland-county-neighborhood-fence-guide"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/oakland-county-neighborhood-fence-guide-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Fence styles by neighborhood in Oakland County, Michigan"
+      },
+      "keywords": [
+        "fence style Oakland County",
+        "privacy fence Auburn Hills",
+        "fence for my neighborhood",
+        "best fence for HOA neighborhood",
+        "Rochester Hills fence",
+        "Troy MI fence rules HOA",
+        "Lake Orion fence contractor",
+        "Clarkston MI fence",
+        "fence styles by community Michigan",
+        "Oakland County fence installation",
+        "fence and neighborhood curb appeal",
+        "what kind of fence should I get"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan. Community-matched fence styles, HOA-compliant installations, and Michigan-winter-durable wood fences.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/oakland-county-neighborhood-fence-guide-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Farmington Hills"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"},
+        {"@type": "City", "name": "Pontiac"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Wood Fence Installation in Oakland County, Michigan",
+      "description": "Custom residential wood fence installation matched to your Oakland County neighborhood — board-on-board and shadowbox cedar privacy fences, pressure-treated pine fences, rustic cedar and split-rail for lake and rural communities, estate-scale cedar for larger properties, HOA-compliant fence installations, custom gates, frost-line post setting, and fence replacement.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Oakland County Homeowners", "Michigan Homeowners", "HOA Community Homeowners", "Lakefront Property Owners", "Estate Property Owners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Shadowbox Good-Neighbor Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Horizontal Slat Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Split-Rail and Low-Profile Boundary Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "HOA-Compliant Fence Design and Approval"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fence Installation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What kind of fence fits my neighborhood in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with your community's character: established tree-covered areas like Rochester Hills favor cedar shadowbox, HOA communities like Troy and Novi follow their CC&Rs, lake communities like Lake Orion and Waterford favor natural rustic cedar, and larger estate areas like Bloomfield Hills call for premium cedar at a bigger scale. When in doubt, a natural-wood shadowbox or board-on-board fence fits more Oakland County streets than any other choice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need HOA approval before building a fence in Troy or a planned community?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost certainly yes. Many Troy and Novi associations have architectural guidelines covering fence materials, heights, and colors, and they require written approval before installation. Read your CC&Rs first, submit the required request with your plan, and keep the written approval — verbal permission isn't enough."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a privacy fence OK in a front yard in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not as a full six-foot wall. Most communities limit front-yard fences to three to four feet and expect open, see-through designs for visibility and sight lines at corners. Solid privacy fencing is typically a side- and rear-yard feature. Check your city's zoning rules, since they vary across Oakland County."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between board-on-board and shadowbox fences?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board mounts pickets flush on both sides for a completely solid wall — maximum privacy, with a clear front and back. Shadowbox (also called good-neighbor) alternates boards on each side of the rails, so it's semi-private with a finished look from both sides. For HOA neighborhoods or shared lines, shadowbox is the peacekeeping choice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What fence style goes with a mid-century ranch or a contemporary home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Horizontal slat fencing in natural cedar is the go-to for both ranch and contemporary architecture — its clean, low, straight lines complement modern geometry. Traditional and colonial homes read best with classic shadowbox or board-on-board in a neutral finish, and craftsman homes suit warm natural cedar with substantial posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I match my neighbors' fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You don't need to copy it, but you should complement it. A street reads well when fences share a visual language — similar height, material family, and tone. If the block is natural cedar and you install bright vinyl, it will fight everything around it. Wood in natural tones fits Oakland County's landscape, and cedar takes a stain that can be tuned to blend or contrast thoughtfully."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close to the property line can I build a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan doesn't mandate a standard setback for most residential fences, but your city may, and the safest answers come from a property survey. Fences can legally sit right on the line in many cases, but knowing exactly where the line is before you dig is the difference between a smooth project and an expensive, awkward move. When in doubt, a survey is cheap insurance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is September a good time to install a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It's the best time. The ground is workable, the weather is right for concrete and stain, the spring rush is over, and booking windows are one to three weeks instead of a month or more. An early-fall install sets posts below the frost line before the ground freezes, so the fence is standing, settled, and ready by the time winter arrives."
+          }
+        }
+      ]
+    }
+  ]
+}
