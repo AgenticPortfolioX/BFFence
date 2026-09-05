@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-05",
+      "headline": "Child-Safe Backyard Fencing in Oakland County: A Complete Guide to Fences, Gates, and Pool Barriers That Keep Kids Safe",
+      "description": "Drowning is the leading cause of death among children ages 1 to 4, and most backyard accidents are preventable with the right barrier. A local installer's complete guide to child-safe fences, gates, and pool barriers for Oakland County families — Michigan code, anti-climb design, gate hardware, and a 12-point safety audit.",
+      "datePublished": "2026-09-05",
+      "dateModified": "2026-09-05",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/child-safe-backyard-fencing-guide-oakland-county"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/child-safe-backyard-fencing-guide-oakland-county-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Child-safe backyard fencing and Michigan pool barrier requirements"
+      },
+      "keywords": [
+        "child safe backyard fencing",
+        "kid safe fence ideas",
+        "pool fence requirements Michigan",
+        "pool fence height Oakland County",
+        "fence around pool requirements Michigan",
+        "above ground pool fence code Michigan",
+        "backyard fence for kids safety",
+        "fence gate child safety latch height",
+        "4-inch sphere rule",
+        "childproof backyard fence",
+        "wood fence anti climb",
+        "Oakland County fence installation"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan. Child-safe board-on-board and shadowbox cedar privacy fences, code-compliant pool barriers, self-closing gates, and Michigan-winter-durable wood fences for family yards.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/child-safe-backyard-fencing-guide-oakland-county-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Child-Safe Custom Wood Fence Installation in Oakland County, Michigan",
+      "description": "Custom residential wood fencing designed for family safety in Oakland County — six-foot board-on-board cedar privacy fences that double as child containment, code-compliant residential pool barriers (48- and 60-inch communities), child-safe self-closing gate systems with high child-resistant latches, anti-climb fence design with no exterior footholds, above-ground pool barrier retrofits, play-yard fencing, frost-line post setting, custom gates, and fence replacement.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": ["Oakland County Families with Children", "Pool Owners in Michigan", "Homeowners with Toddlers and Young Kids", "Above-Ground Pool Owners", "Lakefront Property Owners"]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Waterford",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation (Child-Safe)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Shadowbox Good-Neighbor Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Code-Compliant Residential Pool Barrier Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Above-Ground Pool Barrier and Deck Separation Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Self-Closing Gate Installation with Child-Resistant Latches"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Anti-Climb Fence Design and Retrofit"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Play-Yard Perimeter Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Walk and Drive Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fence Installation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What kind of fence is safest for a backyard with kids?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A solid wood fence with no gaps, no exterior footholds, and a child-safe gate — our default is six-foot board-on-board cedar. The flush surface gives a child nothing to climb, the solid construction passes the 4-inch sphere test by design, and cedar stays smooth and splinter-free. Whatever the style, gate hardware matters most: self-closing hinges and a high, child-resistant latch are non-negotiable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a fence around my pool in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Michigan adopts the International Residential Code, which requires a compliant barrier around any residential pool deeper than 24 inches. The baseline is 48 inches with self-closing, self-latching gates and openings that can't pass a 4-inch sphere — and some Oakland County communities, including Bloomfield Hills, Birmingham, and Beverly Hills, require a taller 60-inch barrier. The barrier is inspected as part of your pool permit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall should a fence be to keep kids in the yard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four feet stops most small children and is the pool-code floor, but for mixed ages, active kids, or known climbers, plan on five to six feet. Design matters as much as height: a six-foot fence with climbable rails or playsets parked against it is easier to beat than a four-foot fence with a flat face and clear ground. Check your community's height rules first — front-yard and HOA restrictions vary across Oakland County."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are self-closing gates required for kid-safe yards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For pool barriers, yes — code requires gates to be self-closing and self-latching, swinging outward from the pool. For any yard with small children, self-closing hardware should be standard anyway: 'I thought I closed the gate' is how kids reach streets, pools, and ponds. It's a small upgrade that removes human error from the system."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the 4-inch sphere rule?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It's the code standard that no opening in a barrier may allow a sphere 4 inches in diameter to pass through — sized to approximate a small child's head, so kids can't squeeze through gaps or get stuck. It applies to picket spacing, gate gaps, and the space under a pool barrier (held to 2 inches at the bottom). A tennis ball is about 4 inches across, making it a perfect field-testing tool."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can my privacy fence double as my pool fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if it meets every pool-barrier requirement: the right height for your community (48 or 60 inches), no openings that pass a 4-inch sphere, no climbable exterior, a gate that swings away from the pool and self-latches with the latch at 54 inches, and no more than 2 inches of bottom clearance. Many families prefer a dedicated pool barrier inside the yard so the main gate can stay open without compromising the pool — but a compliant single perimeter fence is a legitimate solution. Confirm your plan with the building department before you build."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the rules for above-ground pools?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the pool wall stands at least 48 inches above grade all the way around, the wall itself can serve as the barrier — as long as the ladder is removable, lockable, or otherwise secured whenever the pool is unattended. The shortcut stops applying if the wall is under 48 inches or an attached deck gives a child a path to the water without the ladder; either situation triggers a full compliant barrier. Communities requiring 60-inch barriers need a taller solution than most above-ground walls provide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know when my fence is no longer safe for kids?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Run the 12-point audit: gaps that pass a tennis ball, boards you can push through, rot at the base, rocking sections, a gate that no longer self-latches, a latch a child can reach, or anything climbable against the fence line. If you're fixing more than a couple of items — or the fence is showing its age across the board — it's time for a professional assessment and an honest conversation about replacement."
+          }
+        }
+      ]
+    }
+  ]
+}
