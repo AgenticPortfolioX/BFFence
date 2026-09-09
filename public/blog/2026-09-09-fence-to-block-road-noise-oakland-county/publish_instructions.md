@@ -33,4 +33,4 @@
 - Hook: "Free estimates, no pressure — we'll tell you straight whether a fence can fix your noise problem, or what actually can."
 
 ## Quality Gate
-- Verdict: **READY FOR PUBLICATION — 133/140 (95.0%)** — full report in `analytics/performance_reports/quality_gate_2026-09-09.md`
+- Verdict: **READY FOR PUBLICATION — 128/140 (91.4%)** — full report in `analytics/performance_reports/quality_gate_2026-09-09.md`
