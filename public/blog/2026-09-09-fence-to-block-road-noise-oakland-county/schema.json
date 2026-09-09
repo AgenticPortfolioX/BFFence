@@ -1,0 +1,211 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-09",
+      "headline": "Can a Wood Fence Block Road Noise? A Straight-Talk Guide to Quieter, Private Backyards in Oakland County, Michigan",
+      "description": "Road noise is one of the most common reasons Oakland County homeowners call a fence company — and one of the most misunderstood. A local installer's honest guide to how wood fences reduce traffic and neighbor noise, how many decibels you can really expect, the fence designs and heights that work, and when a fence simply isn't enough.",
+      "datePublished": "2026-09-09",
+      "dateModified": "2026-09-09",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/fence-to-block-road-noise-oakland-county"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/fence-to-block-road-noise-oakland-county-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Wood privacy fence road noise reduction for Oakland County homes"
+      },
+      "keywords": [
+        "fence to block road noise",
+        "wood fence to block highway noise",
+        "does a privacy fence reduce noise",
+        "can a fence block road noise",
+        "noise reducing fence",
+        "sound barrier fence backyard",
+        "privacy fence noise reduction",
+        "best fence for busy street backyard",
+        "how many decibels does a fence block",
+        "noise barrier fence Michigan",
+        "6 foot fence road noise",
+        "privacy fence Auburn Hills",
+        "Oakland County fence installation"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installations serving Oakland County, Michigan. Solid no-gap board-on-board and shadowbox cedar privacy fences that reduce road and neighbor noise, tall six- and eight-foot privacy fencing, Michigan-winter-durable frost-line post setting, and custom gate systems for quieter backyards.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/fence-to-block-road-noise-oakland-county-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Noise-Reducing Custom Wood Fence Installation in Oakland County, Michigan",
+      "description": "Custom residential wood fencing built to reduce road and neighbor noise in Oakland County — solid no-gap board-on-board cedar privacy fences (the best residential acoustic choice), shadowbox good-neighbor fences, six-foot and taller privacy barriers where community rules allow, frost-line post setting and concrete footings for tall wind-loaded fence runs, heavy braced gate systems that seal tight, and fence replacement for leaky or failing existing fences. Free estimates for Auburn Hills, Rochester Hills, Troy, Lake Orion, Clarkston, Novi, Waterford, and all of Oakland County.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County Homeowners on Busy Streets",
+          "Homeowners Near M-59 and I-75",
+          "Homeowners Near Surface Streets (Rochester Road, Adams Road)",
+          "Homeowners Seeking Backyard Privacy",
+          "Homeowners with Neighbor Noise"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Waterford",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation (Noise-Reducing)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Shadowbox Good-Neighbor Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Six-Foot Solid Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Tall (Permit-Allowed) Noise Barrier Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Setting and Concrete Footings"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Heavy Braced Gate Installation with Tight Seals"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Noise-Consultation and Fence Design"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure-Treated Pine Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Replacement and Removal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fence Installation"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can a wood fence block road noise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — roughly 3 to 5 decibels at six feet and 6 to 10 at eight feet for a solid wood privacy fence with no gaps that blocks your line of sight to the road. That's the difference between 'I can't hear myself think' and 'I can finally sit out here.' No residential fence makes traffic inaudible — anyone who promises that is overselling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many decibels does a privacy fence reduce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A realistic, well-documented range: 3 to 5 decibels for a six-foot solid wood fence; 6 to 10 for a solid eight-foot barrier. Because hearing is logarithmic, a 10-decibel drop sounds half as loud, so even 3 to 5 decibels is clearly noticeable. Blocking the sightline alone is worth about 5 decibels; each extra foot above it adds roughly half a decibel to a decibel and a half."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What kind of fence is best for blocking road noise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A solid, no-gap wood fence — board-on-board cedar is the best residential choice, with shadowbox a close second for its good-neighbor look. Cedar gives dense mass and Michigan-weather durability. Vinyl can drum and leak at the seams, aluminum and chain-link do nothing for sound, and gapped 'privacy' panels leak noise even when they look solid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall does a fence need to be to block noise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tall enough to break your line of sight to the road from where you actually sit — usually six feet in a flat backyard, and also the most common legal maximum for rear yards in Oakland County. Each foot above the sightline adds roughly half a decibel to a decibel and a half; if your community allows eight feet with a permit, that's where the biggest gains live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does board-on-board or shadowbox block more sound?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board — one continuous layer with no gaps — offers the most uninterrupted mass and is the best wood option for noise. Shadowbox, with boards staggered on both sides of the rails, has no straight-through gaps either and performs nearly as well, and it's the friendlier look for neighbors and HOAs. Either beats any fence with visible gaps or lattice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there height limits for tall privacy fences in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — and they vary by community. The common pattern is 3 to 4 feet in front yards, 4 to 6 on sides, and 6 feet in rear yards, with corner-lot visibility triangles nearly everywhere; some communities allow taller rear fences with a permit. HOA and deed restrictions often override city rules, and several Metro Detroit communities, including Troy, require fence permits outright."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a privacy fence block neighbor noise — voices, parties, dogs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Very effectively — voices, music, and barks are mid-frequency sounds solid wood absorbs well. The rules are the same as for road noise — no gaps, tight construction, sealed gate openings — but gate seals matter even more when the source is close and low. If you can hear the neighbor talking, your fence has a leak, usually a gate gap or a rotted board."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I live right next to a highway — will a fence help?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fence helps — it cuts the harsh edge, adds privacy, and supports property value — but a six-foot wood fence cannot silence an I-75- or M-59-adjacent lot. Real highway walls are engineered structures 20 feet and taller built under state and federal programs. For highway-adjacent homes, layer: a solid fence, the thickest evergreen band you can fit, house-side mitigation — and ask MDOT about its noise wall program."
+          }
+        }
+      ]
+    }
+  ]
+}
