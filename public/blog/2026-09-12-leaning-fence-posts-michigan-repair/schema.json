@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-12",
+      "headline": "Leaning Fence Posts in Michigan: Why They Happen, What It Costs to Fix, and How to Get It Right Before Winter",
+      "description": "A leaning fence post is almost never the fence's fault — it's what's happening underground. A Michigan installer's honest guide to frost heave, ground-line rot, the 42-inch frost-line standard, what post repair really costs in Oakland County, and how to fix it right before the ground freezes.",
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/updates/leaning-fence-posts-michigan-repair"
+      },
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/leaning-fence-posts-michigan-repair-feature.jpg",
+      "about": {
+        "@type": "Thing",
+        "name": "Wood fence post repair and frost heave in Michigan"
+      },
+      "keywords": [
+        "leaning fence post",
+        "how to fix a leaning fence post",
+        "fence post repair",
+        "why is my fence post leaning",
+        "fence post replacement cost",
+        "fence post repair cost",
+        "frost heave fence post",
+        "fence post rot repair",
+        "how deep should fence posts be in Michigan",
+        "Michigan frost line fence post depth",
+        "can I fix a leaning fence post without replacing it",
+        "sister post fence repair",
+        "wood fence repair",
+        "fence post repair Oakland County",
+        "fence repair Michigan",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation and repair serving Oakland County, Michigan. Fence post repair and replacement, leaning post resetting, sister post reinforcement, rotted post replacement, frost-line footing work, and wood fence repair for Michigan's freeze-thaw climate.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/wp-content/uploads/2026/09/leaning-fence-posts-michigan-repair-feature.jpg",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Wood Fence Post Repair and Replacement in Oakland County, Michigan",
+      "description": "Professional wood fence post repair for Michigan's freeze-thaw climate — diagnosing leaning, heaved, and rotted posts; resetting posts in fresh concrete below the 42-inch frost line; sister post reinforcement for base rot; replacing failed posts with frost-line footings, belled concrete bases, gravel drainage layers, and rot barrier sleeves at grade; deeper footings for gate and corner posts. Free estimates for Auburn Hills, Rochester Hills, Troy, Lake Orion, Clarkston, Novi, Waterford, and all of Oakland County.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Fence Post Repair and Replacement",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County Homeowners with Leaning Fence Posts",
+          "Homeowners with Rotted or Heaved Fence Posts",
+          "Homeowners Preparing Fences for Michigan Winter",
+          "Homeowners with Dragging or Sagging Gates",
+          "Property Owners Needing Wood Fence Repair"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Waterford",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Repair Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Leaning Fence Post Reset (Below Frost Line)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Post Replacement with Frost-Line Footing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Sister Post Reinforcement for Base Rot"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Steel Post Anchor Stabilization"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gate Post Repair and Replacement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Corner Post Reinforcement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Rotted Post Replacement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Board and Rail Replacement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Run Rebuild and Replacement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Annual Fence Inspection and Diagnostics"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why is my fence post leaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost always one of three causes. A footing set above Michigan's 42-inch frost line gets lifted by frost heave, and heaved footings can move one to four inches a season without settling back. Rot at the ground contact line — the band right at and just below the soil surface — hollows out a post below grade while the wood above still looks fine. Or poor drainage kept the soil around the base saturated, which accelerates both. In many yards, all three are working together."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be set in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan Residential Code R403.1.4 requires exterior footings and foundation systems to extend 42 inches below actual grade, and Michigan frost depth runs 42 to 48 inches depending on region. Best practice is to set the bottom of the footing at least 6 inches below the published frost line. For a 6-foot privacy fence, many Michigan contractors use an 8-foot post with the bottom 48 inches in the ground. The common rule of thumb that one-third of the post should be buried works out to about 36 inches for a 6-foot fence — and that is not deep enough in Michigan clay."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I fix a leaning fence post without replacing it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if the post itself is sound. A post that's still solid when you probe it at ground level can usually be reset in place — dig out the footing, pull it plumb, and re-set it in fresh concrete below the frost line. If rot is confined to the very bottom, a sister post set alongside it and fastened with structural hardware can carry the load. If the wood is rotted or crumbling below grade, no amount of straightening will hold, and the post needs to be replaced."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to fix or replace a fence post in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fence post replacement typically runs $150 to $600 per post, depending on depth, soil type, and access. A typical full repair — resetting a leaning post plus replacing a handful of pickets — runs $300 to $1,200. Gate repairs run $150 to $400 for a single wood gate. Materials are inexpensive by comparison: pressure-treated pickets run $1.50 to $4 per linear foot, individual boards $2 to $4 each, and a bag of concrete is roughly $5 to $7.50. Labor on footing excavation is what drives the cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a fence post repair kit (no-dig spike) a permanent fix?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it's a stabilizer, not a footing. A steel H-channel spike driven beside the post and screwed to sound wood shares load and stops the wobble quickly and cheaply, which is genuinely useful on an early-stage lean. But it doesn't get below the 42-inch frost line in most installations, it doesn't stop rot, and it won't hold a post whose base has failed. Used on a rotted post as a permanent solution, it buys a season at most."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my fence post is rotted below ground?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Probe it. Press a screwdriver or pocketknife into the wood at ground level and a few inches below. Sound treated wood resists; rotted wood lets the tool sink in or crumbles rather than splinters. Look for dark staining or gray discoloration at the base, mushrooms or white fungal threads near the soil line, and concrete collars sitting above grade. A post can look perfect above ground and be hollow just a few inches down, because that ground contact line is where moisture cycles most and decay accelerates fastest."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a leaning fence post need to be fixed before winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and fall is the best window in Michigan. The ground is still workable, concrete cures before the first hard freeze, and the footing gets locked in before freeze-thaw starts prying at it. Every winter you wait, freeze-thaw works on an already-compromised footing and rot finishes what the frost started. A post that's a $150 to $350 reset this fall is often a $400 to $600 replacement after another Michigan winter — plus the panel damage that comes with it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I keep new fence posts from leaning again?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Set the footing below the frost line — 42 inches minimum in Michigan, 48 inches commonly specified for a 6-foot privacy fence — and bell the bottom of the concrete so it resists uplift. Add a gravel drainage layer at the base, crown the concrete and slope it away from the post, and use a rot barrier sleeve at grade covering the top two inches above ground through the top six inches of burial. Set gate and corner posts 4 to 6 inches deeper than line posts, redirect downspouts away from the fence line, keep snow and salt off the base, and walk the line with a push-and-probe check every spring and fall."
+          }
+        }
+      ]
+    }
+  ]
+}
