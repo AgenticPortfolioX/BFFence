@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-16",
+      "headline": "Clarkston Backyard Transformation: A Custom Cedar Privacy Fence and Driveway Gate on a Wooded Independence Township Lot",
+      "description": "A Clarkston-area project walkthrough from the crew that built it: how a wooded Independence Township lot got real boundaries — a custom cedar board-on-board privacy fence, a 14-foot double driveway gate, posts set below Michigan's 42-inch frost line, and panels stepped around trees and grade. Includes 2026 pricing, permit reality for the Village of Clarkston vs. Independence Township, and the mistakes we see on acreage lots.",
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-09-16-clarkston-cedar-privacy-fence-wooded-lot-transformation"
+      },
+      "image": "https://bffence.com/blog/2026-09-16-clarkston-cedar-privacy-fence-wooded-lot-transformation/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Custom cedar privacy fence and driveway gate installation on a wooded lot in Clarkston, Michigan"
+      },
+      "keywords": [
+        "cedar privacy fence Clarkston MI",
+        "fence company Clarkston",
+        "privacy fence Independence Township",
+        "custom wood fence Clarkston",
+        "wooded lot fence installation Michigan",
+        "board on board cedar fence Michigan",
+        "double driveway gate cost Michigan",
+        "fence contractor Oakland County",
+        "how much does a cedar fence cost in Clarkston Michigan",
+        "do I need a fence permit in Independence Township",
+        "how deep should fence posts be in Michigan",
+        "best fence for a wooded backyard Michigan",
+        "wood fence builder Oakland County",
+        "fence installation Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Cedar and pressure-treated privacy fencing, board-on-board construction, frost-line post footings, stepped panels on grade, tree-safe layout on wooded lots, double driveway gates, walk gates, and fence repair.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-09-16-clarkston-cedar-privacy-fence-wooded-lot-transformation/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Custom Cedar Privacy Fence and Driveway Gate Installation in Clarkston and Independence Township, Michigan",
+      "description": "Custom cedar board-on-board privacy fence installation for wooded and acreage lots in Clarkston, Independence Township, and across Oakland County, Michigan. Survey-based fence line layout, hand root cutting around mature trees, panels stepped to grade, 48-inch post footings set below Michigan's 42-inch frost line with belled concrete bases, gravel drainage, rot barrier sleeves at grade, gate and corner posts set deeper, 14-foot double driveway gates with diagonal bracing and structural hardware, and walk gates. Transparent written estimates including run length, terrain adjustment, removal, and permit responsibility.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Cedar Privacy Fence and Driveway Gate Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Clarkston and Independence Township homeowners with wooded or acreage lots",
+          "Oakland County homeowners replacing an old or failing fence",
+          "Homeowners needing pet containment and deer exclusion on rural-edge lots",
+          "Property owners needing a driveway gate for privacy and security"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Clarkston",
+        "Independence Township",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Troy",
+        "Lake Orion",
+        "Novi",
+        "Bloomfield Hills",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cedar Board-on-Board Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Driveway Double Gate Fabrication and Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Walk Gate Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Post Footing Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Stepped Panel Layout on Sloped and Wooded Lots"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Tree-Safe Fence Line Layout and Root Hand-Cutting"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Survey-Based Property Line Fence Layout"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Old Fence Removal and Disposal"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fencing"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a cedar privacy fence cost in Clarkston, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A cedar privacy fence in the Clarkston area generally runs $35-$40 per linear foot installed in 2026, with high-grade western red cedar higher, from $45 to $90 per linear foot. A typical 200-linear-foot cedar project runs $3,700 to $9,300, averaging around $6,500. Wooded acreage lots usually need longer runs and include a terrain adjustment — a moderate slope typically adds about 25% in labor, and a steep stepped run up to 50% — so expect a 300-foot-plus run plus a driveway gate to land above the typical 200-foot benchmark. Get a written, itemized estimate for your specific lot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence in the Village of Clarkston or Independence Township?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your zoning rules depend on which of the two you live in — the Village of Clarkston has its own zoning ordinance, and Independence Township has a separate one — but permitting for both is administered through the Independence Township Building Department at 6483 Waldon Center Drive (248-625-8111, Monday-Thursday, 7:00 a.m.-5:30 p.m.). Michigan Residential Code generally exempts standard residential fences under 7 feet from building permit requirements, but local zoning still governs height, placement, and materials, and the township's ordinance regulates fences under Article 10, Section 10.05. Confirm your district (R-1A through R-1R) and any deed restrictions before you dig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be set in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan Residential Code R403.1.4 requires exterior footings to extend 42 inches below grade, and Michigan frost depth runs 42 to 48 inches depending on the region. Best practice is to set the bottom of the footing at least 6 inches below the published frost line, so a 6-foot privacy fence commonly uses an 8-foot post with 48 inches in the ground. The old one-third-of-the-post-in-the-ground rule gives you about 36 inches on a 6-foot fence, which is not deep enough in Michigan clay. Gate and corner posts should go 4 to 6 inches deeper than line posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best fence material for a wooded lot in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For the visible parts of the fence, western red cedar is the best balance of longevity, appearance, and Michigan weather performance; it weathers to silver-gray or takes a stain well and holds up through freeze-thaw cycles. For the posts, pressure-treated lumber is the right choice because it's the part in permanent ground contact. Vinyl and composite are legitimate alternatives, especially in newer subdivisions with strict CC&Rs, and both will cost more up front. The hybrid spec — cedar pickets and rails on pressure-treated posts — is what most Michigan homeowners end up choosing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you install a fence around trees without killing them?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually, yes, if the fence line is planned before any digging happens. Roots inside the fence trench get cut by hand, cleanly, rather than being torn out with a machine. Where a large tree sits directly in the line, the better approach is to jog the fence around the trunk and build a short return, which gives the tree root space and keeps the run looking intentional. Fencing right up against a large trunk is the pattern that causes decline, because the root flare stays wet and the trunk can't breathe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a double driveway gate cost in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In 2026, a simple 10-foot driveway gate runs around $800, a basic double gate typically adds $300 to $1,000 or more to a fence project, and a double driveway gate with automated openers generally runs $1,200 to $3,500 or more depending on width, hardware, and whether a power run is needed. Gate posts have to be sized up and set 4 to 6 inches deeper than line posts, and each swinging leaf needs diagonal bracing, so gates should be planned at the start of the project rather than added to a finished fence line."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a fence installation take on an acreage lot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A typical suburban yard can be fenced in a few days, but a long run on a wooded acreage lot takes longer — plan on a working week or more for roughly 340 feet with grade changes, tree conflicts, and two gates, since footings need time to cure before load goes on them. Material staging and access on a long run add time as well. The other timeline is booking: fall is the best install window in Michigan and September is typically booked 1 to 3 weeks out."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will a fence keep deer out of my garden in Clarkston?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 6-foot fence changes deer movement and protects most of what's behind it, but a determined deer on a hard winter can still get through or over a standard residential fence, and Independence Township does carry heavy deer pressure given the habitat around Independence Oaks County Park. The realistic approach is a 6-foot cedar privacy fence as the perimeter, plus protection for young or especially palatable plantings inside it for their first few winters. Anyone promising that a 6-foot wood fence eliminates deer browsing is overstating what any fence can do."
+          }
+        }
+      ]
+    }
+  ]
+}
