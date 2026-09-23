@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-23",
+      "headline": "Inside a Michigan Wood Fence: The Material Specs That Decide Whether It Lasts 15 Years or 30",
+      "description": "Two quotes can both say '6-foot cedar privacy fence' and describe two completely different fences. This is the component-by-component spec guide for Michigan homeowners — post use categories, cedar grades, board thickness, fasteners, rail counts, post spacing, footings, and wind load — with real 2026 costs for each upgrade.",
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-09-23-wood-fence-materials-spec-guide-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-09-23-wood-fence-materials-spec-guide-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Wood fence materials and component specifications for Michigan climates"
+      },
+      "keywords": [
+        "wood fence materials Michigan",
+        "how long does a wood fence last in Michigan",
+        "cedar fence grades",
+        "pressure treated fence post ground contact",
+        "UC4A ground contact post",
+        "fence post spacing Michigan",
+        "hot dip galvanized vs stainless fence fasteners",
+        "how many rails on a 6 foot privacy fence",
+        "cedar vs pressure treated fence posts",
+        "fence wind load Michigan",
+        "wood fence contractor Oakland County",
+        "fence installation Oakland County",
+        "wood fence builder Michigan"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Ground-contact-rated posts, cedar and pressure-treated privacy fencing, component-specified construction, frost-line post footings, wind-rated post spacing and sizing, hot-dip galvanized and stainless fastening, stepped panels on grade, driveway and walk gates, and fence repair.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-09-23-wood-fence-materials-spec-guide-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Specification-First Wood Fence Installation in Oakland County, Michigan",
+      "description": "Custom wood fence installation built to a written component spec for Michigan conditions: AWPA UC4A ground-contact-rated posts, cedar graded No. 1 heartwood-dominant with clear documentation of best-face versus 2-face grading, full-thickness boards, three-rail construction on six-foot privacy fences, hot-dip galvanized ring-shank or stainless fasteners, post sizing and spacing adjusted for wind exposure, belled footings set at least six inches below Michigan's 42-to-48-inch frost line with gravel drainage, rot barriers at grade, and gates with upgraded 6x6 gate posts. Includes side-by-side review of competing homeowner estimates, free written estimates to Auburn Hills, Rochester Hills, Rochester, Troy, Lake Orion, Clarkston, Novi, Bloomfield Hills, Birmingham, Waterford, White Lake, and the rest of Oakland County.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Wood Fence Material Selection and Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Michigan homeowners comparing competing fence quotes",
+          "Oakland County homeowners replacing a fence that failed early",
+          "Homeowners on exposed or wind-prone lots needing wind-rated post specs",
+          "Homeowners selecting cedar grades and fastener types before signing a contract"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Material Selection and Installation Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Component-Specified Cedar Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ground-Contact (UC4A) Post Specification and Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wind-Rated Post Sizing and Spacing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Hot-Dip Galvanized and Stainless Fastening"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Frost-Line Belled Footing Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Three-Rail Privacy Fence Construction"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gate and Corner Post Upgrades (6x6)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Competing Fence Quote Spec Review"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Old Fence Removal and Replacement"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does a wood fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-maintained pressure-treated pine fence typically lasts 10 to 15 years in Michigan. A cedar fence with proper care runs 15 to 20 years, and a properly specified cedar fence — ground-contact-rated posts, No. 1 heartwood-dominant boards, three rails, hot-dip galvanized or stainless fasteners, and footings below the frost line — can reach 25 years or more with restaining every three to four years. The post fails first almost every time, which is why the post rating matters more than the species."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What grade of cedar should I buy for a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a Michigan privacy fence, cedar graded No. 1 — sometimes sold as Select or #1 & Better — is the right balance of longevity and cost. It comes from closer to the heart of the tree, has fewer and smaller knots that stay tight instead of falling out, and holds up better where moisture collects. No. 2 cedar is the market default when a quote simply says \"cedar,\" and it shows more loose knots and more variation. Whatever grade you choose, ask whether the boards are best-face graded or 2-face graded — it's invisible in writing but real in money."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does \"ground contact\" mean on a treated fence post?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\"Ground contact\" is the plain-language version of AWPA use category UC4A, and it means the lumber is rated to sit in soil for its service life. Above-ground-rated material, UC3B, is treated but explicitly not allowed in ground contact and should stay at least six inches above grade. The end tag states the use category, the preservative system, and the retention in pounds per cubic foot. Retention requirements differ by preservative, so the use category is the reliable thing to check."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need stainless steel fasteners for a cedar fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stainless is the safest choice, because cedar and redwood contain natural tannins that react with galvanized hardware when wet, causing black staining and corrosion around fastener heads. If stainless isn't in the budget, hot-dip galvanized fasteners are the widely used middle ground and last far longer than electro-galvanized. Remember that \"galvanized\" on a label doesn't tell you which process was used, and electro-galvanized hardware can rust within one to three years outdoors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many rails should a 6-foot privacy fence have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Three — a top, middle, and bottom rail, spaced roughly two and a half feet apart. Two rails are fine on fences up to about four or five feet, but on a six-foot privacy fence the middle rail halves the unsupported span of every board and keeps tall, thin boards from cupping and warping. The bottom rail sits about six to ten inches above grade, and the top rail within six to eight inches of the top of the boards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far apart should fence posts be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eight feet on center is the industry standard for most wood fence styles. In Michigan, though, spacing is really a wind decision. On exposed sites — open field edges, lakefronts, hilltops, and funneling corner lots — tighter spacing of six feet, or a larger post, or both, is the right call, because a solid six-foot panel in a 100 mph gust carries over 1,200 pounds of lateral force per eight-foot section. A contractor who quotes one spacing for every yard regardless of exposure hasn't considered wind load."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are my fence boards shrinking and leaving gaps?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wood moves as it dries — those gaps are boards that gave up moisture after installation. Wider boards such as 1x6 move more across their width than narrower 1x4 boards, which is why 1x4 pickets hold more consistent gaps over the life of a fence. Kiln-dried lumber has already released most of the moisture it's going to lose, so it moves less than green lumber. Staining and sealing all six sides of each board — not just the visible face — slows moisture cycling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does one fence quote cost less than another for the same fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because the headline is the same and the spec isn't. One quote may be priced with above-ground-rated posts, best-face No. 2 cedar, two 2x3 rails, thin electro-galvanized staples, eight-foot post spacing, and shallow footings. The other may use ground-contact-rated posts, No. 1 heartwood-dominant boards, three 2x4 rails, hot-dip galvanized fasteners, tighter spacing on exposed runs, and footings set below the frost line. Both say \"6-foot cedar privacy fence.\" The spec upgrades usually add 15 to 30% to the price and can double the lifespan, so the cheaper quote is often the more expensive fence over twenty years."
+          }
+        }
+      ]
+    }
+  ]
+}
