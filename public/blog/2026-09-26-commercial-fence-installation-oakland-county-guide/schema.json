@@ -1,0 +1,232 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-26",
+      "headline": "Commercial Fence Installation in Oakland County: The Business Owner's Guide to Perimeter Fencing, Screening, and Property Demarcation",
+      "description": "A working guide for Oakland County business owners and property managers: the eight commercial fence jobs businesses actually order, what Auburn Hills, Rochester Hills, and Troy require by ordinance, how the site plan and permit path works, and why late September through first freeze is the best window to get a commercial perimeter built in Michigan.",
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-09-26-commercial-fence-installation-oakland-county-guide"
+      },
+      "image": "https://bffence.com/blog/2026-09-26-commercial-fence-installation-oakland-county-guide/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Commercial fence installation, property screening, and perimeter demarcation for businesses in Oakland County, Michigan"
+      },
+      "keywords": [
+        "commercial fence installation Oakland County",
+        "commercial fencing Michigan",
+        "commercial fence contractor Oakland County",
+        "business perimeter fencing Michigan",
+        "property demarcation fencing",
+        "dumpster enclosure fence requirements Michigan",
+        "commercial property screening ordinance Michigan",
+        "commercial fence height limit Michigan",
+        "commercial fence permits Oakland County",
+        "open storage screening Auburn Hills",
+        "non-residential fence ordinance Rochester Hills",
+        "Troy Michigan fence permit easement",
+        "multi-family fencing Michigan",
+        "warehouse perimeter fencing Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Commercial perimeter fencing and property demarcation, dumpster and waste enclosures, open-storage and mechanical screening, multi-family and association fencing, steel-post wood-infill hybrid systems, ground-contact-rated posts, frost-line footings on 42-to-48-inch Michigan frost depth, wind-rated post sizing and spacing, commercial-grade gate hardware, and fence repair.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-09-26-commercial-fence-installation-oakland-county-guide/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#commercial-fence-service",
+      "name": "Commercial Fence Installation, Screening, and Property Demarcation in Oakland County, Michigan",
+      "description": "Commercial fence installation for Oakland County businesses, property managers, and multi-family communities, specified to the applicable municipal ordinance: perimeter fencing and property demarcation, dumpster and waste enclosures with pads and bollards, open-storage screening sized to the height of stored equipment and materials, mechanical and generator screening, loading dock and service yard separation, parking lot and customer-area screening, multi-family and association fencing, and outdoor dining, daycare, and church play area enclosures. Built with ground-contact-rated posts, footings set at least six inches below Michigan's 42-to-48-inch frost line, hot-dip galvanized or stainless fasteners, wind-rated post sizing on solid panels, and commercial-grade gate hardware sized to the equipment servicing the site. Includes ordinance review and site plan support for Auburn Hills, Rochester Hills, Rochester, Troy, Lake Orion, Clarkston, Novi, Bloomfield Hills, Birmingham, Waterford, White Lake, and the rest of Oakland County.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Commercial Fence Installation, Property Screening, and Perimeter Demarcation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Business owners and facility managers building a commercial perimeter fence in Oakland County",
+          "Commercial property managers responding to municipal screening or open-storage requirements",
+          "Industrial and warehouse operators screening equipment, materials, and waste containers",
+          "Multi-family, condominium, and HOA boards installing community and enclosure fencing",
+          "Restaurants, daycares, and churches enclosing outdoor or play areas"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Commercial Fence and Screening Services",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Perimeter Fencing and Property Demarcation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dumpster and Waste Enclosure Construction with Pad and Bollards"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Open-Storage Screening Sized to Municipal Ordinance"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mechanical, HVAC, and Generator Screening Enclosures"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Loading Dock and Service Yard Separation Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Parking Lot and Customer-Area Screening Runs"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Multi-Family, Condo, and HOA Community Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Steel-Post Wood-Infill Hybrid Commercial Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Fence Ordinance and Site Plan Support"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Gate Fabrication and Hardware Replacement"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does a business need a permit to install a fence in Oakland County, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in nearly every case. Oakland County doesn't administer local zoning — each city, village, and township enforces its own fence ordinance, and non-residential fences typically require zoning approval plus a building permit. Some communities, like Rochester Hills, also require explicit Building Official approval of the fence itself before work begins. Confirm with the local building department before ordering material."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall can a commercial fence be in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the municipality and zoning district. A common standard is a maximum of eight feet for non-residential fences, with some communities allowing taller fences for security by discretionary approval — Rochester Hills caps non-residential fences at eight feet while allowing anodized aluminum security fencing up to ten feet at the Planning Commission's discretion. Some industrial districts allow more. There is no single county-wide number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are dumpster enclosures required by ordinance in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For most commercial properties, yes — screening waste containers from public view is standard in Michigan municipal zoning codes, and many communities require opaque screening on three sides. Height, materials, gate requirements, and pad requirements vary. In Auburn Hills, screening of open storage including wastes must be no less than the height of the items stored, with a minimum of six feet when adjacent to residential property."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I put a fence inside a utility easement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It's possible but usually conditional, and sometimes it's a hard stop before permitting. Easements give utilities the right to access and excavate, and a fence in that corridor can be removed at the owner's expense. Some municipalities require public works or utility approval before issuing a fence permit at all — Troy's code blocks permit issuance for a fence in an easement until the Director of Public Works signs off. The practical fixes are removable sections spanning the easement or rerouting the line."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between property demarcation fencing and security fencing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Demarcation is boundary definition: a visible, maintained line establishing where the property starts and ends. Security fencing is engineered for resistance — taller, stronger, climb-resistant, and usually paired with controlled gates, lighting, and cameras. On most Oakland County commercial sites the perimeter is demarcation plus controlled access, with security-grade fencing reserved for high-value or high-risk areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a commercial fence installation take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Construction on a mid-sized project — a few hundred to about a thousand linear feet with gates and an enclosure — usually runs two to four weeks of on-site work once materials are staged and approvals are in hand. The permit and approval phase is often the longer part, typically a couple of weeks and longer with site plan review or easement sign-off. Material lead times can stretch in peak season, which is another reason fall scheduling helps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do commercial fences have to be screened from residential property?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Often yes, and it's frequently why the fence is being built. Where a non-residential use abuts a residential zone, many ordinances require an obscuring wall or fence — Auburn Hills requires at least six feet, or the height of the stored materials, whichever is higher, when open storage abuts a residential zone or mobile home park. Height limits, materials, and maintenance obligations are set by the individual municipality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What material is best for a commercial fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the job. Wood is the best value for opaque screening, dumpster enclosures, restaurant patios, and multi-family aesthetics, and it's repairable panel by panel after plow or truck damage. Steel posts set in concrete with wood infill add structural predictability. Where ordinances restrict chain link or require ornamental material, wood and ornamental steel are the practical alternatives, and security-rated applications may require a specific material approved by the municipality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a fence be installed after the ground freezes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Technically yes, with the right equipment, but it's slower, more expensive, and concrete cure conditions in frozen ground are less forgiving. Because footings must reach below Michigan's frost line — roughly 42 to 48 inches, plus a six-inch margin — a freeze-up install means breaking through frost to dig. Scheduling between late September and first freeze is the practical answer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does commercial fencing cost per linear foot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commercial pricing varies widely with material, height, gate count, site conditions, and access. BF Fence published a full breakdown of commercial fence pricing, quote drivers, and value — including what actually moves a commercial quote — in the commercial fence cost guide for Michigan businesses at https://bffence.com/blog/2026-08-22-commercial-fence-cost-pricing-guide. The short version: get a written quote that separates perimeter, gates, and enclosures, and compare line by line."
+          }
+        }
+      ]
+    }
+  ]
+}
