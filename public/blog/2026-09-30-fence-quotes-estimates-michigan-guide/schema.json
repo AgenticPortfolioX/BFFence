@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-09-30",
+      "headline": "How to Read a Fence Quote in Michigan: Estimates vs. Quotes, What Drives the Price, and How to Compare Bids Without Getting Burned",
+      "description": "A Guardian's guide for Michigan homeowners: the real difference between a fence estimate and a fence quote, the line items every written bid in Oakland County should spell out, what actually drives the price per linear foot, the deposit and payment rules Michigan's Attorney General sets, and the red flags that separate a fair bid from one that will cost you twice.",
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-09-30-fence-quotes-estimates-michigan-guide"
+      },
+      "image": "https://bffence.com/blog/2026-09-30-fence-quotes-estimates-michigan-guide/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Reading, comparing, and evaluating written fence quotes and estimates for homeowners in Oakland County, Michigan"
+      },
+      "keywords": [
+        "fence quote Michigan",
+        "how to compare fence bids",
+        "fence estimate vs quote",
+        "fence contractor quote Oakland County",
+        "fence cost per linear foot Michigan",
+        "fence deposit Michigan",
+        "Michigan fence contractor license",
+        "fence contract Michigan",
+        "fence quote red flags",
+        "how to read a fence estimate",
+        "fence installation quote checklist",
+        "written fence estimate Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, pet and child containment fencing, gate installation, fence repair, old-fence removal, and wood fence material selection for the Michigan climate — with free, written, on-site estimates, footings set below Michigan's frost line, and workmanship that stands behind the quote.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-09-30-fence-quotes-estimates-michigan-guide/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Auburn Hills"},
+        {"@type": "City", "name": "Rochester Hills"},
+        {"@type": "City", "name": "Rochester"},
+        {"@type": "City", "name": "Troy"},
+        {"@type": "City", "name": "Lake Orion"},
+        {"@type": "City", "name": "Clarkston"},
+        {"@type": "City", "name": "Novi"},
+        {"@type": "City", "name": "Bloomfield Hills"},
+        {"@type": "City", "name": "Birmingham"},
+        {"@type": "City", "name": "Waterford"},
+        {"@type": "City", "name": "White Lake"}
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Residential Fence Installation and Written Fence Estimates in Oakland County, Michigan",
+      "description": "Residential fence installation for Oakland County homeowners, quoted in writing and built for the Michigan climate: privacy fencing, pet and child containment fencing, gates, fence repair, old-fence removal, and staining and sealing. Every estimate is free, on-site, and itemized — material species and grade, height, linear feet, post size and spacing, footing depth below Michigan's frost line, concrete, gate count and hardware, removal, haul-away, permits, and warranty. Includes 811 utility locates before digging and workmanship warranty terms stated in writing, with scheduling through the late-September-to-first-freeze window that keeps footings in good ground.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Fence Installation and Written Estimates",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Homeowners in Oakland County, Michigan requesting a fence quote or estimate",
+          "Residential customers comparing multiple fence contractor bids",
+          "Homeowners replacing an aging or failing wood fence before winter",
+          "Michigan homeowners adding privacy, pet, or child-safety fencing"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Residential Fence Services and Estimate Support",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Free Written On-Site Fence Estimate"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wood Privacy Fence Installation"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pet and Child Containment Fencing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Gate Installation and Hardware"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Old-Fence Removal and Haul-Away"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Repair and Post Replacement"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wood Fence Staining and Sealing"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fence Permit and 811 Locate Coordination"}}
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much should a fence deposit be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Michigan Attorney General's consumer guidance says a deposit should not be more than one-third of the total project cost. A one-third deposit at signing, with the balance tied to progress and a final payment on completion, is the norm for a legitimate Michigan fence contractor. Anything approaching half or more up front — or a demand for cash — should stop the conversation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a fence quote legally binding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the wording, the signatures, and how both sides treat the document. A signed, itemized quote with a defined scope generally functions as an enforceable contract; a ballpark estimate usually does not. In Michigan, a home-improvement contract over $600 that is not put in writing is not enforceable by the contractor under the Home Improvement Finance Act (MCL 445.1108)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a licensed fence contractor to build a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the job costs $600 or more in labor and materials, yes. Michigan law (MCL 339.2403) requires a LARA-issued residential builder or maintenance-and-alteration license above that threshold. You can verify a license with LARA, or ask to see the contractor's license and the pocket card licensed contractors are required to carry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should a written fence quote include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At minimum: material species and grade, height, total linear feet, post size and spacing, footing depth and concrete, gate count, width, and hardware, corner and end-post treatment, old-fence removal, haul-away, permits, 811 utility locates, property-line responsibility, cleanup, and warranty. Under Michigan's Home Improvement Finance Act, contracts over $600 must also include the contractor's name and license number, a description of the work, the total price, and a payment schedule — in writing and signed by both parties."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many fence quotes should I get?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Three written quotes is the practical minimum, and four or five gives you a clearer market range. The goal is not to average them — it's to spot the outlier. If one bid is 30 to 40 percent below the rest, ask exactly what it leaves out before you assume it's a deal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the cheapest fence quote the best value?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not. The lowest number is often low because it omits scope — removal, haul-away, permits, concrete, or gate hardware — or because it cuts what you can't see: post depth, material grade, or footing size. The real comparison is the full scope over the fence's full lifetime, not the total at the bottom of the page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if a fence quote is too low?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A quote that sits well below the others and stays vague on specifics is the warning sign. Look for shallow post depths, no concrete specified, thin or undersized material, no mention of 811 locates or property lines, and a price with no written scope. A low bid that names everything and still comes in low is a legitimate bid; a low bid that names nothing is a shortcut you'll pay for later."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the homeowner or the contractor pull the fence permit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The contractor should. Michigan's consumer guidance specifically lists \"contractor asks the homeowner to pull the permit\" as a red flag. A licensed, insured contractor pulls the permit because it keeps the inspection and the correction responsibility on their side of the table. If the quote doesn't say who handles permits, ask before you sign."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What warranty should a fence quote include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Two warranties: a manufacturer's warranty on the material and a workmanship warranty from the contractor on the installation. Professional fence companies typically offer one to five years on workmanship, covering posts that shift, gates that sag, and panels that come loose. Get both the length and the coverage in writing before you sign."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it cheaper to build a fence in the fall in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Often it's smoother, and sometimes it's cheaper. Late September through first freeze is a strong digging window before the ground locks up, material demand eases after the summer rush, and crews can schedule without the spring backlog. Given Michigan's frost line, getting footings into good ground before winter is a real advantage for how the fence performs through its first freeze-thaw cycles."
+          }
+        }
+      ]
+    }
+  ]
+}
