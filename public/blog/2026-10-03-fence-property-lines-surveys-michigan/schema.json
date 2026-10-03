@@ -1,0 +1,270 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-03",
+      "headline": "Fence Property Lines, Surveys & Michigan's Fence Viewers Act: What Oakland County Homeowners Need to Know Before Building",
+      "description": "A Guardian's guide for Michigan homeowners: navigating property line disputes, when to get a survey, how Michigan's Fence Viewers Act resolves boundary fence conflicts cost-effectively, and why guessing your line risks costly rework — with real Oakland County examples and actionable steps to protect your investment.",
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-03-fence-property-lines-surveys-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-10-03-fence-property-lines-surveys-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Property line surveys, fence installation preparation, and Michigan's Fence Viewers Act for Oakland County homeowners"
+      },
+      "keywords": [
+        "property line survey Michigan",
+        "fence installation Oakland County",
+        "Michigan fence viewers act",
+        "boundary survey cost Michigan",
+        "fence permit requirements Oakland County",
+        "how to avoid fence disputes",
+        "licensed surveyor Oakland County",
+        "fence setback requirements Michigan"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, pet and child containment fencing, gate installation, fence repair, old-fence removal, and wood fence material selection for the Michigan climate — with free, written, on-site estimates, footings set below Michigan's frost line, and workmanship that stands behind the quote.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-03-fence-property-lines-surveys-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Lake Orion"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Birmingham"
+        },
+        {
+          "@type": "City",
+          "name": "Waterford"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Residential Fence Installation and Written Fence Estimates in Oakland County, Michigan",
+      "description": "Residential fence installation for Oakland County homeowners, quoted in writing and built for the Michigan climate: privacy fencing, pet and child containment fencing, gates, fence repair, old-fence removal, and staining and sealing. Every estimate is free, on-site, and itemized — material species and grade, height, linear feet, post size and spacing, footing depth below Michigan's frost line, concrete, gate count and hardware, removal, haul-away, permits, and warranty. Includes 811 utility locates before digging and workmanship warranty terms stated in writing, with scheduling through the late-September-to-first-freeze window that keeps footings in good ground.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Fence Installation and Written Estimates",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Homeowners in Oakland County, Michigan requesting a fence quote or estimate",
+          "Residential customers comparing multiple fence contractor bids",
+          "Homeowners replacing an aging or failing wood fence before winter",
+          "Michigan homeowners adding privacy, pet, or child-safety fencing"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Residential Fence Services and Estimate Support",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Free Written On-Site Fence Estimate"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Wood Privacy Fence Installation"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Pet and Child Containment Fencing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Fence Gate Installation and Hardware"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Old-Fence Removal and Haul-Away"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Fence Repair and Post Replacement"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Wood Fence Staining and Sealing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Fence Permit and 811 Locate Coordination"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "When should I get a property survey before installing a fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Get a boundary survey if your property is older than 1980, your deed description is vague, you're uncertain about your boundary line, or you're installing near a corner lot or easement. In Oakland County, surveys typically range from $450-$1,200 — a small investment compared to the $1,200-$1,800+ cost to move a fence after installation or potential legal fees exceeding $3,000 if disputes escalate to court."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Michigan's Fence Viewers Act help resolve fence disputes without going to court?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan's Fence Viewers Act (Act 34 of 1978) requires every township to appoint a fence viewer who resolves boundary fence disputes quickly and affordably. For a $25 filing fee, the fence viewer inspects the property, reviews documentation, and issues a binding decision on repair responsibilities, fence placement, and required modifications — avoiding court costs that can exceed $6,000-$8,000 for similar disputes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the fence height limits in Oakland County municipalities?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oakland County has no county-wide fence height ordinance — rules are set by each city, village, or township. Typical limits include: Royal Oak (6 ft rear/side, 4 ft front), Troy (6 ft rear/side, 30 inches front), Farmington Hills (8 ft rear/side ornamental only, 3 ft front), and Birmingham/Bloomfield Township/West Bloomfield (6 ft rear/side, 4 ft front). Always check your specific municipality for exact requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is MISS DIG 811 required before digging for fence posts in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Michigan law (PA 174 of 2013) requires contacting MISS DIG 811 at least 3 full business days before digging for fence posts, poles, or any underground work. This free service has utility companies mark gas, electric, telecom, water, and cable lines at no charge. Never guess — hitting a gas line risks explosion, electrocution, or costly repairs that far exceed the convenience of skipping this step."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best time of year to install a fence in Oakland County for longevity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Late August through mid-October offers ideal conditions for fence installation in Oakland County. Ground is workable but not waterlogged or frozen, allowing posts to be set below the frost line (36-42 inches) with time to settle before winter hard freezes. This reduces heaving risk and provides optimal soil conditions for concrete curing and material stability."
+          }
+        }
+      ]
+    }
+  ]
+}
