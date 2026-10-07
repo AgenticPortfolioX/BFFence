@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-07",
+      "headline": "What's Eating Your Michigan Wood Fence? Termites, Carpenter Ants, and Rot — and How to Stop Them",
+      "description": "A Guardian's field guide for Michigan homeowners: how subterranean termites, carpenter ants, and moisture-driven rot actually attack a wood fence, the warning signs to catch before damage spreads, and the build and maintenance choices — ground-contact lumber, dry footings, treated cut ends — that make a fence last decades instead of years.",
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-07-what-eats-michigan-wood-fence-termites-ants-rot"
+      },
+      "image": "https://bffence.com/blog/2026-10-07-what-eats-michigan-wood-fence-termites-ants-rot/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Wood-destroying insects and moisture-driven decay in Michigan wood fencing, and the construction practices that prevent them"
+      },
+      "keywords": [
+        "wood fence rot Michigan",
+        "termites wood fence",
+        "carpenter ants fence",
+        "protect wood fence from rot",
+        "powderpost beetles fence",
+        "ground contact lumber fence post",
+        "cedar fence rot resistance",
+        "copper naphthenate fence post",
+        "AWPA UC4A fence posts",
+        "wood fence maintenance Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, pet and child containment fencing, gate installation, fence repair, rot and insect damage repair, old-fence removal, and wood fence material selection and construction built to resist the Michigan climate — with free, written, on-site estimates and footings set below Michigan's frost line.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-07-what-eats-michigan-wood-fence-termites-ants-rot/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Decay-Resistant Wood Fence Installation and Rot Repair in Oakland County, Michigan",
+      "description": "Wood fence installation for Oakland County homeowners, built to resist Michigan's moisture, freeze-thaw cycles, and wood-destroying insects: privacy fencing, pet and child containment fencing, gates, fence repair, rotted post and board replacement, old-fence removal, and staining and sealing. Construction uses ground-contact-rated (AWPA UC4A) or naturally durable posts, properly drained footings, an airflow gap under the bottom board, copper-naphthenate-treated cut ends, and hot-dip galvanized or stainless fasteners — with free, written, on-site estimates.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Wood Fence Installation, Rot and Insect Damage Repair, and Fence Maintenance",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Homeowners in Oakland County, Michigan with an aging or failing wood fence",
+          "Michigan homeowners concerned about termites, carpenter ants, or fence rot",
+          "Residential customers replacing rotted posts or boards before winter",
+          "Homeowners building a new privacy, pet, or child-safety wood fence"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Wood Fence Services and Durability Support",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Wood Privacy Fence Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Ground-Contact-Rated Post Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Rotted Post and Board Replacement" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fence Rot and Insect Damage Inspection" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fence Drainage and Grade Correction" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Wood Fence Staining and Sealing" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Old-Fence Removal and Haul-Away" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do termites eat wood fences in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Michigan's eastern subterranean termite (Reticulitermes flavipes) is the state's most serious wood-destroying pest, and Oakland County falls within the southern-tier counties where it is established. Termites usually target a house before a fence, but a wet post in direct soil contact is a real attractant and should be inspected."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does cedar resist termites and rot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar heartwood resists both, thanks to natural compounds called thujaplicins. But cedar sapwood has almost no resistance, and cut ends and weathered surfaces lose their protection. Cedar is more durable than pine, but it is not termite-proof or rot-proof — and in ground contact, properly rated treated wood is generally the safer choice for posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is my wood fence rotting at the bottom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The ground line is where moisture, oxygen, warmth, and wood all meet and stay, which is exactly what decay fungi need. Posts rot from the soil line up; the fix is to keep that zone dry with ground-contact-rated posts, a footing that drains, no wood-to-soil contact, and treated cut ends."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I stop my fence posts from rotting in the ground?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use UC4A ground-contact-rated posts (or a naturally durable species), set them in a footing that drains, keep soil and mulch off the post, treat every cut end with copper naphthenate, and correct any grade, gutter, or sprinkler that keeps the base wet. Prevention beats repair every time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are carpenter ants eating my fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — carpenter ants do not eat wood. They tunnel through it to nest, and they are drawn to wood that is already wet or softening. If you find coarse sawdust and clean, hollow galleries in a fence post, that is a carpenter ant sign, and the moisture problem causing it needs fixing at the same time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What wood is best for fence posts in Michigan's climate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For in-ground posts, UC4A ground-contact-rated treated lumber paired with cedar or treated boards above ground is the practical, cost-effective choice. Naturally durable species like cedar heartwood, redwood heartwood, cypress, black locust, and Osage orange can also work, but note that cedar sapwood posts can rot faster in ground contact than properly treated posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does staining or sealing prevent fence rot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Staining and sealing help sound wood shed water and resist UV graying, and they are worth doing on a healthy fence. But they are not a repair and not a substitute for proper construction — sealer over untreated wood in ground contact, or over existing rot, hides the problem and can make it worse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I tell if a fence post is rotted below the ground?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the screwdriver test. Push a screwdriver into the bottom six inches of the post, and into any cut end or joint. If it sinks in easily, the wood is already failing even if the surface looks fine. Also watch for a post that gives when you push it sideways — that usually means the below-grade wood or footing is gone."
+          }
+        }
+      ]
+    }
+  ]
+}
