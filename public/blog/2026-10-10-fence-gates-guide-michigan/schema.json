@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-10",
+      "headline": "Fence Gates in Michigan: The Complete Guide to Choosing, Sizing, Securing, and Maintaining the Gate on Your Oakland County Fence",
+      "description": "The gate is the hardest-working part of any fence — and the first to fail. A local installer's plain-English guide to sizing gates, choosing hardware that survives a Michigan winter, meeting the pool-gate code, stopping sag, and keeping your Oakland County gate swinging true for decades.",
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-10-fence-gates-guide-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-10-10-fence-gates-guide-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Fence gate selection, sizing, hardware, pool-barrier code compliance, and maintenance for Michigan and Oakland County homes"
+      },
+      "keywords": [
+        "fence gate installation Oakland County",
+        "wood fence gate Michigan",
+        "privacy fence gate",
+        "self-closing pool gate",
+        "pool fence code Michigan",
+        "54 inch latch pool gate",
+        "fence gate sagging repair",
+        "double driveway gate",
+        "fence gate hardware",
+        "gate post footing depth Michigan"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, pet and child containment fencing, custom gate installation and hanging, pool-barrier gates, fence repair, rot and insect damage repair, old-fence removal, and wood fence material selection and construction built to resist the Michigan climate — with free, written, on-site estimates and footings set below Michigan's frost line.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-10-fence-gates-guide-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#service",
+      "name": "Fence Gate Installation, Pool-Barrier Gates, and Gate Repair in Oakland County, Michigan",
+      "description": "Custom fence gate design, building, and hanging for Oakland County homeowners: walk gates, mower gates, single and double driveway gates, ornamental and privacy gates, and code-compliant self-closing and self-latching pool gates. Construction uses framed and diagonally braced gates, hot-dip galvanized or stainless hardware, gate posts sized for the load and set below Michigan's frost line in sized concrete footings, and anti-sag bracing — with free, written, on-site estimates.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Fence Gate Installation, Pool-Barrier Gate Compliance, Driveway Gates, and Gate Repair",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County, Michigan homeowners planning a new fence with a walk, drive, or pool gate",
+          "Michigan homeowners with a sagging, dragging, or non-latching fence gate",
+          "Pool owners who need a code-compliant self-closing, self-latching pool gate",
+          "Homeowners adding a gate to an existing fence for access, security, or pet containment"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Clarkston",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fence Gate Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Walk Gate and Pedestrian Gate Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Single and Double Driveway Gate Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Code-Compliant Self-Closing and Self-Latching Pool Gate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Gate Post and Footing Installation Below Michigan's Frost Line" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Sagging Gate Repair and Re-Hanging" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Gate Hardware Upgrade and Replacement" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Ornamental and Privacy Gate to Match Existing Fence" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How wide should a fence gate be?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A walk-through gate is typically 36 to 42 inches, or 42 to 48 inches if you need to move a wheelbarrow, garden cart, or garbage can through. Plan on 60 inches (5 feet) for a riding mower. For vehicles, single drive gates run about 10 to 12 feet and double drive gates about 12 to 16 feet. Always size the clear opening, not just the gate leaf, and leave room for the swing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the pool fence gate requirements in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan applies the residential pool-barrier rules through the Michigan Residential Code (based on the 2015 IRC) and IRC Appendix G, which is state code and preempts local amendments. The barrier must be at least 48 inches tall, with no opening a 4-inch sphere can pass through. Pool gates must open outward away from the pool and be self-closing and self-latching. The latch release must be at least 54 inches above grade, or on the pool side at least 3 inches below the top with no opening larger than half an inch within 18 inches of the latch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my wooden fence gate sag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually one of four causes: a failing or rusting hinge, a post that has heaved or leaned, a frame with no diagonal brace that has racked out of square, or a gate leaf that is simply too heavy for its posts and hardware. Diagnose the cause before fixing it — tightening a hinge will not help if the post underneath it has moved."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I fix a sagging gate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Check and tighten or replace the hinges, square the frame by comparing its diagonals, and add an anti-sag kit (a cable and turnbuckle running corner to corner) or a diagonal brace if the frame is flexing. If the post is leaning or heaved, the real fix is the post — which is why proper footing depth at install time matters so much."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should a gate post be set?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Deeper than a fence post, because it carries the gate's full weight and swing load. Michigan exterior footings extend roughly three and a half feet below grade for buildings, and fence posts here are commonly set at least 36 inches in concrete. Gate posts should go deeper, often 42 to 48 inches, fully below the frost line and in a sized concrete footing, so freeze-thaw cannot heave them out of line."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence gate in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on your city. Many communities require a fence permit or zoning approval, and the gate is usually covered by that permit. Some cities, like Troy, also trigger a building permit for fences 7 feet and taller and for all commercial fence and gate projects. We verify the rules for your specific address before quoting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best gate material for a Michigan fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Match the gate to the fence so it looks right, then build the frame to handle the load. Cedar is the classic wood choice for its rot resistance and light weight; aluminum makes the longest-lived, lightest gate; pressure-treated pine and vinyl are strong options when framed and hung correctly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a fence gate open onto a sidewalk or driveway?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can, but you have to plan the swing. Check the swing arc against the fence, grade, trees, and downspouts, and on a corner lot respect the city's visibility-triangle rule so the gate never blocks a driver's sight line."
+          }
+        }
+      ]
+    }
+  ]
+}
