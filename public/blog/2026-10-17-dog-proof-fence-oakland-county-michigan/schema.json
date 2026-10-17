@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-17",
+      "headline": "The Dog-Proof Fence: What Actually Keeps a Dog in the Yard in Oakland County, Michigan",
+      "description": "Every dog owner in Oakland County eventually makes the same call: the dog got out. Here is what actually causes it — jumping, digging, gate failure, and the Michigan frost heave that opens a gap under a fence that was tight in October — plus what a fence that holds really costs.",
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-17-dog-proof-fence-oakland-county-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-10-17-dog-proof-fence-oakland-county-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Dog containment fencing in Michigan, including fence height for dogs, dig barriers, picket gap standards, gate hardware, frost heave ground movement, invisible fence comparison, and Oakland County fence height rules"
+      },
+      "keywords": [
+        "best fence for dogs",
+        "dog fence Oakland County",
+        "fence for dogs that dig",
+        "how tall should a dog fence be",
+        "dog proof fence",
+        "escape proof fence for dogs",
+        "invisible fence vs physical fence",
+        "wooden fence for dogs",
+        "dog containment fence Michigan",
+        "fence height Rochester Hills",
+        "keep coyotes out of yard Michigan",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, dog and pet containment fencing, child-safe fencing, custom gate installation, fence repair, old-fence removal, and wood fence material selection built to resist the Michigan climate — with free, written, on-site estimates and footings set below Michigan's 42-inch frost line.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-17-dog-proof-fence-oakland-county-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Orion Township" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Independence Township" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#dog-containment-fencing",
+      "name": "Dog Containment and Pet Fencing in Oakland County, Michigan",
+      "description": "Dog-specific wood fence design and installation for Oakland County homeowners: six-foot solid privacy fencing sized to the dog, buried L-footer and steel dig barriers, poured concrete mow strips, board-on-board and puppy-picket gap control, self-closing gate hardware, spring frost-heave gap repair, reactive-dog visual screening, and wildlife exclusion — with free, written, on-site estimates and post footings set below Michigan's 42-inch frost line.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Dog Containment Fence Installation, Dig Barrier Installation, Frost-Heave Gap Repair, Gate Hardware Upgrade, and Pet-Safe Fence Design Consultation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County, Michigan dog owners whose dog has escaped the yard",
+          "Homeowners choosing fence height and material for a large, athletic, or high-prey-drive dog",
+          "Owners of small dogs that squeeze through picket gaps or under gates",
+          "Homeowners comparing an invisible fence with a physical wood fence",
+          "Homeowners protecting small dogs from coyote pressure between October and March"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Orion Township",
+        "Clarkston",
+        "Independence Township",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Pontiac",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Dog Containment Fencing Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Dog-Specific Fence Height and Design Consultation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Six-Foot Solid Privacy Fence for Dog Containment" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Buried L-Footer and Steel Dig Barrier Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Poured Concrete Mow Strip Along the Fence Line" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Board-on-Board and Puppy-Picket Gap Control" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Self-Closing and Dog-Rated Gate Hardware Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Spring Frost-Heave Gap Repair and Post Re-Setting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reactive-Dog Visual Screening Fence Design" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fence Permit, HOA, and MISS DIG 811 Coordination" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Will a 4-foot fence keep my dog in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only for a calm small or medium dog. Terriers, herding breeds, and any dog with real jumping ability will clear it — Jack Russell terriers and papillons have been documented clearing four to five feet. A four-foot fence is containment only for a dog that isn't trying."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best fence for a dog that digs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A solid privacy fence with the bottom closed: a buried L-footer running 12 to 18 inches outward below grade, a steel dig barrier driven 12 to 15 inches down, or a poured concrete mow strip. Height is irrelevant to a digger — closing the ground line is the whole fix."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a dog jump a 6-foot fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some can. Border collies, Belgian Malinois, Australian kelpies, German shepherds, vizslas, and weimaraners can clear six feet from a running start, especially with a snow bank or fence corner to help. For those dogs, a solid panel with no toe holds plus a climb deterrent beats adding height."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall should a fence be for a large dog?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Six feet is the practical standard for most large breeds, and it's also the residential height cap in most Oakland County communities. If your dog has cleared six feet, the answer is design — solid panels, closed bottom, secure gate — not eight-foot posts the code may not allow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is an invisible fence as good as a physical fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, though it isn't useless. Buried wire works for trained dogs with moderate drive and is often the only option where an HOA prohibits fencing. It doesn't stop other animals coming in, provides no privacy, and typically achieves far less reliable containment than a physical barrier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is there a gap under my fence in spring?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frost heave. The top layer of Michigan soil freezes, expands, lifts, and settles unevenly through the thaw, and the fence bottom sits in that active layer. A board flush to grade in October can hang two to four inches up by March. A mow strip or a board lapped below grade prevents it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a 6-foot fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually. Most communities here require a fence permit or zoning review at six feet, and requirements vary by city. Plan on a few days to two weeks for review, and remember MISS DIG 811 requires three full business days' notice before digging."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cheapest dog-proof fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chain link with a buried bottom barrier is the least expensive option that holds most dogs, though it offers no privacy and is climbable. Pressure-treated pine privacy fencing at $25 to $35 per linear foot installed is the cheapest solid barrier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What fence material is safest for a dog that chews?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cedar. It's naturally rot-resistant, denser than treated pine, and free of the copper azole or ACQ preservatives used in pressure-treated lumber. No fence is chew-proof, so blocking the sightline at the chew spot and redirecting the behavior matters as much as the material."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I keep coyotes away from my dog in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A six-foot solid fence with a closed bottom, no food or garbage left out, and supervision for small dogs at dawn and dusk. Michigan's coyote season runs October 15 through March 1, with a management season March 2 through October 14, but exclusion — fencing — is the only measure that works every night."
+          }
+        }
+      ]
+    }
+  ]
+}
