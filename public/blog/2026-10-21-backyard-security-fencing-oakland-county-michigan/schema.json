@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-21",
+      "headline": "Backyard Security Fencing in Oakland County: What Actually Deters a Break-In — and What's Just Marketing",
+      "description": "Two thirds of residential break-ins never touch the fence line. Here is what a wood fence really does for security in Oakland County, Michigan — the sight-line tradeoff nobody mentions, the gate hardware that decides everything, and an honest look at what a fence cannot stop.",
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-21-backyard-security-fencing-oakland-county-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-10-21-backyard-security-fencing-oakland-county-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Residential security fencing in Michigan, including burglary entry-point statistics, crime prevention through environmental design (CPTED), the security tradeoff of solid privacy fencing, Michigan's six-foot residential fence height limit, anti-lift gate hinges and cane bolts, security lighting and camera placement, and homeowners insurance treatment of fencing"
+      },
+      "keywords": [
+        "backyard security fence",
+        "security fencing Oakland County",
+        "fence to deter burglars",
+        "residential security fencing Michigan",
+        "does a fence stop burglars",
+        "best fence for security residential",
+        "fence gate security hardware",
+        "anti-lift gate hinges",
+        "cane bolt wood gate",
+        "privacy fence security pros and cons",
+        "fence height security six feet Michigan",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Residential privacy fencing, security and access-control fencing, gate hardware upgrades, dog and pet containment fencing, child-safe fencing, custom gate installation, fence repair, old-fence removal, and wood fence material selection built to resist the Michigan climate — with free, written, on-site estimates and post footings set below Michigan's 42-inch frost line.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-21-backyard-security-fencing-oakland-county-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Orion Township" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Independence Township" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#security-fencing",
+      "name": "Security Fencing and Access-Control Fence Installation in Oakland County, Michigan",
+      "description": "Security-focused wood fence design and installation for Oakland County homeowners: side and rear access control, sight-line planning that balances privacy against natural surveillance, six-foot code-compliant privacy runs, anti-lift and security gate hinges, padlockable latches and cane bolts mounted above reach, drop rods on double and drive gates, braced gate frames with three-hinge specification, gate stops, keyed-alike lock hardware, and lighting and camera placement guidance — with free, written, on-site estimates and post footings set below Michigan's 42-inch frost line.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Security Fence Installation, Gate Hardware Upgrade, Anti-Lift Hinge Retrofit, Access-Control Fence Design, and Perimeter Security Consultation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County, Michigan homeowners planning a fence who want it to serve as an access-control layer",
+          "Homeowners whose backyard borders a greenbelt, drainage easement, alley, or commercial lot",
+          "Corner-lot and shared-driveway homeowners with an exposed side approach",
+          "Homeowners with a gate that can be lifted off its hinges or reached over",
+          "Landlords and owners of vacant or between-tenant properties",
+          "Homeowners who want privacy without giving up visibility into their own yard"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Orion Township",
+        "Clarkston",
+        "Independence Township",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Pontiac",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Security Fencing Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Perimeter Security and Sight-Line Assessment" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Six-Foot Solid Privacy Fence Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Anti-Lift and Security Gate Hinge Retrofit" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Padlockable Latch and Cane Bolt Installation Mounted Above Reach" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Drop Rod Installation on Double and Drive Gates" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Braced Gate Frame Rebuild and Three-Hinge Specification" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Exterior Lighting and Camera Placement Guidance" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fence Repair and Old-Fence Removal" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does a wood fence actually deter burglars?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Partly, and it is worth being precise. In offender interviews, physical barriers rated as the strongest deterrent — stronger than cameras or alarms — and 60% of convicted burglars said they would pick another target if security measures were present. But 65% of residential entries go through doors a fence does not protect. A fence buys time and denies reconnaissance. It is not a burglary solution by itself."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What percentage of burglars enter through the back door?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "22% of residential burglaries enter through a back door, against 34% at the front door, 23% through first-floor windows, and 9% through the garage door. A backyard fence protects the yard and the route to the back door — the second most common entry point — while leaving the front door untouched."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a six-foot fence enough to stop someone climbing in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It stops casual climbing, but six feet is not a wall. Most Oakland County residential districts cap side and rear fencing at six feet anyway, so the practical answer is different: remove toe holds, keep nothing climbable beside the line, and make the gate the difficult part of the fence instead of the panel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the weakest point of a backyard fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The gate, nine times out of ten. It is the only moving part, it carries the most load per post, and standard hinges let the leaf be lifted straight off. Anti-lift hinges, a padlockable latch mounted above reach, and a drop rod on double gates close the biggest gap in a residential fence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do fence spikes stop burglars, and are they legal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They are a liability problem more than a security measure. Spikes, broken glass set into a top rail, and anti-climb paint create injury exposure, can conflict with local code and HOA rules, and are defeated by a jacket laid over the top. We do not install them and do not recommend them on residential fencing in a subdivision."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a solid privacy fence make a house easier to break into?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can. A solid six-foot panel blocks sight lines in both directions, which means it also hides someone working in your yard from neighbours and from the street. The fix is deliberate design: solid where you need privacy, open or camera-covered where you need visibility, and lighting aimed into the yard rather than at the fence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a fence lower homeowners insurance in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not as a line item. Carriers commonly credit monitored alarm systems and deadbolts, not fences. What a fence does reliably is support an underwriting or claims conversation — photograph the finished fence and gate hardware and keep the receipt so the improvement is on record."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best gate lock for a wooden fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A padlockable latch or cane bolt mounted high on the inside, paired with anti-lift hinges and a gate stop. Keyed-alike locks mean one key serves house and gate. But the lock matters less than what it is bolted to: a latch on a sagging gate is decoration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I stop my gate being lifted off its hinges?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Replace standard hinges with anti-lift or security hinges that have a fixed or non-removable pin, or add a hinge-side security plate. On a double gate, a drop rod into a ground receiver closes the other half of the opening. On most residential gates it is a two-hour retrofit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I check my fence for security gaps in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Before daylight saving time ends on November 1, when Detroit sunset moves from 6:29 PM to 5:27 PM in a single weekend. Walk the perimeter with a flashlight after dark, test the gate with gloves on, clear any snow-ramp launch point before the first plow, and confirm exterior lights and timers actually fire."
+          }
+        }
+      ]
+    }
+  ]
+}
