@@ -1,0 +1,237 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-24",
+      "headline": "Storm-Proof Wood Fencing in Oakland County: Wind Load, Snow Load, and Why Some Fences Fail While Their Neighbors Stand",
+      "description": "A 6-foot privacy fence catches wind like a sail — 768 pounds on a single 8-foot bay at 80 mph. Here is the load math, the 42-inch footing rule, the fastener choices that decide whether a fence tips or explodes, and what southeast Michigan actually throws at it.",
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-24-storm-proof-wood-fence-michigan-wind-snow-load"
+      },
+      "image": "https://bffence.com/blog/2026-10-24-storm-proof-wood-fence-michigan-wind-snow-load/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Wind and snow load resistance for residential wood fencing in southeast Michigan, including wind pressure in pounds per square foot (q = 0.00256 V squared), the 48-square-foot sail area of a 6-foot panel on an 8-foot bay, Michigan Residential Code R403.1.4.1 and the statewide 42-inch frost depth, frost heave and footing uplift, belled footings and gravel bases, Oakland County soil and drainage variation, post size and embedment depth, ring-shank nails versus smooth nails and structural screws, through-bolted rails, board-on-board and shadowbox styles versus solid privacy panels, gate post cantilever loads, the 25 psf Oakland County ground snow load, wet snow density, roof snow shed, homeowners insurance Coverage B for other structures, and repair versus rebuild decision thresholds"
+      },
+      "keywords": [
+        "storm proof fence",
+        "fence wind load",
+        "why did my fence blow over",
+        "fence wind damage repair Michigan",
+        "how to protect a wood fence from wind",
+        "fence post depth Michigan",
+        "42 inch frost line fence post",
+        "Michigan Residential Code R403.1.4.1",
+        "board on board vs solid privacy fence wind",
+        "fence snow load",
+        "storm damage fence repair Oakland County",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Privacy fencing engineered for Michigan wind and snow loads, storm-damage fence repair, post resetting and replacement, gate rebuilds, and pre-winter fence inspection — with free, written, on-site estimates and post footings set at or below Michigan's 42-inch frost depth, belled at the base with a compacted gravel drain.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-24-storm-proof-wood-fence-michigan-wind-snow-load/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Orion Township" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Independence Township" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#storm-resistant-fencing",
+      "name": "Storm-Resistant Wood Fence Installation and Storm Damage Repair in Oakland County, Michigan",
+      "description": "Wind- and snow-load-informed wood fence design and installation for Oakland County homeowners: post footings set at 42 inches or deeper per Michigan Residential Code R403.1.4.1, footings belled at the base over a compacted gravel drain, 6x6 posts at corners and gates, 6-foot bay spacing on exposed runs, through-bolted or structural-screw rail connections, ring-shank picket fastening, board-on-board and shadowbox options that relieve wind pressure while preserving privacy, gate post cantilever reinforcement, pre-winter fence inspection, and post-storm assessment with itemized written estimates for insurance documentation.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Storm-Resistant Fence Installation, Post Reset and Replacement, Gate Post Reinforcement, Storm Damage Fence Repair, Pre-Winter Fence Inspection, and Load-Path Fence Specification",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County, Michigan homeowners whose fence failed or leaned in a windstorm",
+          "Homeowners on exposed lots, corner lots, and lots backing to open fields or greenbelts",
+          "Homeowners in low-draining yards with clay soil, high water tables, or downspout discharge at the fence line",
+          "Homeowners replacing a fence built with shallow posts or nailed rails",
+          "Homeowners preparing a fence for Michigan snow, ice, and freeze-thaw cycles",
+          "Homeowners documenting pre-storm fence condition for a homeowners insurance claim"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Lake Orion",
+        "Orion Township",
+        "Clarkston",
+        "Independence Township",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Pontiac",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Storm-Resistant Fencing Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Storm Damage Assessment and Insurance Documentation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Post Reset and Replacement to 42-Inch Frost Depth" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Leaning Fence Post Bracing and Repair" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Gate Post Replacement and Cantilever Reinforcement" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Board-on-Board and Shadowbox Privacy Fence Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Rail Re-Fastening with Structural Screws and Through-Bolts" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Six-Foot Solid Privacy Fence Installation on 6-Foot Bays" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Pre-Winter Fence Inspection and Drainage Correction" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Old Fence Removal and Debris Haul-Away" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why did my neighbor's fence survive the storm when mine didn't?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost always post depth and fastener choice. A fence with posts set 42 inches or deeper in sound concrete, with rails screwed or bolted rather than toe-nailed, resists a 70 mph gust that will flatten a fence on 24-inch posts with nailed rails. Age matters less than most people think. A well-built ten-year-old fence routinely outlasts a poorly built three-year-old one."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much wind can a wood privacy fence take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A solid 6-foot panel catches about 9 pounds per square foot at 60 mph and 16 pounds per square foot at 80 mph — roughly 432 and 768 pounds on an 8-foot bay. A properly built Michigan fence with 42-inch footings and 8-foot bays handles ordinary 40-to-60 mph storms comfortably. Sustained 70-to-80 mph gusts with saturated ground are where design and installation quality separate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep should fence posts be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least 42 inches below grade, which is the frost depth set statewide by Michigan Residential Code R403.1.4.1. We set 48 inches on gate posts and in low-draining yards. Measured frost penetration in southeast Michigan is usually 30 to 36 inches, so 42 inches carries margin — and a fence post, unlike a house footing, has no dead load holding it down."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a solid privacy fence blow down more easily than an open one?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. A solid board-to-board fence presents the maximum sail area and takes the full wind load. A picket fence, a lattice top, or a shadowbox style lets air pass and relieves a meaningful share of the pressure. You can keep full privacy and still reduce load by choosing board-on-board or shadowbox and shortening bay spacing to 6 feet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is board-on-board stronger than solid board-to-board in wind?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Board-on-board is generally more wind-tolerant because the overlap between alternating boards allows a small amount of air passage, and because the double-layer construction stiffens the panel. It is not a free pass — it still needs 42-inch footings and close spacing — but on an exposed lot it is the better choice than flat solid panel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does wet snow weigh on a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Snow ranges from about 5 pounds per cubic foot for dry powder to as much as 50 for wet, firm snow; one inch of water equivalent is 5.2 pounds per square foot. A foot of wet snow on a top rail is a serious concentrated load at the point of maximum leverage. The bigger winter risk in Oakland County is roof shedding dumping onto the fence line all at once."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does homeowners insurance cover fence wind damage in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually yes, under the other structures coverage — Coverage B — when the damage is sudden and accidental, such as a windstorm or a fallen tree. Rot, termites, and gradual deterioration are typically excluded. Payout depends on your other-structures limit, deductible, any separate wind deductible, and whether the policy pays replacement cost or actual cash value."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does storm damage fence repair cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Single-section repairs in Metro Detroit typically run about 250 to 900 dollars depending on material and how many posts are affected. Resetting or replacing posts pushes toward the upper end because breaking out an old concrete footing is real labor. Widespread damage is quoted on site after a full walk of the run."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I brace my fence before winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brace only a post that has already started to lean; bracing a sound fence adds nothing. For a leaning post, a diagonal 2x4 screwed to a stake will hold it through the winter. Do not pour concrete around a broken or rotted post as a winter fix — it locks the failure in and adds demolition cost to the spring repair."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the frost line in Oakland County, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "42 inches below finished grade. Michigan sets that depth statewide in the Residential Code at R403.1.4.1, and local municipalities cannot amend it. Measured frost penetration in southeast Michigan typically runs 30 to 36 inches, so the code figure provides margin for a fence post with nothing but soil holding it in place."
+          }
+        }
+      ]
+    }
+  ]
+}
