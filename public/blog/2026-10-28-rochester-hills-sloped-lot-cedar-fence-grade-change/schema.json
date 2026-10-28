@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-28",
+      "headline": "Rochester Hills Sloped Backyard: Stepping a Cedar Privacy Fence Down a Two-Foot Grade Change",
+      "description": "A Rochester Hills project walkthrough: 168 feet of cedar board-on-board privacy fence across a backyard that drops 28 inches — racked on the long runs, stepped in three sections at a drainage swale, posts set 42 to 48 inches below grade measured from the downhill side, rot boards scribed to grade, and the slope premium priced out at $766.",
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-28-rochester-hills-sloped-lot-cedar-fence-grade-change"
+      },
+      "image": "https://bffence.com/blog/2026-10-28-rochester-hills-sloped-lot-cedar-fence-grade-change/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Building a wood privacy fence on a sloped residential lot in southeast Michigan, including the fall across one panel as the method-selection measurement, racking versus stepping, stepped-run post length (fence height plus the drop absorbed), rot boards scribed to grade, Michigan Residential Code R403.1.4 and R403.1.4.1 42-inch frost depth measured at each post from the downhill side, R403.1.5 level footing tops and stepped footings, R105.2 seven-foot fence permit exemption, Rochester Hills Zoning Ordinance 138-10.107 residential height limits and corner clearance, cedar board-on-board construction, gate placement on a level pad, and 2026 slope pricing premiums"
+      },
+      "keywords": [
+        "fence on a slope",
+        "racking vs stepping fence",
+        "stepped fence panels",
+        "fence post depth on a slope",
+        "fence on a hill Michigan",
+        "sloped backyard fence cost",
+        "wood fence grade change",
+        "Rochester Hills fence rules",
+        "cedar board on board privacy fence",
+        "rot board stepped fence",
+        "42 inch frost depth fence post",
+        "privacy fence Rochester Hills"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden perimeter fence installation serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built on grade — racked and stepped runs, posts set at or below Michigan's 42-inch frost depth measured from the downhill side at every post, rot boards scribed to grade, gate placement on level pads, and free written on-site estimates that account for the actual slope of the yard.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-28-rochester-hills-sloped-lot-cedar-fence-grade-change/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Orion Township" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Independence Township" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#sloped-lot-fence-installation",
+      "name": "Sloped-Lot and Grade-Change Wood Fence Installation in Rochester Hills and Oakland County, Michigan",
+      "description": "Grade-informed wood fence design and installation for Oakland County homeowners on sloped, walk-out, and swale-crossed lots: the fall across a single panel is measured at the steepest point of the run before quoting, panels are racked where the material allows and stepped where it does not, stepped posts are sized for fence height plus the drop absorbed, every post is set 42 to 48 inches below grade measured from the downhill face, footings are level on top with gravel drainage at swale posts, rot boards are scribed to the ground line to close stepped gaps, gates are located on a level pad with 6x6 posts, and height is measured from the downhill side to stay inside Rochester Hills Zoning Ordinance 138-10.107 limits.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Sloped-Lot Fence Installation, Racked and Stepped Privacy Fence Construction, Grade-Change Fence Design, Footing Depth Correction, Rot Board Installation, Gate Placement and Hanging, Swale Drainage Correction",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Rochester Hills homeowners with a sloped or walk-out backyard",
+          "Homeowners whose yard drops more than a few inches across a fence line",
+          "Homeowners whose existing fence has gaps under downhill panels or leaning downhill posts",
+          "Homeowners comparing flat-ground fence quotes against a sloped-yard quote",
+          "Homeowners with pets or small children who need containment preserved on a stepped fence"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Rochester Hills",
+        "Rochester",
+        "Auburn Hills",
+        "Troy",
+        "Lake Orion",
+        "Orion Township",
+        "Clarkston",
+        "Independence Township",
+        "Novi",
+        "Bloomfield Hills",
+        "Birmingham",
+        "Waterford",
+        "White Lake",
+        "Pontiac",
+        "Michigan"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Sloped-Lot Fencing Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Free Written On-Site Fence Estimate With Slope Measurement" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Racked Panel Construction on Gentle Grade" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stepped Panel Construction on Steep Grade and Swales" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Rot Board Scribed to Grade Under Stepped Sections" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Post Depth Correction and Leaning Post Replacement on Slopes" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Gate Relocation to a Level Pad With 6x6 Gate Posts" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Board-on-Board Cedar Privacy Fence Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Swale and Drainage-Aware Footing Installation" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Old Fence Removal and Debris Haul-Away" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Rochester Hills Fence Height and Setback Compliance Review" } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you build a privacy fence on a slope?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Site-built wood is the most capable material for it, because the rails are cut to the actual grade and the boards are fastened one at a time. What changes is the method: gentle grade gets racked, steep grade or a pre-built panel gets stepped, and one yard often needs both."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a fence cost on a sloped yard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expect 5 to 30 percent more than the same fence on flat ground, depending on steepness: about 5 to 10 percent on gentle grade, 10 to 20 percent on moderate, and 20 percent or more on steep ground. On our 168-foot Rochester Hills project the grade itself added $766, roughly 9 percent of a $9,202 total."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How deep do fence posts need to be on a hill?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "42 inches below grade in Michigan, measured at each post from the downhill side. A hole that is 42 inches deep on the uphill face of a post can be 28 inches deep on the downhill face where the ground falls 14 inches. We go to 48 inches at swales, corners, and gate posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is racking or stepping better for a fence on a slope?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Racking looks better and closes the gap, and it works up to the material's capacity, which is generous for site-built wood and very limited for pre-built panels. Stepping is right when the fall across a single panel exceeds what the material can rack, when the panel is rigid, or when a level top line is the design goal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you close the gap under a stepped fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four ways: leave it, scribe a rot board to the ground line, regrade or backfill under the section, or cut the panel to grade so the bottom follows the ground while the top stays level. For a backyard with pets, a rot board is the practical answer because it is replaceable, inexpensive, and takes the wear at grade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a sloped yard need a retaining wall for a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not. A fence follows grade while a retaining wall holds soil. You need a wall only where you must create level ground for a terrace, patio, or play area, not merely to carry a fence. Michigan exempts retaining walls up to 4 feet from a building permit, but a wall supporting a surcharge is a different review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you put a gate on a sloped section of fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A gate needs a level pad because a gate cannot rack or step. Put it on the flattest stretch of the run and decide that before the line is final. Where that is not possible, regrade a small landing or set the gate between two steps with a level pad on each side."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you measure fence height on a slope?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From the downhill side, at both ends of every panel, taking the maximum. A fence that measures 6 feet at the uphill post of a stepped section can measure 7 feet 2 at the downhill post. Rochester Hills caps residential side and rear fences at 6 feet, so the downhill measurement is the one that matters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you need a permit for a fence on a slope in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan's Residential Code exempts fences not more than 7 feet high from a building permit, and slope does not change that. Zoning still applies: in Rochester Hills, Zoning Ordinance 138-10.107 sets 6-foot side and rear limits, 3 feet in front and side-street setbacks, corner clearance rules, and material restrictions. Deed restrictions and HOA rules can be stricter than both."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum slope you can build a fence on?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no hard maximum for site-built wood, because the fence can step indefinitely. Practically, once the fall across a single panel passes about 12 inches, racking stops looking deliberate and stepping or building to grade becomes the right call. Past a 1-in-3 slope, footing design needs more than a standard post hole."
+          }
+        }
+      ]
+    }
+  ]
+}
