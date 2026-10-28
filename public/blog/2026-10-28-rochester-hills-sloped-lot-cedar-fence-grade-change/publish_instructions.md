@@ -60,3 +60,13 @@
 - **Neighborhood targeting:** Rochester Hills, Rochester, and Auburn Hills posts first — the project is Rochester Hills and the ordinance section is city-specific.
 - **Follow-up content:** the "measure the fall across one panel" method is the most extractable asset in the post. Consider a printable one-page slope worksheet later.
 - **Photo follow-up:** if the crew has real photos from a sloped-lot build, swap them into the body and add `image` entries to the Article schema. None are claimed in the current draft.
+
+## 6. Known Site-Wide Rendering Limitations (observed 2026-10-28)
+
+Two issues verified live on this post are **renderer limitations affecting the whole corpus**, not defects in this post. Do not "fix" this post's markdown to work around them.
+
+1. **Markdown tables render as raw pipe text.** The deployed page contains 0 `<table>` elements; the seven tables display as `| Run section | Fall across one 8-ft panel | ... |` followed by `|---|---|---|---|`. The 2026-10-24 post behaves identically (0 tables), so this is pre-existing. The real fix is GFM table parsing in the site's markdown renderer (or a `<table>` component), which would repair all 40+ posts at once.
+2. **The italic byline shows literal asterisks.** `*Published: October 28, 2026 | By BF Fence*` renders with visible asterisks and no `<em>` element. Same on every prior post. Fix in the template, not per post.
+
+Recommended site-side fix (one change, corpus-wide benefit): enable GFM tables in the markdown renderer used by the blog post component, and wrap the byline in a styled component instead of italic markdown.
+
