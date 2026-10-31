@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-10-31",
+      "headline": "Fence Rules by City in Oakland County: What Your City Actually Requires Before You Build",
+      "description": "A city-by-city breakdown of residential fence rules across Oakland County, Michigan: the six-foot ceiling, front-yard limits, corner-lot sight triangles, permit fees, easement approvals, and HOA overlays, with ordinance sections cited for Auburn Hills, Rochester Hills, Rochester, Troy, Novi, and Bloomfield Township.",
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-10-31-oakland-county-fence-rules-by-city-guide"
+      },
+      "image": "https://bffence.com/blog/2026-10-31-oakland-county-fence-rules-by-city-guide/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Residential fence zoning and permitting across Oakland County, Michigan, including Auburn Hills Zoning Ordinance sections 1902 and 1904 (6-foot side and rear height, 2.5-foot opaque and 4-foot non-opaque front yard limits, berm-inclusive height measurement, 25-foot corner visibility triangle with a 30-inch cap), Rochester Hills Zoning Ordinance 138-10.107 and 138-5.204 (6-foot side and rear, 3-foot front and side-street setback, obscuring fence restriction between the house and setback line, prohibitions on wire, barbed wire, spikes and electric fences, non-residential 8-foot and 10-foot security fence limits), City of Rochester zoning permit requirements, Troy City Code Chapter 83 (6-foot maximum, 30 inches in front of the front building setback line, 48-inch non-obscuring corner fence allowance, final lot grade and easement permits, 7-foot Michigan Building Code threshold), Novi Zoning Code 5.11 (6-foot maximum, front yard setback limits, corner lot prohibition, 2-acre and 200-foot frontage exceptions, material and uniformity rules), Bloomfield Township Zoning Ordinance Chapter 42 Section 5.7 with 16-foot side and 25-foot rear dog containment setbacks and Zoning Board of Appeals review, 2015 Michigan Residential Code R105.2 and R403.1.4, MISS DIG 811 dig notice requirements under MCL 460.725 and PA 174 of 2013, 2015 International Swimming Pool and Spa Code Section 305 pool barriers, and Michigan HOA deed restriction overlays"
+      },
+      "keywords": [
+        "fence rules Oakland County",
+        "fence height limit Michigan",
+        "fence permit Auburn Hills",
+        "Rochester Hills fence ordinance",
+        "Troy Michigan fence permit",
+        "Novi fence requirements",
+        "Bloomfield Township fence permit",
+        "corner lot fence rules Michigan",
+        "fence sight triangle 30 inches",
+        "six foot fence ordinance Michigan",
+        "HOA fence approval Michigan",
+        "dog fence setback Bloomfield Township",
+        "fence permit cost Oakland County",
+        "fence in easement Michigan",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-10-31-oakland-county-fence-rules-by-city-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How tall can my fence be in Oakland County, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Six feet along side and rear lot lines is the standard across Auburn Hills, Rochester Hills, Rochester, Troy, Novi, and Bloomfield Township. Fences seven feet and taller leave the state's building-permit exemption under the 2015 Michigan Residential Code R105.2 and require a building permit with plan review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I put a fence in my front yard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sometimes, and the limits are tight. Auburn Hills allows opaque fences to 2.5 feet and non-opaque to four feet in the required front yard. Rochester Hills allows three feet in the front or side-street setback and no obscuring fence over three feet between the house and the setback line. Troy caps front-of-setback fences at 30 inches. Novi generally prohibits front-yard fencing except on lots over two acres or with 200 or more feet of plat frontage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a six-foot wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in every city covered here. The state building-code exemption for fences under seven feet does not replace the local zoning or land-use permit, and each city requires its own application, plot plan, and inspection, several with a final inspection after installation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a fence permit cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the city. Troy publishes $150 for fences under 300 linear feet and $200 over 300 feet. Bloomfield Township charges $30 plan review plus $120 for a fence or dog-containment permit. Other cities publish fees on their own schedules, so call the building department before budgeting and never treat an aggregator website's number as current."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the fence rules for a corner lot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auburn Hills and Rochester Hills both prohibit anything above 30 inches from street grade inside a 25-foot sight triangle measured along each right-of-way line at an intersection. Novi prohibits corner-lot fencing beyond the front and exterior side setbacks. Troy allows a non-obscuring fence up to 48 inches along the common street line on qualifying double-setback corner lots. Corner lots are the most common source of fence complaints in the county."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does my HOA have to approve my fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your subdivision has deed restrictions or bylaws covering fencing, yes, and the city permit does not substitute for it. Novi requires HOA approval where applicable, Bloomfield Township requires subdivision association comments in the permit file, and Troy recommends the check in writing. Where the association is stricter than the city, the association's rule controls in practice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far from the property line does a dog fence have to be in Bloomfield Township?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sixteen feet from side lot lines and 25 feet from the rear lot line, for both standard and invisible dog-containment fences. An invisible fence may run around the front of the house to complete the circuit if it stays within five feet of the house. Standard visible dog fences require Zoning Board of Appeals approval as well as an ordinance permit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I build a fence inside an easement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not without approval. Troy will not issue a fence permit for construction inside an easement without the Director of Public Works' approval, and the same practical restriction applies almost everywhere, because a utility with an easement can remove a fence built over it. Check your plot plan for drainage and utility easements before finalizing the fence line."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with permit and setback coordination across Auburn Hills, Rochester Hills, Rochester, Troy, Novi, Bloomfield Township, Clarkston and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-10-31-oakland-county-fence-rules-by-city-guide/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" },
+        { "@type": "AdministrativeArea", "name": "Bloomfield Township" },
+        { "@type": "AdministrativeArea", "name": "Independence Township" },
+        { "@type": "AdministrativeArea", "name": "Orion Township" },
+        { "@type": "AdministrativeArea", "name": "Oakland County" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#fence-permit-coordination",
+      "name": "Residential Wood Fence Installation with Municipal Permit and Setback Coordination in Oakland County, Michigan",
+      "description": "Wood privacy fence design and installation that starts with the local ordinance: the maximum height for the lot's city, the front building setback line, the corner-clearance triangle on corner lots, easement and final-grade requirements, dog-containment setbacks, and HOA or subdivision association approval, followed by a scaled plot plan, permit filing, a MISS DIG 811 dig notice, and posts set at or below Michigan's 42-inch frost depth.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Residential Wood Fence Installation, Privacy Fence Construction, Fence Permit Coordination, Setback and Height Compliance Review, Corner-Lot Sight Triangle Layout, Dog Containment Fencing, Pool Barrier Fencing, Cedar Board-on-Board Fencing",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County homeowners planning a fence and unsure which city rules apply",
+          "Homeowners on corner lots or lots with front-yard fence plans",
+          "Homeowners in subdivisions with HOA or deed restriction approval requirements",
+          "Homeowners with dogs who need compliant containment fencing",
+          "Homeowners comparing fence bids and asking who pulls the permit",
+          "Small business owners needing compliant perimeter fencing"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Independence Township",
+        "Lake Orion",
+        "Orion Township"
+      ]
+    }
+  ]
+}
