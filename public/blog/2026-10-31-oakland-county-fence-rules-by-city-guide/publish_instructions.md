@@ -53,6 +53,21 @@ The body links to five internal posts. Confirm each resolves:
 
 If the site uses a different permalink structure, rewrite those four anchors to match before publishing — do not ship broken links.
 
+## 5b. Known renderer limitation — markdown tables
+
+This post leads with a six-jurisdiction comparison table. The current BFFence post renderer does **not**
+parse GFM tables: the deployed `final.md` is byte-correct, but the rendered page shows the pipe syntax as
+plain text (verified live 2026-10-31 — `document.querySelectorAll('table').length === 0`, same on the
+2026-10-24 post). This is site-wide, not specific to this post.
+
+Do not strip or rewrite the table in the markdown — the source of truth stays as-is. Two fixes, either is
+sufficient:
+
+1. **Recommended:** enable GFM table parsing in the post renderer (one change repairs all posts, including
+   the 2026-09-23, 2026-10-10 and 2026-10-28 posts that already carry tables).
+2. If the renderer cannot be changed before this post goes out, the same information is restated in prose
+   in the per-city sections, so nothing is lost — but the scan-friendly version is the table.
+
 ## 6. SEO fields
 
 - **Title tag:** Fence Rules by City in Oakland County, MI | BF Fence
