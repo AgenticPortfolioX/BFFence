@@ -80,3 +80,11 @@ author:      "BFFence"
   template gap, not a deploy defect. Fix belongs in the renderer, not in `final.md`.
 - The italic byline line under the H1 renders with literal asterisks on every post. Same class of
   template limitation; do not strip the asterisks from this post alone.
+
+## 10. Registry Sync Note (2026-11-04)
+- The first `Blog Auto-Sync` run was rejected by GitHub with a transient `remote: Internal Server
+  Error` on `git push` (the registry commit was built locally but never landed). The source fix is
+  a re-trigger of the push-based workflow via a real change under `public/blog/**` — this file.
+- `actions:write` is not granted to the deployment GitHub App, so `rerun-failed-jobs` and
+  `workflow_dispatch` both return 403. Re-touching a `public/blog/**` file is the working recovery.
+- No article content changed in that retry.
