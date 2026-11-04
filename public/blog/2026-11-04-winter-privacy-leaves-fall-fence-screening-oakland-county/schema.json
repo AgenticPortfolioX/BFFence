@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-04",
+      "headline": "When the Leaves Come Down, So Does Your Privacy: Winter Sightlines and Year-Round Screening for Oakland County Yards",
+      "description": "A seasonal privacy guide for Oakland County, Michigan: the sightline geometry that decides what a 6-foot fence can and cannot block, why cedar and pine boards open gaps as heated winter air dries them, how board-on-board construction holds the screen closed, evergreen and fencing layering for second-story views, snowpack and frost-depth realities, a 12-point November inspection, and honest 2026 installed price ranges.",
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-04-winter-privacy-leaves-fall-fence-screening-oakland-county"
+      },
+      "image": "https://bffence.com/blog/2026-11-04-winter-privacy-leaves-fall-fence-screening-oakland-county/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Seasonal loss of backyard privacy after deciduous leaf drop in Oakland County, Michigan, and the fencing, screening, and construction practices that restore year-round privacy: sightline geometry from ground level, raised decks, and second-story windows against the six-foot side and rear fence height limit common to Auburn Hills, Rochester Hills, Rochester, Troy, Novi, and Bloomfield Township; opacity performance of side-by-side, board-on-board, and shadowbox cedar fence layouts as lumber dries in heated winter air; USDA Forest Products Laboratory tangential shrinkage figures for western redcedar and southern pine; Emerald Green and Green Giant arborvitae spacing for above-fence evergreen screening; ISPSC Section 305 outdoor spa barrier requirements; 2015 Michigan Residential Code R403.1.4 forty-two-inch frost depth for post setting; snowpack effects on effective fence height and bottom-rail moisture; and 2026 installed cedar privacy fence pricing"
+      },
+      "keywords": [
+        "winter privacy fence Michigan",
+        "backyard privacy when trees lose leaves",
+        "privacy screening Oakland County",
+        "board-on-board fence privacy",
+        "cedar fence gaps in winter",
+        "does a 6 foot fence block second story windows",
+        "fence height limit Oakland County",
+        "evergreen privacy screen Michigan",
+        "arborvitae spacing for privacy",
+        "snow and fence height",
+        "hot tub privacy fence Michigan",
+        "frost depth fence posts Michigan",
+        "fence inspection checklist winter",
+        "cedar privacy fence cost Michigan",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-04-winter-privacy-leaves-fall-fence-screening-oakland-county#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why is my backyard less private in the winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because the screening you had was deciduous foliage, and it leaves. Oakland County's median first fall frost falls in the first week of November, and most maples are bare by then. Add lower sun angles that light up interiors in the late afternoon, and a yard that felt enclosed in July reads as open by Thanksgiving. Pin oaks and some red oaks hold their leaves through winter, which is why a few neighborhoods keep their screening longer than others."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a 6-foot fence block a neighbor's second-story window?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. A 6-foot fence blocks ground-level sightlines from flat ground, but from a second-story window at 14 feet nearly the whole yard is visible. From a 3-foot deck the ground beyond about 16 feet past the fence is visible. Above-fence screening — Green Giant arborvitae, a pergola, or a screen panel — is the only fix that does not require a height variance you will not get."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my cedar fence have gaps now that it's cold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wood shrinks as it dries, mostly across the width of the board. Western redcedar shrinks about 5 percent from green to oven-dry, which is roughly a sixth of an inch on a 5.5-inch picket; southern pine shrinks more, closer to a quarter inch. A side-by-side fence butted tight in June opens thin gaps by January as heated air dries the boards. It is not a defect, and board-on-board construction prevents it by overlapping the seams."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is board-on-board worth the extra cost for privacy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If privacy is the actual goal, yes. Board-on-board overlaps the pickets so the seams are covered and stay covered as the wood moves, and both faces look finished. It uses noticeably more cedar per foot than a side-by-side fence, but the labor is comparable, so the premium is material rather than difficulty. Shadowbox looks similar but is deliberately semi-private and lets air and sightlines through."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do arborvitae lose their leaves in winter, and how close should I plant them?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Arborvitae are evergreen and keep their foliage year-round, which is exactly why they work as above-fence screening. Plant Emerald Green 3 to 4 feet on center for a hedge; plant Green Giant 5 to 6 feet on center for a taller, faster screen. Keep 2 to 3 feet of clearance from a wood fence so air moves and the boards can be inspected and restained. Expect about three years before a new screen is genuinely private."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you install a wood fence in November in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually, yes, until the ground freezes hard — often late November, sometimes early December if snow insulates the soil. Posts still need to reach below Michigan's 42-inch frost depth, so the work does not get easier as the season closes. Staining should wait for spring, when temperatures hold above 50 degrees long enough for the finish to cure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does snow make a fence effectively shorter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in practice. A settled snowpack of 12 to 24 inches raises the effective ground line, buries the bottom rail, and lets a dog or a person stand higher than they could in summer. That is why we mark posts with tall stakes, keep a snow storage strip clear of plantings, and clear packed snow away from the bottom rail after big storms."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a hot tub need a code-compliant privacy barrier?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A spa needs a barrier under ISPSC Section 305: at least 48 inches above grade, no opening that passes a 4-inch sphere, no more than a 2-inch gap at the bottom, a self-closing and self-latching gate, and a barrier at least 20 inches from the water's edge. A spa with a lockable ASTM F1346 safety cover is exempt from the barrier requirement, but not from needing privacy. In our experience the inspection fails on gate hardware far more often than on fence height."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with permit and setback coordination across Auburn Hills, Rochester Hills, Rochester, Troy, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-04-winter-privacy-leaves-fall-fence-screening-oakland-county/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" },
+        { "@type": "AdministrativeArea", "name": "Bloomfield Township" },
+        { "@type": "AdministrativeArea", "name": "Independence Township" },
+        { "@type": "AdministrativeArea", "name": "Orion Township" },
+        { "@type": "AdministrativeArea", "name": "Oakland County" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#year-round-privacy-fencing",
+      "name": "Year-Round Privacy Fence Design and Installation in Oakland County, Michigan",
+      "description": "Privacy fencing planned around winter sightlines rather than summer foliage: an on-site sightline audit from the property line, the neighbor's deck height, and the highest window looking into the yard; a board-on-board cedar layout that stays opaque as the wood dries and shrinks; code-compliant height and setback placement within the local six-foot side and rear limits; above-fence evergreen screening where a second story looks down; posts set below Michigan's 42-inch frost depth; snow storage and plow-stake planning; and gate hardware that still latches after a freeze-thaw cycle.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Privacy Fence Installation, Board-on-Board Cedar Fencing, Winter Sightline Audit, Above-Fence Evergreen Screening, Fence Repair and Rebuild, Hot Tub and Pool Privacy Barriers, Gate Hardware Service, Snow Load and Frost-Heave Inspection",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County homeowners whose yards lose privacy when deciduous trees drop their leaves",
+          "Homeowners overlooked by a neighbor's raised deck or second-story window",
+          "Homeowners with cedar fences that developed gaps after the first cold season",
+          "Homeowners planning a hot tub or pool who need a code-compliant privacy barrier",
+          "Homeowners deciding between a new fence and an evergreen screen",
+          "Homeowners planning spring installation and wanting an off-season estimate"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Troy",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Independence Township",
+        "Lake Orion",
+        "Orion Township"
+      ]
+    }
+  ]
+}
