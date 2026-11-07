@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-07",
+      "headline": "Troy Fence Rebuild: Pulling a 22-Year-Old Treated Pine Fence and Rebuilding in Cedar Without Losing the Garden",
+      "description": "A Troy, Michigan fence replacement walked through by the crew that built it: the five-minute probe test that decides repair versus replace, 23 bell-shaped concrete footings broken out of clay, original posts set 22 inches deep against Michigan's 42-inch frost depth, a 40-foot perennial border and a mature Japanese maple protected through demolition, Troy City Code Chapter 83 height and permit requirements, the board-on-board western redcedar rebuild specification, and a full 2026 cost breakdown of $9,977 all-in at $56.69 per linear foot.",
+      "datePublished": "2026-11-07",
+      "dateModified": "2026-11-07",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-07-troy-pine-fence-rebuild-cedar-project-spotlight"
+      },
+      "image": "https://bffence.com/blog/2026-11-07-troy-pine-fence-rebuild-cedar-project-spotlight/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Full removal and replacement of a twenty-two-year-old pressure-treated pine privacy fence with a six-foot board-on-board western redcedar fence on a mature subdivision lot in Troy, Oakland County, Michigan: post-by-post condition assessment for repair-versus-replacement decisions; breakout and disposal of twenty-three bell-shaped concrete footings set at twenty-two inches against the forty-two-inch frost depth required by the 2015 Michigan Residential Code R403.1.4; frost heave mechanics in Oakland County clay soils; protection of established perennial borders and structural root plates during demolition and post setting; temporary pet containment sequencing; disposal of chromated-copper-arsenate treated lumber as construction and demolition debris rather than yard waste; Troy City Code Chapter 83 fence height, material, setback, sight-triangle and permit requirements; and 2026 installed cedar privacy fence and fence removal pricing in metro Detroit"
+      },
+      "keywords": [
+        "fence replacement Troy Michigan",
+        "cedar fence rebuild Michigan",
+        "old wood fence replacement cost",
+        "fence removal cost per linear foot",
+        "concrete footing removal fence",
+        "pressure treated pine fence lifespan",
+        "Troy Michigan fence permit Chapter 83",
+        "board-on-board cedar privacy fence cost",
+        "fence replacement before winter Michigan",
+        "repair or replace wood fence",
+        "frost depth fence posts Michigan",
+        "fence post rot at grade",
+        "protect landscaping during fence installation",
+        "wood fence contractor Oakland County",
+        "privacy fence Troy Michigan"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-07-troy-pine-fence-rebuild-cedar-project-spotlight#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do you know when a wood fence needs to be replaced instead of repaired?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Push on the posts, not the panels. If more than 30 percent of them move or are soft at the grass line when you probe with a screwdriver, replacement is cheaper than repairing. On a 176-foot fence at eight-foot bays, that is about seven posts out of 23. Below that threshold, section repair is genuinely the better spend, and a contractor who tells you otherwise is selling, not advising."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to remove an old fence in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Removal runs $3 to $7 per linear foot in 2026, or roughly $500 to $1,200 for a typical backyard fence, and that price usually assumes the footings stay in the ground. Concrete footings are a separate line item at $2 to $3 each to break out, plus disposal. On our Troy project, removal was $563 and footing breakout was another $506 for 23 posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do wood fences lean in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost always because the footing is above frost depth. Michigan's residential code puts frost depth at 42 inches, and a footing at 22 inches sits inside the freeze zone, so it lifts a little every winter and settles back less each spring. Twenty-two cycles of that is a fence that has slowly pushed itself out of the ground, which is exactly what we found on this job."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to replace a fence in Troy, Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Troy City Code Chapter 83, Section 5 requires a Building Department permit before any fence is constructed, and that includes a replacement on an existing line. The fee follows Chapter 60, Section 60.03. One catch: no permit issues until the lot's final grading is approved, and a fence in an easement also needs Public Works sign-off, so verify the grading history before scheduling demolition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall can my fence be in Troy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Six feet above existing grade in residential districts under Chapter 83, Section 2(A), dropping to 30 inches for any portion in front of the front building setback line. Qualifying corner lots can run a 48-inch non-obscuring fence along the common street line. No fence over 30 inches may sit within the 25-foot sight triangle at an intersection. The Building Board of Appeals can waive height limits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you install a fence in November in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually yes, until the ground freezes hard, often late November, sometimes early December if snow insulates the soil. Posts still have to reach 42 to 48 inches, and digging gets slower and more expensive as the season closes. This project ran in early November with no frost in the ground. Staining has to wait for spring regardless, because the finish will not cure below 50 degrees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I reuse the old post holes and footings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, and it costs more to try. Old footings are usually wider at the base than the hole you need, and most were poured as bells that cannot be pulled, so they have to be broken out. Setting a new post beside an old footing means an oversized hole in disturbed soil, which is a worse foundation than a fresh one. Break them out and dig clean."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What do I do with the old pressure-treated boards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Treated lumber is construction and demolition debris, not yard waste. It does not go in curbside yard waste, it does not go in compost, and it must not be burned: Michigan's open-burning rules prohibit it because the preservative concentrates in the ash and goes into the air. Haul it to a licensed C&D disposal site. Sound cedar pickets can be salvaged for garden projects; treated pine should not be used for vegetable beds."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-07-troy-pine-fence-rebuild-cedar-project-spotlight/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Clawson" },
+        { "@type": "City", "name": "Royal Oak" },
+        { "@type": "City", "name": "Madison Heights" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" },
+        { "@type": "AdministrativeArea", "name": "Bloomfield Township" },
+        { "@type": "AdministrativeArea", "name": "Independence Township" },
+        { "@type": "AdministrativeArea", "name": "Orion Township" },
+        { "@type": "AdministrativeArea", "name": "Oakland County" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#fence-replacement",
+      "name": "Wood Fence Removal and Replacement in Troy and Oakland County, Michigan",
+      "description": "Complete fence replacement: an on-site post-by-post condition assessment that separates repair from replacement in writing; demolition sequenced in short sections so pets stay contained; breakup, removal and disposal of existing concrete footings and treated-lumber haul-away as construction debris; hand-digging inside root zones to protect established landscaping; new fences set 42 to 48 inches below grade with gravel and crowned concrete collars; board-on-board western redcedar panels on treated ground-contact posts with stainless fasteners, three rails and cap; upsized 6x6 gate posts; and permit filing under local ordinances including Troy City Code Chapter 83.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Fence Replacement, Fence Removal and Haul-Away, Concrete Footing Breakout, Cedar Privacy Fence Installation, Board-on-Board Cedar Fencing, Driveway Gate and Walk Gate Installation, Post Reset and Frost-Depth Correction, Landscaping Protection During Installation, Fence Permit Coordination, Section Repair",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Troy and Oakland County homeowners with a wood fence over 15 years old",
+          "Homeowners whose fence posts have heaved or gone soft at grade",
+          "Homeowners deciding between section repair and a full replacement",
+          "Homeowners replacing a treated pine fence and considering cedar",
+          "Homeowners with established landscaping along the fence line",
+          "Homeowners with dogs or small children who cannot have an open yard during construction",
+          "Homeowners who need Troy Chapter 83 permit and height compliance"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clawson",
+        "Royal Oak",
+        "Madison Heights",
+        "Clarkston",
+        "Independence Township",
+        "Lake Orion",
+        "Orion Township"
+      ]
+    }
+  ]
+}
