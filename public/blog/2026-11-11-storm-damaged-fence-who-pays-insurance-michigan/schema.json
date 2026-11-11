@@ -1,0 +1,284 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-11",
+      "headline": "A Tree Fell on Your Fence: Who Pays, What Insurance Covers, and What the Repair Actually Costs in Oakland County",
+      "description": "How Michigan assigns liability when a tree or storm takes out a fence: the healthy-tree rule and act-of-God defense from Stevens v. Drekich, 178 Mich. App. 273 (1989); documented-knowledge exceptions; boundary trees under Lennon v. Terrall, 250 Mich. 100 (1932); the treble-damages line in MCL 600.2919; partition-fence cost sharing and fence viewers under Act 34 of 1978 (MCL 43.51-43.60); Coverage B other-structures limits, actual cash value depreciation, deductibles and debris sublimits on a wood fence claim; Michigan claim deadlines under MCL 500.2006 and MCL 500.2833; a contractor's storm-damage assessment walkthrough; and 2026 storm-damage repair and replacement pricing in Oakland County, Michigan.",
+      "datePublished": "2026-11-11",
+      "dateModified": "2026-11-11",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-11-storm-damaged-fence-who-pays-insurance-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-11-11-storm-damaged-fence-who-pays-insurance-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Storm and fallen-tree damage to residential wood fencing in Oakland County, Michigan: liability between adjoining property owners under Michigan negligence law and the act-of-God defense; boundary-tree ownership and overhanging-branch trimming rights; partition-fence cost sharing through township fence viewers; homeowners insurance Coverage B other-structures coverage, actual cash value depreciation, deductibles, wind and hail percentage deductibles and debris-removal sublimits; Michigan claims-handling deadlines and the one-year suit limitation; field assessment of racked bays, sheared rails, cracked posts and frost-lifted footings; repair-versus-replacement decision thresholds; and 2026 repair and replacement pricing for cedar and treated-wood privacy fences in metro Detroit"
+      },
+      "keywords": [
+        "tree fell on fence who pays",
+        "does homeowners insurance cover fence damage",
+        "storm damaged fence repair Michigan",
+        "neighbor's tree fell on my fence Michigan",
+        "fence insurance claim actual cash value",
+        "fence repair cost Oakland County 2026",
+        "Michigan fence law neighbor responsibility",
+        "fence blown down by wind insurance",
+        "Coverage B other structures fence",
+        "Line Fence Act Michigan fence viewers",
+        "MCL 600.2919 treble damages tree",
+        "boundary tree Michigan property line",
+        "repair or replace storm damaged fence",
+        "cedar privacy fence storm damage repair",
+        "wood fence contractor Oakland County"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-11-storm-damaged-fence-who-pays-insurance-michigan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "If my neighbor's tree falls on my fence, who pays in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually you do, through your own homeowners policy. Michigan treats a healthy tree that fails in a storm as an act of God, so the tree's owner is not automatically liable. If the tree was visibly hazardous and the owner knew — dead limbs, trunk cracks, a worsening lean — the owner may be liable, and written notice from you to them makes that case much stronger."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does homeowners insurance cover a fence blown down by wind?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually yes, under Coverage B, the other-structures section of your policy, typically limited to about 10% of your dwelling coverage. Wind, hail, fire, vandalism, vehicle impact, and a healthy tree falling on the fence are all commonly covered. Rot, termites, neglect, and flood are not."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much will insurance actually pay for a 15-year-old wood fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Less than you expect. Wood fences are usually settled at actual cash value, so the adjuster depreciates for age and condition before subtracting your deductible. On a $9,900 fence with 60% depreciation and a $2,500 deductible, the check is about $1,460 — which is why many homeowners with older fences choose to pay for the repair themselves."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I file a claim for a fence repair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only if the repair costs meaningfully more than your deductible. If the estimate is below your deductible, filing pays you nothing and still puts a claim on your loss history. If it is several times the deductible, file promptly, because prompt notice is a condition of coverage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do I have to file a homeowners claim in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no fixed day count for notice — the policy requires prompt notice, and delay that prejudices the insurer can jeopardize coverage. The harder deadlines are: the insurer must tell you in writing within 30 days what proof of loss it needs (MCL 500.2006), payment is due within 60 days of satisfactory proof or 12% interest accrues, and the deadline to sue is at least one year from the loss (MCL 500.2833)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I trim branches from my neighbor's tree that hang over my fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, up to the property line, under Michigan's self-help rule, and you pay for it yourself. You cannot reach past the line or step onto their property without permission, and you cannot cut so aggressively that you kill or seriously damage the tree. Cutting a neighbor's tree without permission exposes you to treble damages under MCL 600.2919."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if the tree trunk sits right on the property line?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan treats it as jointly owned. Under Lennon v. Terrall, 250 Mich. 100 (1932), neither owner may cut, injure, or destroy a boundary tree without the other's consent, and maintenance is shared. Get any agreement in writing before a saw shows up."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to repair a storm-damaged fence in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not for a like-for-like repair of a few damaged sections, but most cities do require a permit for a new or fully replaced run, and the rules differ by municipality. Check with your city's building department, and see our city-by-city fence rules guide for the height, setback, and permit requirements in your community."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it cheaper to repair the damaged sections or replace the whole fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Repair wins on a fence under 12 years old with sound posts — replace the two damaged bays and move on. Replacement wins when more than about 30% of the posts are compromised, when the fence is beyond its service life, or when the repair cost approaches 40% of a new run. We measure posts before we quote either way."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation, repair, and storm-damage restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with post reset, section repair, removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-11-storm-damaged-fence-who-pays-insurance-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Birmingham"
+        },
+        {
+          "@type": "City",
+          "name": "Clawson"
+        },
+        {
+          "@type": "City",
+          "name": "Royal Oak"
+        },
+        {
+          "@type": "City",
+          "name": "Madison Heights"
+        },
+        {
+          "@type": "City",
+          "name": "Lake Orion"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        },
+        {
+          "@type": "City",
+          "name": "Waterford"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        },
+        {
+          "@type": "City",
+          "name": "Pontiac"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bloomfield Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Independence Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Orion Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#storm-damage-fence-repair",
+      "name": "Storm Damage Fence Repair and Replacement in Oakland County, Michigan",
+      "description": "Post-storm fence assessment and repair: a full-line inspection that pushes and probes every post to separate cosmetic panel damage from structural failure; written damage documentation in a scope an insurance adjuster can work from; panel, rail, and bay replacement; post reset and replacement on footings taken to the 42-inch Michigan frost depth; gate post upsizing to 6x6; footing breakout and treated-lumber haul-away; and full cedar privacy fence replacement where repair no longer makes economic sense.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Storm Damage Fence Repair, Fallen Tree Fence Damage Repair, Fence Post Reset, Fence Post Replacement, Panel and Rail Replacement, Gate Rebuild and Gate Post Repair, Frost-Depth Footing Correction, Fence Damage Assessment and Documentation, Fence Removal and Haul-Away, Cedar Privacy Fence Replacement, Insurance Claim Estimate Preparation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County homeowners whose fence was damaged by a fallen tree or windstorm",
+          "Homeowners deciding whether to file a homeowners insurance claim for a fence",
+          "Homeowners whose fence posts have heaved, cracked, or gone soft at grade",
+          "Homeowners deciding between section repair and full replacement after storm damage",
+          "Homeowners sharing a boundary fence with a neighbor and sorting out cost responsibility",
+          "Homeowners who need documented damage estimates for an adjuster",
+          "Homeowners who need a yard secured for pets before winter"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clawson",
+        "Royal Oak",
+        "Madison Heights",
+        "Clarkston",
+        "Independence Township",
+        "Lake Orion",
+        "Orion Township"
+      ]
+    }
+  ]
+}
