@@ -64,7 +64,7 @@ The cost tables are labeled as Oakland County 2026 bands scoped to the stated jo
 
 Push to `main`; the `Blog Auto-Sync` workflow regenerates `src/data/blog-posts.json`. Verify the new entry by reading `src/data/blog-posts.json` via the Contents API (base64 payload, not the CDN-cached `download_url`). The identifier key is `id`, not `slug`.
 
-Expect the entry count to go from 47 to 48.
+Expect the entry count to increment by one. This deploy moved the registry from 46 to 47 entries, with the new `id` present and sorted last by date.
 
 ## Known site-wide rendering limitations (not defects in this post)
 
@@ -74,7 +74,7 @@ Expect the entry count to go from 47 to 48.
 ## Post-publish verification
 
 1. Contents API: all four files present at the repo path.
-2. Registry: new `id` present in `blog-posts.json`, entry count incremented to 48.
+2. Registry: new `id` present in `blog-posts.json`, entry count incremented to 47.
 3. Static assets over HTTP: `final.md`, `schema.json`, `feature_image.png`, `publish_instructions.md` all return 200 with byte sizes matching the archive; a known-good prior slug returns 200 and a nonexistent slug returns 404 as controls.
 4. Pages workflow for the head commit shows `conclusion: success`.
 5. Rich-results check: paste the live URL into the Schema Markup Validator and confirm 8 FAQ entries with no errors.
