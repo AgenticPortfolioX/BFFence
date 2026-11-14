@@ -1,0 +1,275 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Article",
+   "@id": "https://bffence.com/#article-2026-11-14",
+   "headline": "How to Clean a Wood Fence in Michigan: Leaf Stains, Green Algae, Mildew, and the Gray That Isn't Dirt",
+   "description": "A Michigan fence contractor's guide to diagnosing and cleaning a wood fence: telling algae, moss, mildew, lichen, tannin stains and UV gray apart; oxygen bleach instead of chlorine; safe pressure-washing PSI, tip angle and standoff for cedar and treated pine; oxalic acid brightening for leaf and iron stains; the truth about gray weathered cedar; November temperature and moisture limits for staining in Oakland County; when cleaning is the wrong answer and repair is the real one; and 2026 cleaning, brightening, board replacement and staining price bands for Oakland County, Michigan.",
+   "datePublished": "2026-11-14",
+   "dateModified": "2026-11-14",
+   "author": {
+    "@type": "Organization",
+    "@id": "https://bffence.com/#organization",
+    "name": "BF Fence",
+    "url": "https://bffence.com/"
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://bffence.com/#organization",
+    "name": "BF Fence",
+    "url": "https://bffence.com/"
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bffence.com/blog/2026-11-14-clean-wood-fence-leaf-stains-algae-michigan"
+   },
+   "image": "https://bffence.com/blog/2026-11-14-clean-wood-fence-leaf-stains-algae-michigan/feature_image.png",
+   "about": {
+    "@type": "Thing",
+    "name": "Cleaning and surface restoration of residential wood fencing in Oakland County, Michigan: identifying algae, moss, mildew, lichen, tannin staining and ultraviolet lignin degradation on cedar and pressure-treated pine; oxygen bleach (sodium percarbonate) versus sodium hypochlorite and their effects on lignin; safe pressure-washing pressure, nozzle fan angle and standoff distance for softwood; oxalic acid wood brightening for tannin and iron staining; surface moisture content and ambient temperature limits for applying penetrating stain and sealer in a Michigan late-fall climate; leaf-litter moisture management and bottom-board decay; the threshold at which cleaning gives way to board, rail or post repair and full replacement; and 2026 professional and do-it-yourself cost bands for fence cleaning and restoration in metro Detroit"
+   },
+   "keywords": [
+    "how to clean a wood fence",
+    "clean wood fence Michigan",
+    "green algae on wood fence",
+    "mildew on wood fence",
+    "leaf stains on fence",
+    "tannin stain removal wood fence",
+    "pressure wash cedar fence PSI",
+    "can you pressure wash a cedar fence",
+    "oxygen bleach wood fence",
+    "chlorine bleach damage wood fence lignin",
+    "oxalic acid wood brightener fence",
+    "gray weathered cedar fence restore",
+    "can you stain a fence in November Michigan",
+    "minimum temperature to stain a wood fence",
+    "fence cleaning cost Oakland County",
+    "wood fence maintenance Michigan",
+    "cedar fence cleaning Auburn Hills",
+    "wood fence repair Oakland County"
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://bffence.com/blog/2026-11-14-clean-wood-fence-leaf-stains-algae-michigan#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How do I get green algae off a wood fence?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oxygen bleach (sodium percarbonate), applied bottom to top to already-wet wood, left to dwell three to five minutes, scrubbed with a soft nylon brush, and rinsed with a garden hose or very low pressure. Chlorine bleach also kills algae but attacks lignin and fuzzes the wood, so it is the wrong tool for cedar."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I pressure wash a cedar fence?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, carefully. Stay in the 500–800 PSI range on cedar, use a 40-degree fan tip, hold the wand 12–18 inches from the boards, and work with the grain. If the surface starts to look fuzzy, stop — you are removing wood fiber, not dirt. Never use a 0-degree tip on a wood fence."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the gray on my old wood fence — is it dirt?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. Gray on unfinished wood is UV-degraded lignin with fungal growth feeding on it. Cleaning removes the growth, and an oxalic acid brightener restores some color, but heavy gray with a rough, hairy surface means the outer fibers are gone and cannot be washed back."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I remove leaf stains from a wood fence?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Leaf stains are tannin stains. Soap will not lift them. Apply an oxalic acid wood brightener to a damp surface, let it sit about fifteen minutes, and rinse. Heavier stains take a second application. Clear the leaves first, or the stain will simply come back with the next rain."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is it too late to clean and seal my fence in November in Michigan?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cleaning is fine as long as air temperatures stay above about 40°F and no hard freeze is coming. Sealing is usually not: most stains need 50°F or warmer, some oil-based products go down to 35–40°F, and wood must be at 12 percent moisture content or below. Cleaning now and finishing in April is the better play."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Will cleaning make a 15-year-old fence look new again?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It will look considerably better — growth gone, tannins lifted, some color restored. It will not look new. Weathering changes the wood itself, and once the outer fibers are worn away no cleaner brings them back. Cleaning buys appearance and time; it does not reverse age."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does it cost to have a fence cleaned in Oakland County?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Professional cleaning typically runs about $1.50–$3.50 per linear foot for a single side, with most contractors carrying a minimum charge. DIY is usually $40–$90 in materials for a 150-foot run plus a pressure washer rental. Brightening and staining are priced separately."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Should I clean both sides of the fence?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Usually yes, if you have access. Mildew grows through board gaps, the shaded side ages the sunny side, and a fence cleaned on one face only tends to look worse, not better. If access requires a neighbor's permission, ask before you start — and cover their plantings if you are spraying."
+     }
+    }
+   ]
+  },
+  {
+   "@type": "LocalBusiness",
+   "@id": "https://bffence.com/#localbusiness",
+   "name": "BF Fence",
+   "legalName": "Renowned Value Restoration LLC",
+   "description": "Custom residential and commercial wooden fence installation, repair, cleaning, staining and restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with post reset, section repair, board and picket replacement, fence washing and brightening, staining and sealing, removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+   "url": "https://bffence.com/",
+   "logo": "https://bffence.com/wp-content/uploads/logo.png",
+   "image": "https://bffence.com/blog/2026-11-14-clean-wood-fence-leaf-stains-algae-michigan/feature_image.png",
+   "telephone": "(248)604-6168",
+   "email": "estimate@bffence.com",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2711 Williamsburg Cir",
+    "addressLocality": "Auburn Hills",
+    "addressRegion": "MI",
+    "postalCode": "48326",
+    "addressCountry": "US"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Troy"
+    },
+    {
+     "@type": "City",
+     "name": "Auburn Hills"
+    },
+    {
+     "@type": "City",
+     "name": "Rochester Hills"
+    },
+    {
+     "@type": "City",
+     "name": "Rochester"
+    },
+    {
+     "@type": "City",
+     "name": "Novi"
+    },
+    {
+     "@type": "City",
+     "name": "Bloomfield Hills"
+    },
+    {
+     "@type": "City",
+     "name": "Birmingham"
+    },
+    {
+     "@type": "City",
+     "name": "Clawson"
+    },
+    {
+     "@type": "City",
+     "name": "Royal Oak"
+    },
+    {
+     "@type": "City",
+     "name": "Madison Heights"
+    },
+    {
+     "@type": "City",
+     "name": "Lake Orion"
+    },
+    {
+     "@type": "City",
+     "name": "Clarkston"
+    },
+    {
+     "@type": "City",
+     "name": "Waterford"
+    },
+    {
+     "@type": "City",
+     "name": "White Lake"
+    },
+    {
+     "@type": "City",
+     "name": "Pontiac"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Bloomfield Township"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Independence Township"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orion Township"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Oakland County"
+    }
+   ],
+   "priceRange": "$$",
+   "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+   },
+   "sameAs": [
+    "https://www.facebook.com/bffence",
+    "https://nextdoor.com/pages/bffence"
+   ]
+  },
+  {
+   "@type": "Service",
+   "@id": "https://bffence.com/#fence-cleaning-restoration",
+   "name": "Wood Fence Cleaning, Brightening, Staining and Restoration in Oakland County, Michigan",
+   "description": "Professional cleaning and surface restoration for cedar and pressure-treated wood fencing: oxygen-bleach washing that kills mildew and algae without attacking lignin; soft-wash and low-pressure rinse calibrated to cedar at 500 to 800 PSI with wide-fan nozzles; oxalic acid brightening to lift tannin, leaf and iron staining and restore weathered color; rotted picket, rail and post replacement before finish work; surface moisture testing and temperature-qualified application of penetrating oil stain and sealer; and seasonal maintenance scheduling built around Michigan freeze-thaw cycles.",
+   "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://bffence.com/#localbusiness"
+   },
+   "serviceType": "Wood Fence Cleaning, Cedar Fence Pressure Washing, Oxygen Bleach Fence Washing, Mildew and Algae Removal, Oxalic Acid Wood Brightening, Tannin and Leaf Stain Removal, Gray Weathered Cedar Restoration, Fence Staining and Sealing, Picket and Board Replacement, Rail and Post Repair, Seasonal Fence Maintenance",
+   "audience": {
+    "@type": "Audience",
+    "audienceType": [
+     "Oakland County homeowners with cedar or pressure-treated pine fences showing green growth, mildew or leaf staining",
+     "Homeowners deciding whether to clean, restore or replace a weathered fence",
+     "Homeowners preparing a fence for staining or sealing before winter",
+     "Homeowners who pressure washed a fence themselves and furred the surface",
+     "Homeowners whose fence bottom boards have gone soft under leaf litter"
+    ]
+   },
+   "areaServed": [
+    "Metro Detroit",
+    "Oakland County",
+    "Troy",
+    "Auburn Hills",
+    "Rochester Hills",
+    "Rochester",
+    "Novi",
+    "Bloomfield Township",
+    "Clarkston",
+    "Lake Orion",
+    "Birmingham",
+    "Royal Oak",
+    "Madison Heights"
+   ]
+  }
+ ]
+}
