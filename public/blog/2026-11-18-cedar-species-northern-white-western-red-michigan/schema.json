@@ -1,0 +1,272 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-18",
+      "headline": "Northern White Cedar vs. Western Red Cedar vs. Eastern Red Cedar: Which Cedar Actually Belongs on Your Michigan Fence",
+      "description": "A Michigan fence contractor's comparison of the three cedars sold for fencing: western red cedar (Thuja plicata), northern white cedar (Thuja occidentalis), and eastern red cedar (Juniperus virginiana). Janka hardness, density, bending strength, stiffness and shrinkage values; why heartwood versus sapwood matters more than the species label; second-growth versus old-growth cedar; how fence-grade pickets are graded and what actual versus nominal thickness means; the cedar-tone treated-pine substitution; species-to-component selection for posts, rails, pickets, caps and gates; 2026 Oakland County price bands; and the six questions that turn 'cedar' on a quote into a written specification.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-18-cedar-species-northern-white-western-red-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-11-18-cedar-species-northern-white-western-red-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Species selection for wood privacy fencing in Oakland County, Michigan: distinguishing western red cedar (Thuja plicata), northern white cedar (Thuja occidentalis) and eastern red cedar (Juniperus virginiana); heartwood extractives and thujaplicins versus non-durable sapwood; second-growth density and ring width; Janka hardness, modulus of rupture, modulus of elasticity and shrinkage as predictors of fence behavior; fence-grade lumber grading, actual versus nominal thickness, flat-sawn versus vertical-grain pickets; kiln-dried versus green stock and seasonal shrinkage; micronized copper azole treated southern yellow pine marketed as cedar-tone; matching species to posts, rails, pickets, caps and gate frames; and 2026 Oakland County material and installed price bands for cedar fencing"
+      },
+      "keywords": [
+        "northern white cedar vs western red cedar fence",
+        "cedar fence species comparison",
+        "eastern red cedar fence posts",
+        "western red cedar fence pickets",
+        "is cedar tone real cedar",
+        "cedar fence grades explained",
+        "heartwood vs sapwood cedar fence",
+        "how long does a cedar fence last in Michigan",
+        "best cedar for fence posts",
+        "white cedar fence Michigan",
+        "cedar fence cost Oakland County",
+        "do cedar posts rot in ground contact",
+        "stainless fasteners cedar fence",
+        "cedar fence contractor Auburn Hills",
+        "wood fence materials Michigan"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-18-cedar-species-northern-white-western-red-michigan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is northern white cedar as good as western red cedar for a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On rot resistance, yes. Both heartwoods are rated durable to very durable, and northern white cedar carries the better insect rating, including resistance to termites and powderpost beetles. Western red cedar is stronger, about 28 percent stiffer, and available in clearer, longer boards, so it is the better choice for rails and gates. For pickets and short spans, white cedar performs well at a lower cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does cedar sapwood rot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Sapwood has almost none of the extractives that protect heartwood, so it decays like any untreated softwood, especially at the bottom of a picket where soil and leaf litter hold moisture. Look at the end grain before installation: dark core, pale ring. The more pale ring, the shorter that board's life in a wet location."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cedar-tone the same as cedar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Cedar-tone is pressure-treated southern yellow pine with iron-oxide pigment infused into the wood under pressure. The preservative, micronized copper azole, provides the rot resistance; the pigment provides the color. It is a legitimate budget fence material and holds fasteners better than cedar, but it is pine and should never be priced or described as cedar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the hardest cedar for fence posts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eastern red cedar, by a wide margin. It rates 900 pounds on the Janka scale against 350 for western red cedar and 320 for northern white cedar, and it is about 43 percent heavier. It is the one cedar routinely used in direct soil contact without treatment, which makes it a strong post material and a poor picket material."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which cedar is best for fence pickets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Western red cedar is the standard for good reason: it is stable, works cleanly, comes in consistent lengths, and takes a finish predictably. Northern white cedar is a solid, less expensive alternative if you accept more knots and more culling. Eastern red cedar is a poor picket choice because of supply, hardness, and movement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a cedar fence last in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A well-built cedar fence with heartwood-heavy boards, posts set below the frost line, and reasonable maintenance typically gives 15 to 25 years in this climate; western red cedar fences past 20 years with only posts replaced are common. Sapwood-heavy boards in wet locations, or shallow footings, will cut that life substantially regardless of species."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should cedar posts be set in concrete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a privacy fence in Oakland County clay, posts should be set below the 42-inch frost line, and a properly sized concrete footing is the most reliable way to hold them there through freeze-thaw. The footing is not the whole story: the post material, the cut end, and drainage around the base determine how long the post survives. Ground-contact rated material or eastern red cedar is the safer choice in soil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need stainless steel fasteners for a cedar fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For western red cedar, yes, or a coated alternative rated for exterior use. Iron-based fasteners react with cedar extractives and leave black streaks, particularly when the wood is wet, and the staining is permanent. Stainless costs more up front and is the difference between a fence that ages and a fence that looks damaged."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation, repair, cleaning, staining and restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with post reset, section repair, board and picket replacement, fence washing and brightening, staining and sealing, removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-18-cedar-species-northern-white-western-red-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Birmingham"
+        },
+        {
+          "@type": "City",
+          "name": "Clawson"
+        },
+        {
+          "@type": "City",
+          "name": "Royal Oak"
+        },
+        {
+          "@type": "City",
+          "name": "Madison Heights"
+        },
+        {
+          "@type": "City",
+          "name": "Lake Orion"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        },
+        {
+          "@type": "City",
+          "name": "Waterford"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        },
+        {
+          "@type": "City",
+          "name": "Pontiac"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bloomfield Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Independence Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Orion Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#cedar-fence-material-selection",
+      "name": "Cedar Fence Material Selection and Custom Wood Fence Installation in Oakland County, Michigan",
+      "description": "Species-level cedar specification and custom wood fence installation: western red cedar pickets and rails, northern white cedar posts, rails and rustic fencing sourced from northern Michigan mills, eastern red cedar posts for ground contact, heartwood-share inspection and culling on delivery, grade and actual-thickness verification, kiln-dried stock, stainless and coated fasteners, posts set below Michigan's 42-inch frost line, and written component-by-component specifications provided with every estimate.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Cedar Fence Installation, Western Red Cedar Privacy Fencing, Northern White Cedar Fence Posts and Rails, Eastern Red Cedar Ground-Contact Posts, Wood Fence Material Consultation, Cedar Picket Grade Verification, Heartwood and Sapwood Inspection, Cedar Fence Repair, Rustic and Ranch Cedar Fencing, Custom Wood Gate Construction",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Oakland County homeowners comparing cedar fence quotes",
+          "Homeowners who received a 'cedar' bid that does not name a species or grade",
+          "Homeowners deciding between western red cedar, northern white cedar and treated pine",
+          "Homeowners replacing rotted cedar posts and pickets",
+          "Rural and large-lot property owners installing white cedar ranch fencing"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Lake Orion",
+        "Birmingham",
+        "Royal Oak",
+        "Madison Heights"
+      ]
+    }
+  ]
+}
