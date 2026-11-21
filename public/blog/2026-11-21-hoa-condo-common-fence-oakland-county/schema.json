@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-21",
+      "headline": "Who Owns the Fence in an Oakland County Subdivision? The HOA and Condo Association Guide to Common Fencing, Reserve Funding, and a Spring Replacement",
+      "description": "A Michigan fence contractor's guide for HOA boards and condominium associations in Oakland County: how to determine whether a neighborhood is a deed-restricted subdivision, a site condominium, or an attached condominium; why site condominiums fall under the Michigan Condominium Act (MCL 559.101 et seq.); how MCL 559.103(7), 559.106(5) and 559.107(2) define common and limited common elements and how MCL 559.169 allocates the bill; what the Fence Viewers Act (MCL 43.51-43.55) says about a boundary fence between two private lots; why the reserve-fund floor in MCL 559.205 and Mich Admin Code R 559.511 (10% of the current annual budget, noncumulative) does not fund a 400-foot cedar replacement; how fencing belongs in a reserve study; the November-to-April board calendar for a spring build; the nine-line bid package that makes contractor quotes comparable; insurance, certificate and fiduciary considerations; architectural review and selective enforcement; matching weathered cedar when phasing; and 2026 Oakland County per-foot and per-unit cost math.",
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-21-hoa-condo-common-fence-oakland-county"
+      },
+      "image": "https://bffence.com/blog/2026-11-21-hoa-condo-common-fence-oakland-county/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Community association fencing in Oakland County, Michigan: determining whether a neighborhood is a deed-restricted subdivision, a site condominium, or an attached condominium; the Michigan Condominium Act, MCL 559.101 et seq., and the definitions of common elements, general common elements, and limited common elements; allocation of fence expense under MCL 559.169; the Fence Viewers Act, MCL 43.51 through 43.55, and proportional cost sharing between adjoining owners; reserve-fund requirements under MCL 559.205 and Mich Admin Code R 559.511; reserve studies and percent-funded ratios; board budget cycles and spring construction scheduling; bid-package specifications for common-fence replacement; certificates of insurance and workers compensation; architectural review and consistent enforcement; phasing a replacement against weathered cedar; and 2026 per-linear-foot and per-unit cost math for Oakland County associations"
+      },
+      "keywords": [
+        "HOA fence rules Michigan",
+        "who owns the fence in a subdivision",
+        "who is responsible for the fence between two homes Michigan",
+        "condominium association fence replacement",
+        "common element vs limited common element fence",
+        "MCL 559.169 fence",
+        "Michigan Condominium Act fence",
+        "site condominium fence responsibility",
+        "fence viewers act Michigan",
+        "HOA reserve fund fence replacement",
+        "can an HOA use reserve funds for a fence",
+        "how much should an HOA budget for fence replacement",
+        "HOA fence bid package",
+        "HOA fence cost per lot",
+        "architectural review fence approval Michigan",
+        "matching weathered cedar fence replacement",
+        "Oakland County HOA fence",
+        "commercial fence contractor Auburn Hills"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-21-hoa-condo-common-fence-oakland-county#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who is responsible for the fence between two homes in a Michigan subdivision?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the recorded documents first and Michigan law second. If the fence sits on private property, the owner who built it pays for it under MCL 43.53, and an adjoining owner who uses it may owe a proportional share determined by a fence viewer. If the association's restrictions or master deed assign the fence to the association, the association pays."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a Michigan HOA have to approve my fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only if the recorded declaration, bylaws, or architectural guidelines give it that authority, which most do. The approval criteria should be written, applied consistently, and decided within a stated window. A city permit may also be required, and an association approval does not replace it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can my HOA make me remove a fence that was already there when I bought the house?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Possibly, depending on the documents. Many declarations grandfather pre-existing fences until replacement, while others require compliance on any change of ownership or reconstruction. The board should be able to cite the specific provision, and the answer should be the same for every owner."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much should an HOA budget for fence replacement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Budget from measurement, not from a rule of thumb. A six-foot board-on-board cedar run in Oakland County in 2026 runs roughly $55 to $70 per linear foot installed, including tear-out and disposal and excluding gates and staining. A 400-foot common run is therefore a $22,000 to $28,000 line item."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a fence a common element or a limited common element?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the master deed and the condominium plan. A fence on common area is generally a general common element paid by the association. A fence reserved to specific units is a limited common element specially assessed to those units under MCL 559.169. In many site condominiums, the yard is part of the unit, which makes the fence private."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an HOA use reserve funds to replace a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if the fence is a common element being repaired or replaced and the documents permit it. Under MCL 559.205 and Mich Admin Code R 559.511, the reserve fund exists for major repair and replacement of common elements and must be at least 10% of the current annual budget, noncumulative. Using it for routine upkeep is not allowed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does an HOA fence replacement take from approval to finished fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Plan on four to six months. Bidding takes two to three weeks, contract and material ordering another four to eight weeks, permits vary by city, and construction of a 400-foot run with tear-out is typically three to five days of on-site work once the ground is workable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should be in an HOA fence bid package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nine items: measured linear feet by run, height and style, post and rail specifications, species and grade, footing depth below frost, gate count and hardware, removal and disposal, finish specification, and insurance, permits, schedule, and warranty. Requiring all nine in writing is what makes three bids comparable."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation, repair, cleaning, staining and restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with post reset, section repair, board and picket replacement, fence washing and brightening, staining and sealing, removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities. BF Fence builds and replaces common-area and perimeter fencing for homeowners associations, condominium associations, and small commercial properties.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-21-hoa-condo-common-fence-oakland-county/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Birmingham"
+        },
+        {
+          "@type": "City",
+          "name": "Clawson"
+        },
+        {
+          "@type": "City",
+          "name": "Royal Oak"
+        },
+        {
+          "@type": "City",
+          "name": "Madison Heights"
+        },
+        {
+          "@type": "City",
+          "name": "Lake Orion"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        },
+        {
+          "@type": "City",
+          "name": "Waterford"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        },
+        {
+          "@type": "City",
+          "name": "Pontiac"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bloomfield Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Independence Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Orion Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#hoa-common-fence-replacement",
+      "name": "HOA and Condominium Association Common Fence Replacement in Oakland County, Michigan",
+      "description": "Common-area and perimeter fence replacement for homeowners associations, site condominiums, condominium associations, and multi-family properties: measured scoping by run, written specification packages for board bidding, board-on-board cedar and treated-wood construction, posts set below Michigan's 42-inch frost line, tear-out and concrete removal, gate and hardware replacement, phased replacement at natural breaks to match weathered material, staining and sealing, permit coordination, and certificates of insurance with the association named as additional insured.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "HOA Common Fence Replacement, Condominium Association Fence Installation, Site Condominium Fence Repair, Common-Area Perimeter Fencing, Multi-Family Property Fencing, Dumpster Enclosure Screening, Pool and Playground Enclosure Fencing, Phased Fence Replacement, Fence Removal and Disposal, Wood Fence Staining and Sealing, Board Bid Package Preparation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "HOA board members budgeting for common-fence replacement in Oakland County",
+          "Condominium and site condominium association boards",
+          "Property managers responsible for multi-family and community perimeter fencing",
+          "Homeowners researching who owns the fence between two lots in a Michigan subdivision"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Lake Orion",
+        "Birmingham",
+        "Royal Oak",
+        "Madison Heights"
+      ]
+    }
+  ]
+}
