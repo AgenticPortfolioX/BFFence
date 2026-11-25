@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-25",
+      "headline": "Pool Fence Code in Michigan: What a Compliant Pool Barrier Actually Requires in Oakland County — and Why a Gate That Latches in October Won't in February",
+      "description": "A Michigan fence contractor's guide to residential pool barrier code: which code edition is actually in force (the 2015 Michigan Residential Code and 2015 ISPSC, with the 2021 update paused by a Court of Claims order), the nine measurements in ISPSC Section 305, why horizontal rail placement decides whether a wood fence is a legal barrier, gate release geometry and hardware, door alarm requirements when the house wall is part of the barrier, above-ground pool wall-as-barrier conditions, the hot tub cover exception, the 36-inch clear zone, permit paths in Rochester Hills, Troy, Waterford, and White Lake, what Michigan frost heave does to a self-closing gate, winter cover versus safety cover, 2026 Oakland County costs, and insurance and resale consequences.",
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-25-pool-fence-code-oakland-county-michigan"
+      },
+      "image": "https://bffence.com/blog/2026-11-25-pool-fence-code-oakland-county-michigan/feature_image.png",
+      "about": {
+        "@type": "Thing",
+        "name": "Residential pool barrier code in Michigan as enforced in Oakland County: the 2015 Michigan Residential Code and 2015 International Swimming Pool and Spa Code adoption status after the 2021 code was paused by a Michigan Court of Claims order; ISPSC Section 305 dimensional requirements including barrier height measured from the exterior, the 4-inch sphere test, bottom clearance, closely spaced and widely spaced horizontal member rules, chain link and diagonal member limits, and the 36-inch clear zone; gate self-closing and self-latching requirements including the 54-inch release height and pool-side release geometry; UL 2017 door alarm performance when the house wall forms part of the barrier; above-ground pool wall-as-barrier conditions and ladder requirements; ASTM F1346 lockable and powered safety cover exceptions; municipal permit paths and setbacks in Rochester Hills, Troy, Waterford Township, and White Lake Township; Michigan frost depth and frost heave effects on gate post alignment and latching; and 2026 installed cost ranges for wood, vinyl, aluminum, removable mesh, and glass pool fencing"
+      },
+      "keywords": [
+        "pool fence code Michigan",
+        "pool barrier requirements Michigan",
+        "pool fence requirements Oakland County",
+        "ISPSC section 305 barrier",
+        "48 inch pool fence",
+        "4 inch sphere test pool fence",
+        "pool fence rails on pool side",
+        "self-closing self-latching pool gate",
+        "pool gate latch height 54 inches",
+        "pool fence permit Michigan",
+        "above ground pool fence requirements Michigan",
+        "hot tub fence requirements Michigan",
+        "pool safety cover vs fence",
+        "ASTM F1346 pool cover",
+        "door alarm requirement pool barrier",
+        "36 inch clear zone pool fence",
+        "pool fence cost Michigan",
+        "wood pool fence Oakland County",
+        "attractive nuisance pool insurance",
+        "pool fence frost heave Michigan"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-25-pool-fence-code-oakland-county-michigan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does Michigan require a fence around a swimming pool?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Michigan has no standalone pool-fence statute, but the residential code points to the International Swimming Pool and Spa Code, and Section 305 requires a barrier around any residential pool. Local departments enforce it, and most inspect the barrier before the pool is filled."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How tall does a pool fence have to be in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "48 inches minimum, measured from grade on the side facing away from the pool and held for three feet beyond the barrier. Some Michigan communities require 60 inches — one Oakland County pool builder reports that in Bloomfield Hills, Birmingham, and Beverly Hills — so confirm before ordering posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which code edition applies to a Michigan pool right now?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 2015 Michigan Residential Code, which sends pools to the 2015 ISPSC. A 2021 update was filed May 1, 2025, but a July 7, 2025 Court of Claims order paused it, and LARA says the 2015 editions remain in effect. Troy's building department confirms it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do the horizontal rails on my fence have to face the pool?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only when the tops of the rails are less than 45 inches apart. In that case the rails must be on the pool side and vertical spacing cannot exceed 1.75 inches. If the rails are 45 inches apart or more, they can face either direction and vertical spacing can go to 4 inches."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a pool safety cover replace the fence requirement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only a cover rated to ASTM F1346, and only where your building department accepts it. White Lake Township does not accept a powered cover as the barrier for a pool. A standard tarp winter cover is not a safety device and never counts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the back wall of my house count as part of the pool barrier?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, but every door from the house to the pool area then needs a compliant alarm, self-closing and self-latching hardware, or a rated powered cover. Alarms should meet UL 2017 — audible within seven seconds, 85 decibels at ten feet, deactivation switch at least 54 inches high."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my pool gate stop latching in the winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frost heave moves the gate post a quarter inch and the latch misses the strike; Michigan's freeze-thaw cycle lifts and settles shallow footings all winter. Set gate posts deeper, use through-bolted hinges and a gravity latch with travel, and check the gate every few weeks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a pool fence cost in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Removable mesh panels run about $15 to $35 per linear foot installed; a 6-foot board-on-board cedar fence runs $55 to $70 per linear foot including tear-out. A 90-foot backyard enclosure in cedar typically lands between $5,000 and $6,500 before gates, staining, and permit."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation, repair, cleaning, staining and restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to frost depth, with post reset, section repair, board and picket replacement, fence washing and brightening, staining and sealing, removal, replacement, and permit coordination across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities. BF Fence builds code-compliant pool and spa enclosures for homeowners, including rail-side and picket-spacing corrections, self-closing and self-latching gate hardware, and barrier remediation.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-25-pool-fence-code-oakland-county-michigan/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Troy" },
+        { "@type": "City", "name": "Auburn Hills" },
+        { "@type": "City", "name": "Rochester Hills" },
+        { "@type": "City", "name": "Rochester" },
+        { "@type": "City", "name": "Novi" },
+        { "@type": "City", "name": "Bloomfield Hills" },
+        { "@type": "City", "name": "Birmingham" },
+        { "@type": "City", "name": "Clawson" },
+        { "@type": "City", "name": "Royal Oak" },
+        { "@type": "City", "name": "Madison Heights" },
+        { "@type": "City", "name": "Lake Orion" },
+        { "@type": "City", "name": "Clarkston" },
+        { "@type": "City", "name": "Waterford" },
+        { "@type": "City", "name": "White Lake" },
+        { "@type": "City", "name": "Pontiac" },
+        { "@type": "AdministrativeArea", "name": "Bloomfield Township" },
+        { "@type": "AdministrativeArea", "name": "Independence Township" },
+        { "@type": "AdministrativeArea", "name": "Orion Township" },
+        { "@type": "AdministrativeArea", "name": "Oakland County" }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#pool-barrier-fencing",
+      "name": "Pool Barrier and Pool Enclosure Fencing in Oakland County, Michigan",
+      "description": "Residential pool, spa, and hot tub barrier fencing built to the Michigan Residential Code and the 2015 International Swimming Pool and Spa Code as enforced by Oakland County building departments: measured barrier layout with 48-inch exterior height and 3-foot perimeter verification, 4-inch sphere opening checks, rail-side and picket-spacing compliance for closely spaced horizontal members, board-on-board and picket pool enclosures, self-closing and self-latching gate hardware with compliant release geometry, gate post setting below Michigan frost depth, clear-zone correction, above-ground pool enclosure and ladder containment, barrier inspection preparation, and documented compliance checks for existing fences.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": "Pool Barrier Fencing, Pool Enclosure Installation, Spa and Hot Tub Enclosure Fencing, Above-Ground Pool Fencing, Self-Closing Gate Hardware Installation, Pool Fence Compliance Repair, Rail-Side Correction, Picket Spacing Correction, Clear-Zone Correction, Barrier Inspection Preparation, Wood Pool Fence Installation",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Homeowners in Oakland County with an in-ground pool, above-ground pool, spa, or hot tub",
+          "Buyers and sellers of homes with pools who need a barrier compliance check",
+          "Parents and grandparents installing a first barrier around a backyard pool",
+          "Homeowners correcting an existing wood fence that failed a barrier inspection"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Lake Orion",
+        "Birmingham",
+        "Royal Oak",
+        "Waterford",
+        "White Lake"
+      ]
+    }
+  ]
+}
