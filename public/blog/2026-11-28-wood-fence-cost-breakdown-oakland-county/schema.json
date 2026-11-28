@@ -1,0 +1,294 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://bffence.com/#article-2026-11-28",
+      "headline": "What a Wood Fence Actually Costs in Oakland County: A 2026–27 Line-by-Line Breakdown, From the Post Holes to the Permit",
+      "description": "A Michigan fence contractor's line-by-line breakdown of what a wood fence actually costs in Oakland County for the 2026–27 pricing cycle: published installed ranges by material and height for cedar, pressure-treated pine, vinyl, aluminum and composite; the complete anatomy of a 160-linear-foot cedar privacy quote down to pickets, posts, rails, concrete, fasteners, removal, permit, labor, equipment and overhead; the seven site conditions that add 10–40% and what each costs in dollars; the eight substitutions a low bid makes and the 15-year cost of each; gate pricing; the $600 Michigan licensing threshold and written-contract requirements under MCL 339.2412; no statewide deposit cap and notice of commencement; 15-year total cost of ownership including staining; and why a late-November quote differs from a May quote.",
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "author": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://bffence.com/#organization",
+        "name": "BF Fence",
+        "url": "https://bffence.com/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bffence.com/blog/2026-11-28-wood-fence-cost-breakdown-oakland-county"
+      },
+      "image": "https://bffence.com/blog/2026-11-28-wood-fence-cost-breakdown-oakland-county/feature_image.png",
+      "articleSection": "Cost & Value",
+      "about": {
+        "@type": "Thing",
+        "name": "Installed cost of residential wood fencing in Oakland County, Michigan for the 2026–27 pricing cycle: per-linear-foot ranges for eastern white cedar, western red cedar, pressure-treated pine, vinyl, ornamental aluminum and composite at four, five, six and eight foot heights; line-item quote anatomy covering pickets, posts, rails, concrete volume, stainless ring-shank fasteners, gate hardware, removal and disposal, permit fees, labor days, equipment and overhead; site-condition adders for grade changes, heavy clay and glacial till, tight access, tree roots, corner-lot setbacks and frozen-ground installation; the eight substitutions commonly used to lower a fence bid (post spacing, post embedment, rail count, fastener grade, picket dimension, staining exclusion, permit exclusion, gate hardware) and their fifteen-year repair cost; Michigan frost depth of 42 inches under Michigan Residential Code R403.1.4 and the 48-inch post standard; the Michigan Occupational Code $600 licensing threshold and MCL 339.2412 written-contract requirement; Michigan having no statewide contractor deposit cap; notice of commencement recording; 2025–26 Canadian softwood antidumping and countervailing duties rising from 14.4% to 35.19% with an effective burden near 35% after the Section 232 tariff; and off-season winter installation pricing"
+      },
+      "keywords": [
+        "wood fence cost Oakland County",
+        "fence cost per linear foot Michigan",
+        "cedar fence cost Michigan",
+        "6 foot privacy fence cost",
+        "board on board fence cost",
+        "fence installation cost Oakland County",
+        "fence removal cost per linear foot",
+        "fence gate cost installed",
+        "fence permit cost Oakland County",
+        "fence permit Rochester Hills",
+        "fence staining cost per linear foot",
+        "fence quote line items",
+        "cedar vs pressure treated pine cost",
+        "is cedar worth it Michigan fence",
+        "wood fence cost calculator Michigan",
+        "fence deposit Michigan",
+        "Michigan residential builder license fence",
+        "fence cost 2027",
+        "fence cost Auburn Hills",
+        "fence cost Rochester Hills",
+        "fence cost Troy Michigan",
+        "winter fence installation discount Michigan",
+        "lumber tariffs 2026 fence prices",
+        "wood fence 15 year cost"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bffence.com/blog/2026-11-28-wood-fence-cost-breakdown-oakland-county#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a 6-foot wood fence cost per linear foot in Oakland County?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eastern white cedar runs $34 to $44 per linear foot installed and pressure-treated pine runs $26 to $34 for a standard dog-ear privacy build on level ground with good access. Board-on-board western red cedar runs $44 to $58. Gates, old-fence removal, permits and staining are priced separately and typically add 15 to 25 percent to the total."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cedar worth the extra cost over pressure-treated pine in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually yes if you are staying in the house more than eight years. Treated pine costs roughly $8 per foot less installed but moves more through freeze-thaw cycles and needs its first finish sooner. Cedar's natural rot resistance holds up longer through wet-dry cycling and takes repairs invisibly. If you plan to sell within three years, pine is the rational buy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does removing the old fence cost extra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Removal runs about $3 to $5 per linear foot, or $480 to $800 on a 160-foot run, including hauling and disposal. It is frequently left out of a low bid, which is one reason two quotes for the same fence can differ by several hundred dollars before anything else is compared."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a gate add to a fence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A four-foot cedar walk gate runs about $450 to $900 installed. A five-foot double drive gate runs $1,100 to $2,600. Cost depends on frame construction, hinge count, hardware quality, and whether the gate must be self-closing or self-latching. Count the gates in each bid before comparing totals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a permit for a fence in Oakland County, and who pulls it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most Oakland County communities require a fence permit, typically $50 to $250 with a one-to-two-week review; Rochester Hills publishes a $50 to $175 band. The contractor is responsible for obtaining required permits, and a Michigan residential contract above $600 must state that. Height limits and setback lines differ by municipality, so confirm your city's rules first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What deposit should I pay a fence contractor in Michigan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Michigan sets no statewide cap on deposits, so treat it as a negotiation. A deposit covering materials and mobilization is normal; paying the full job up front is not, and LARA's homeowner guidance says never to do it. Pay by check to the company name, get a receipt, and tie progress payments to completed milestones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it cheaper to have a fence installed in winter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Often by 5 to 10 percent, and scheduling is faster because the spring backlog has not formed. Frozen ground changes how holes are dug but does not prevent installation. The one step that must wait is staining and sealing, which needs sustained temperatures above roughly 50 degrees Fahrenheit, so the finish usually happens the following spring."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to stain a new wood fence, and how often?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "About $1.50 to $3.00 per linear foot per application, or $240 to $480 on a 160-foot fence, every two to three years. A new cedar fence should get its first finish within six to twelve months once the wood has dried, then on a two-to-three-year cycle. Skipping it does not save the money; it moves the cost to board replacement."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://bffence.com/#localbusiness",
+      "name": "BF Fence",
+      "legalName": "Renowned Value Restoration LLC",
+      "description": "Custom residential and commercial wooden fence installation, repair, cleaning, staining and restoration serving Oakland County, Michigan. Cedar and treated-wood privacy fencing built to Michigan frost depth with posts set 48 inches in concrete, plus line-item written estimates, old-fence removal, permit coordination, gate construction and hardware, post reset, section repair, board and picket replacement, and fence washing, brightening, staining and sealing across Troy, Auburn Hills, Rochester Hills, Rochester, Novi, Bloomfield Township, Clarkston, Lake Orion and the surrounding communities.",
+      "url": "https://bffence.com/",
+      "logo": "https://bffence.com/wp-content/uploads/logo.png",
+      "image": "https://bffence.com/blog/2026-11-28-wood-fence-cost-breakdown-oakland-county/feature_image.png",
+      "telephone": "(248)604-6168",
+      "email": "estimate@bffence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2711 Williamsburg Cir",
+        "addressLocality": "Auburn Hills",
+        "addressRegion": "MI",
+        "postalCode": "48326",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Troy"
+        },
+        {
+          "@type": "City",
+          "name": "Auburn Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Rochester"
+        },
+        {
+          "@type": "City",
+          "name": "Novi"
+        },
+        {
+          "@type": "City",
+          "name": "Bloomfield Hills"
+        },
+        {
+          "@type": "City",
+          "name": "Birmingham"
+        },
+        {
+          "@type": "City",
+          "name": "Clawson"
+        },
+        {
+          "@type": "City",
+          "name": "Royal Oak"
+        },
+        {
+          "@type": "City",
+          "name": "Madison Heights"
+        },
+        {
+          "@type": "City",
+          "name": "Lake Orion"
+        },
+        {
+          "@type": "City",
+          "name": "Clarkston"
+        },
+        {
+          "@type": "City",
+          "name": "Waterford"
+        },
+        {
+          "@type": "City",
+          "name": "White Lake"
+        },
+        {
+          "@type": "City",
+          "name": "Pontiac"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bloomfield Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Independence Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Orion Township"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oakland County"
+        }
+      ],
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/bffence",
+        "https://nextdoor.com/pages/bffence"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://bffence.com/#wood-fence-installation-estimating",
+      "name": "Wood Fence Installation and Line-Item Estimating in Oakland County, Michigan",
+      "description": "Custom cedar and pressure-treated wood fence installation with written line-item estimates: measured linear footage and height survey, species and grade specification, 4x4 or 6x6 post layout at 6 or 8 foot spacing, posts set 48 inches in concrete below Michigan's 42-inch frost depth, three-rail framing, dog-ear and board-on-board picket builds, framed and braced gate construction with adjustable hardware, old-fence removal and disposal, permit application and inspection coordination, staining and sealing scheduling, and winter installation for off-season scheduling.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "https://bffence.com/#localbusiness"
+      },
+      "serviceType": [
+        "Wood Fence Installation",
+        "Cedar Privacy Fence Installation",
+        "Pressure-Treated Pine Fence Installation",
+        "Board-on-Board Fence Installation",
+        "Fence Removal and Disposal",
+        "Fence Gate Construction",
+        "Fence Permit Coordination",
+        "Fence Staining and Sealing",
+        "Fence Post Reset and Repair",
+        "Winter Fence Installation",
+        "Fence Cost Estimating"
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": [
+          "Homeowners in Oakland County planning a spring or winter fence installation",
+          "Homeowners comparing multiple fence bids and needing line-item clarity",
+          "Buyers of homes with a failing or aging wood fence",
+          "Small commercial property owners needing perimeter demarcation"
+        ]
+      },
+      "areaServed": [
+        "Metro Detroit",
+        "Oakland County",
+        "Troy",
+        "Auburn Hills",
+        "Rochester Hills",
+        "Rochester",
+        "Novi",
+        "Bloomfield Township",
+        "Clarkston",
+        "Lake Orion",
+        "Birmingham",
+        "Royal Oak",
+        "Waterford",
+        "White Lake"
+      ]
+    }
+  ]
+}
