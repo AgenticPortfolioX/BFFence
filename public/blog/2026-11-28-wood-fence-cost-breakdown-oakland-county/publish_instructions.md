@@ -36,7 +36,7 @@
 
 - [ ] First character of the rendered body is the H1, not a stray `---`
 - [ ] Byline line is absent (it was intentionally omitted to avoid a setext H2)
-- [ ] Seven tables render as tables, not pipe-delimited text
+- [ ] Six tables render as tables, not pipe-delimited text (renderer fixed 2026-11-28 — verified live: 6 `<table>` elements, 0 raw pipe lines)
 - [ ] All seven internal links resolve (2026-11-18, 2026-10-28, 2026-10-31, 2026-10-10, 2026-09-30 candidate links)
 - [ ] FAQ questions visible on page match schema count (8)
 - [ ] Rich Results Test passes for Article and FAQPage
