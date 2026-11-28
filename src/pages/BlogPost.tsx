@@ -81,52 +81,105 @@ export const BlogPost = () => {
     </div>
   );
 
-        // Simple Markdown parser for highlights
-  const renderMarkdown = (text: string) => {
-    return text
-      .split('\n')
-      .map((line, i) => {
-        if (line.startsWith('# ')) return <h1 key={i} className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-8 mt-12 text-balance">{line.replace('# ', '')}</h1>;
-        if (line.startsWith('## ')) return <h2 key={i} className="text-3xl font-serif font-bold text-foreground mb-6 mt-10">{line.replace('## ', '')}</h2>;
-        if (line.startsWith('### ')) return <h3 key={i} className="text-2xl font-serif font-bold text-foreground mb-4 mt-8">{line.replace('### ', '')}</h3>;
-        if (line.startsWith('> ')) return <blockquote key={i} className="border-l-4 border-accent pl-6 py-2 italic text-xl text-foreground/80 my-8 bg-accent/5 rounded-r-xl shadow-sm">{line.replace('> ', '')}</blockquote>;
-        if (line.startsWith('- ')) return <li key={i} className="ml-6 mb-3 list-disc text-lg text-foreground/70 marker:text-accent pl-2">{line.replace('- ', '')}</li>;
-        if (line.trim() === '') return <div key={i} className="h-4" />;
-        
-        // Handle bolding **text** and links [text](url)
-        let content: any[] = [line];
-
-        // 1. Handle Bolding
-        content = content.flatMap(part => {
-          if (typeof part !== 'string') return [part];
-          const subParts = part.split(/(\*\*.*?\*\*)/);
-          return subParts.map((sub, j) => {
-            if (sub.startsWith('**') && sub.endsWith('**')) {
-              return <strong key={j} className="font-bold text-foreground">{sub.slice(2, -2)}</strong>;
-            }
-            return sub;
-          });
-        });
-
-        // 2. Handle Links
-        content = content.flatMap(part => {
-          if (typeof part !== 'string') return [part];
-          const subParts = part.split(/(\[.*?\]\(.*?\))/);
-          return subParts.map((sub, j) => {
-            const linkMatch = sub.match(/\[(.*?)\]\((.*?)\)/);
-            if (linkMatch) {
-              return (
-                <a key={j} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="text-accent underline hover:text-accent/80 transition-colors font-medium">
-                  {linkMatch[1]}
-                </a>
-              );
-            }
-            return sub;
-          });
-        });
-
-        return <p key={i} className="text-lg text-foreground/70 leading-relaxed mb-6 font-light">{content}</p>;
+  // Markdown renderer: headings, lists, quotes, GFM tables, bold, links
+  const renderInline = (text: string, keyPrefix: string) => {
+    let parts: any[] = [text];
+    parts = parts.flatMap((part) => {
+      if (typeof part !== 'string') return [part];
+      return part.split(/(\*\*.*?\*\*)/).map((sub, j) => {
+        if (sub.startsWith('**') && sub.endsWith('**')) {
+          return <strong key={`${keyPrefix}-b${j}`} className="font-bold text-foreground">{sub.slice(2, -2)}</strong>;
+        }
+        return sub;
       });
+    });
+    parts = parts.flatMap((part) => {
+      if (typeof part !== 'string') return [part];
+      return part.split(/(\[.*?\]\(.*?\))/).map((sub, j) => {
+        const linkMatch = sub.match(/\[(.*?)\]\((.*?)\)/);
+        if (linkMatch) {
+          return (
+            <a key={`${keyPrefix}-a${j}`} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="text-accent underline hover:text-accent/80 transition-colors font-medium">
+              {linkMatch[1]}
+            </a>
+          );
+        }
+        return sub;
+      });
+    });
+    return parts;
+  };
+
+  const splitRow = (line: string) =>
+    line.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim());
+
+  const renderMarkdown = (text: string) => {
+    const lines = text.split('\n');
+    const out: any[] = [];
+    let i = 0;
+
+    while (i < lines.length) {
+      const line = lines[i];
+
+      // GFM table block
+      if (line.trim().startsWith('|')) {
+        const block: string[] = [];
+        while (i < lines.length && lines[i].trim().startsWith('|')) {
+          block.push(lines[i]);
+          i++;
+        }
+        const rows = block.filter((r) => !/^\|[\s:|-]+\|?$/.test(r.trim()));
+        if (rows.length) {
+          const header = splitRow(rows[0]);
+          const body = rows.slice(1).map(splitRow);
+          out.push(
+            <div key={`tbl-${i}`} className="overflow-x-auto my-10 rounded-2xl border border-secondary/20 shadow-sm">
+              <table className="w-full border-collapse text-left text-base">
+                <thead className="bg-accent/10">
+                  <tr>
+                    {header.map((h, hi) => (
+                      <th key={hi} className="px-4 py-3 font-bold text-foreground border-b border-secondary/20 align-bottom">
+                        {renderInline(h, `th-${i}-${hi}`)}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {body.map((cells, ri) => (
+                    <tr key={ri} className={ri % 2 ? 'bg-secondary/5' : ''}>
+                      {cells.map((c, ci) => (
+                        <td key={ci} className="px-4 py-3 text-foreground/70 align-top border-b border-secondary/10">
+                          {renderInline(c, `td-${i}-${ri}-${ci}`)}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          );
+        }
+        continue;
+      }
+
+      if (line.startsWith('# ')) {
+        out.push(<h1 key={i} className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-8 mt-12 text-balance">{line.replace('# ', '')}</h1>);
+      } else if (line.startsWith('## ')) {
+        out.push(<h2 key={i} className="text-3xl font-serif font-bold text-foreground mb-6 mt-10">{line.replace('## ', '')}</h2>);
+      } else if (line.startsWith('### ')) {
+        out.push(<h3 key={i} className="text-2xl font-serif font-bold text-foreground mb-4 mt-8">{line.replace('### ', '')}</h3>);
+      } else if (line.startsWith('> ')) {
+        out.push(<blockquote key={i} className="border-l-4 border-accent pl-6 py-2 italic text-xl text-foreground/80 my-8 bg-accent/5 rounded-r-xl shadow-sm">{line.replace('> ', '')}</blockquote>);
+      } else if (line.startsWith('- ')) {
+        out.push(<li key={i} className="ml-6 mb-3 list-disc text-lg text-foreground/70 marker:text-accent pl-2">{renderInline(line.replace('- ', ''), `li-${i}`)}</li>);
+      } else if (line.trim() === '') {
+        out.push(<div key={i} className="h-4" />);
+      } else {
+        out.push(<p key={i} className="text-lg text-foreground/70 leading-relaxed mb-6 font-light">{renderInline(line, `p-${i}`)}</p>);
+      }
+      i++;
+    }
+    return out;
   };
 
   return (
